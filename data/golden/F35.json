@@ -1,0 +1,113 @@
+{
+  "id": "F35",
+  "archivo": "data/facturas/limpias/F35.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "B",
+    "proveedor": {
+      "razonSocial": "Molino Tres Ríos S.A.",
+      "cuit": "30-71988236-2"
+    },
+    "puntoVenta": 7,
+    "numero": 2055,
+    "fecha": "2026-10-19",
+    "items": [
+      {
+        "codigo": "MT-FS500",
+        "descripcion": "Fideos spaghetti 500 g x 20",
+        "cantidad": 40,
+        "precioUnitario": 20706.29,
+        "bonificacionPct": 3,
+        "importe": 803404.05,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "MT-H0000",
+        "descripcion": "Harina 0000 1 kg x 10",
+        "cantidad": 35,
+        "precioUnitario": 10337.83,
+        "bonificacionPct": 0,
+        "importe": 361824.05,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "MT-GAL",
+        "descripcion": "Galletitas de agua 300 g x 24",
+        "cantidad": 29,
+        "precioUnitario": 34152.49,
+        "bonificacionPct": 5,
+        "importe": 940901.1,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "MT-H000",
+        "descripcion": "Harina 000 25 kg",
+        "cantidad": 10,
+        "precioUnitario": 18775.43,
+        "bonificacionPct": 0,
+        "importe": 187754.3,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "MT-SEM",
+        "descripcion": "Sémola 1 kg x 10",
+        "cantidad": 32,
+        "precioUnitario": 12725.8,
+        "bonificacionPct": 0,
+        "importe": 407225.6,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "MT-FM500",
+        "descripcion": "Fideos mostachol 500 g x 20",
+        "cantidad": 3,
+        "precioUnitario": 20354.63,
+        "bonificacionPct": 0,
+        "importe": 61063.89,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "MT-PRE",
+        "descripcion": "Premezcla para pizza 1 kg x 10",
+        "cantidad": 33,
+        "precioUnitario": 19398.74,
+        "bonificacionPct": 5,
+        "importe": 608150.5,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "MT-FS500",
+        "descripcion": "Fideos spaghetti 500 g x 20 (lote 986)",
+        "cantidad": 33,
+        "precioUnitario": 21016.57,
+        "bonificacionPct": 0,
+        "importe": 693546.81,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "MT-H0000",
+        "descripcion": "Harina 0000 1 kg x 10 (lote 323)",
+        "cantidad": 8,
+        "precioUnitario": 10578,
+        "bonificacionPct": 0,
+        "importe": 84624,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "MT-GAL",
+        "descripcion": "Galletitas de agua 300 g x 24 (lote 532)",
+        "cantidad": 27,
+        "precioUnitario": 32464.72,
+        "bonificacionPct": 15,
+        "importe": 745065.32,
+        "alicuotaIva": null
+      }
+    ],
+    "netoGravado": null,
+    "iva": [],
+    "percepciones": [],
+    "total": 4893559.62
+  },
+  "erroresEsperados": [],
+  "proveedorId": "molino"
+}

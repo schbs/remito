@@ -1,0 +1,59 @@
+{
+  "id": "F39",
+  "archivo": "data/facturas/limpias/F39.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "B",
+    "proveedor": {
+      "razonSocial": "Molino Tres Ríos S.A.",
+      "cuit": "30-71988236-2"
+    },
+    "puntoVenta": 7,
+    "numero": 2075,
+    "fecha": "2026-10-23",
+    "items": [
+      {
+        "codigo": "MT-FM500",
+        "descripcion": "Fideos mostachol 500 g x 20",
+        "cantidad": 37,
+        "precioUnitario": 21368.22,
+        "bonificacionPct": 0,
+        "importe": 790624.14,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "MT-PRE",
+        "descripcion": "Premezcla para pizza 1 kg x 10",
+        "cantidad": 23,
+        "precioUnitario": 19286.5,
+        "bonificacionPct": 0,
+        "importe": 443589.5,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "MT-H000",
+        "descripcion": "Harina 000 25 kg",
+        "cantidad": 31,
+        "precioUnitario": 19167.36,
+        "bonificacionPct": 0,
+        "importe": 594188.16,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "MT-H0000",
+        "descripcion": "Harina 0000 1 kg x 10",
+        "cantidad": 33,
+        "precioUnitario": 10087.21,
+        "bonificacionPct": 0,
+        "importe": 332877.93,
+        "alicuotaIva": null
+      }
+    ],
+    "netoGravado": null,
+    "iva": [],
+    "percepciones": [],
+    "total": 2161279.73
+  },
+  "erroresEsperados": [],
+  "proveedorId": "molino"
+}

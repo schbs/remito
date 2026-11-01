@@ -1,0 +1,51 @@
+{
+  "name": "remito",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI invoice reader for a fictional distributor: extraction, arithmetic validation and human review (demo project, fictional invoices).",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev -p 3205",
+    "build": "next build",
+    "start": "next start -p 3205",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "check-env": "node scripts/check-env.mjs",
+    "facturas": "tsx scripts/generate-invoices.ts",
+    "accuracy": "tsx scripts/accuracy.ts",
+    "test:e2e": "playwright test",
+    "lighthouse": "node scripts/lighthouse.mjs",
+    "dev:real": "node scripts/dev-real.mjs",
+    "google:autorizar": "node scripts/autorizar-google.mjs",
+    "planilla:crear": "tsx scripts/crear-planilla.ts",
+    "mails:demo": "tsx scripts/send-demo-mails.ts",
+    "procesar": "tsx scripts/procesar-gmail.ts",
+    "capturas": "tsx scripts/capturas.ts"
+  },
+  "dependencies": {
+    "next": "^16.4.3",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "server-only": "^0.0.1",
+    "zod": "^4.6.7",
+    "sharp": "^0.34.4"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@playwright/test": "^1.64.1",
+    "@secretlint/secretlint-rule-preset-recommend": "^9.3.4",
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^24.19.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.3",
+    "lighthouse": "^12.8.2",
+    "secretlint": "^9.3.4",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.7"
+  }
+}

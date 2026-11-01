@@ -1,0 +1,61 @@
+{
+  "id": "F37",
+  "archivo": "data/facturas/limpias/F37.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Frigorífico Meseta Blanca S.A.",
+      "cuit": "30-71988472-1"
+    },
+    "puntoVenta": 4,
+    "numero": 2986,
+    "fecha": "2026-10-22",
+    "items": [
+      {
+        "codigo": "000451",
+        "descripcion": "Hamburguesas 80 g x 36",
+        "cantidad": 31,
+        "precioUnitario": 18331.2,
+        "bonificacionPct": 0,
+        "importe": 568267.2,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "000433",
+        "descripcion": "Pollo entero congelado (kg)",
+        "cantidad": 176.3,
+        "precioUnitario": 3046.05,
+        "bonificacionPct": 0,
+        "importe": 537018.62,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "000415",
+        "descripcion": "Bola de lomo (kg)",
+        "cantidad": 101.9,
+        "precioUnitario": 9147.36,
+        "bonificacionPct": 0,
+        "importe": 932115.98,
+        "alicuotaIva": 10.5
+      }
+    ],
+    "netoGravado": 2037401.8,
+    "iva": [
+      {
+        "alicuota": 10.5,
+        "base": 1469134.6,
+        "importe": 154259.13
+      },
+      {
+        "alicuota": 21,
+        "base": 568267.2,
+        "importe": 119336.11
+      }
+    ],
+    "percepciones": [],
+    "total": 2310997.04
+  },
+  "erroresEsperados": [],
+  "proveedorId": "frigo"
+}

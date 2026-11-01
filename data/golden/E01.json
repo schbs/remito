@@ -1,0 +1,94 @@
+{
+  "id": "E01",
+  "archivo": "data/facturas/errores/E01.pdf",
+  "tipo": "error",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Bodega Piedra Callada S.R.L.",
+      "cuit": "30-71988118-8"
+    },
+    "puntoVenta": 2,
+    "numero": 8245,
+    "fecha": "2026-10-27",
+    "items": [
+      {
+        "codigo": "PC-SAU-75",
+        "descripcion": "Sauvignon blanc 750 ml x 6",
+        "cantidad": 3,
+        "precioUnitario": 31528.44,
+        "bonificacionPct": 15,
+        "importe": 80397.52,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "PC-MAL-75",
+        "descripcion": "Malbec reserva 750 ml x 6",
+        "cantidad": 11,
+        "precioUnitario": 43056,
+        "bonificacionPct": 15,
+        "importe": 402573.6,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "PC-DAM-5L",
+        "descripcion": "Tinto de mesa damajuana 5 L",
+        "cantidad": 40,
+        "precioUnitario": 10191,
+        "bonificacionPct": 0,
+        "importe": 407640,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "PC-ESP-75",
+        "descripcion": "Espumante extra brut 750 ml x 6",
+        "cantidad": 5,
+        "precioUnitario": 51437.16,
+        "bonificacionPct": 0,
+        "importe": 257185.8,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "PC-MER-75",
+        "descripcion": "Merlot joven 750 ml x 6",
+        "cantidad": 31,
+        "precioUnitario": 28601.88,
+        "bonificacionPct": 3,
+        "importe": 860058.53,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "PC-PIN-75",
+        "descripcion": "Pinot noir 750 ml x 6",
+        "cantidad": 28,
+        "precioUnitario": 46051.2,
+        "bonificacionPct": 2,
+        "importe": 1263644.93,
+        "alicuotaIva": 21
+      }
+    ],
+    "netoGravado": 3271500.38,
+    "iva": [
+      {
+        "alicuota": 21,
+        "base": 3271500.38,
+        "importe": 687015.08
+      }
+    ],
+    "percepciones": [
+      {
+        "concepto": "Percepción IIBB Neuquén",
+        "importe": 81787.51
+      },
+      {
+        "concepto": "Percepción IVA RG 2408",
+        "importe": 98145.01
+      }
+    ],
+    "total": 4139447.98
+  },
+  "erroresEsperados": [
+    "total_no_cierra"
+  ],
+  "proveedorId": "piedra"
+}

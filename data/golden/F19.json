@@ -1,0 +1,66 @@
+{
+  "id": "F19",
+  "archivo": "data/facturas/limpias/F19.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Frigorífico Meseta Blanca S.A.",
+      "cuit": "30-71988472-1"
+    },
+    "puntoVenta": 4,
+    "numero": 2967,
+    "fecha": "2026-09-24",
+    "items": [
+      {
+        "codigo": "000415",
+        "descripcion": "Bola de lomo (kg)",
+        "cantidad": 102.1,
+        "precioUnitario": 8791.68,
+        "bonificacionPct": 0,
+        "importe": 897630.53,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "000447",
+        "descripcion": "Chorizo parrillero (kg)",
+        "cantidad": 362.5,
+        "precioUnitario": 6876.87,
+        "bonificacionPct": 0,
+        "importe": 2492865.38,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "000433",
+        "descripcion": "Pollo entero congelado (kg)",
+        "cantidad": 318.9,
+        "precioUnitario": 3127.95,
+        "bonificacionPct": 0,
+        "importe": 997503.25,
+        "alicuotaIva": 10.5
+      }
+    ],
+    "netoGravado": 4387999.16,
+    "iva": [
+      {
+        "alicuota": 10.5,
+        "base": 1895133.78,
+        "importe": 198989.05
+      },
+      {
+        "alicuota": 21,
+        "base": 2492865.38,
+        "importe": 523501.73
+      }
+    ],
+    "percepciones": [
+      {
+        "concepto": "Percepción IIBB Neuquén",
+        "importe": 65819.99
+      }
+    ],
+    "total": 5176309.93
+  },
+  "erroresEsperados": [],
+  "proveedorId": "frigo"
+}

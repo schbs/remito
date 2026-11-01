@@ -1,0 +1,61 @@
+{
+  "id": "F33",
+  "archivo": "data/facturas/limpias/F33.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Bebidas Cumbre Andina S.A.",
+      "cuit": "30-71988590-6"
+    },
+    "puntoVenta": 12,
+    "numero": 8395,
+    "fecha": "2026-10-16",
+    "items": [
+      {
+        "codigo": "CA-CER",
+        "descripcion": "Cerveza rubia lata 473 ml x 24",
+        "cantidad": 16,
+        "precioUnitario": 39571.92,
+        "bonificacionPct": 0,
+        "importe": 633150.72,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-AGU",
+        "descripcion": "Agua mineral sin gas 2 L x 6",
+        "cantidad": 22,
+        "precioUnitario": 6619.02,
+        "bonificacionPct": 0,
+        "importe": 145618.44,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-ENE",
+        "descripcion": "Bebida energizante 473 ml x 24",
+        "cantidad": 35,
+        "precioUnitario": 51638.4,
+        "bonificacionPct": 0,
+        "importe": 1807344,
+        "alicuotaIva": 27
+      }
+    ],
+    "netoGravado": 2586113.16,
+    "iva": [
+      {
+        "alicuota": 21,
+        "base": 778769.16,
+        "importe": 163541.52
+      },
+      {
+        "alicuota": 27,
+        "base": 1807344,
+        "importe": 487982.88
+      }
+    ],
+    "percepciones": [],
+    "total": 3237637.56
+  },
+  "erroresEsperados": [],
+  "proveedorId": "comahue"
+}

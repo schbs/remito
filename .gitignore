@@ -1,0 +1,23 @@
+# claves (solo .env.example va al repo)
+.env*
+!.env.example
+
+# dependencias, compilados y reportes
+node_modules/
+.next/
+out/
+coverage/
+playwright-report/
+test-results/
+*.tsbuildinfo
+next-env.d.ts
+*.log
+
+# Vercel
+.vercel/
+
+# lo agrega `next dev` solo
+AGENTS.md
+
+# bandeja del modo real (documentos y estado de la casilla de demo)
+data/bandeja/

@@ -1,0 +1,90 @@
+{
+  "id": "E03",
+  "archivo": "data/facturas/errores/E03.pdf",
+  "tipo": "error",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Bebidas Cumbre Andina S.A.",
+      "cuit": "30-71988590-6"
+    },
+    "puntoVenta": 12,
+    "numero": 8424,
+    "fecha": "2026-10-28",
+    "items": [
+      {
+        "codigo": "CA-JUG",
+        "descripcion": "Jugo de manzana 1 L x 12",
+        "cantidad": 8,
+        "precioUnitario": 19542.6,
+        "bonificacionPct": 10,
+        "importe": 140706.72,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-ENE",
+        "descripcion": "Bebida energizante 473 ml x 24",
+        "cantidad": 20,
+        "precioUnitario": 54331.2,
+        "bonificacionPct": 2,
+        "importe": 1064891.52,
+        "alicuotaIva": 27
+      },
+      {
+        "codigo": "CA-COL2",
+        "descripcion": "Gaseosa cola 2,25 L x 8",
+        "cantidad": 25,
+        "precioUnitario": 15624.84,
+        "bonificacionPct": 0,
+        "importe": 390621,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-CER",
+        "descripcion": "Cerveza rubia lata 473 ml x 24",
+        "cantidad": 19,
+        "precioUnitario": 39228.48,
+        "bonificacionPct": 0,
+        "importe": 745341.12,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-SOD",
+        "descripcion": "Soda en sifón 2 L x 6",
+        "cantidad": 7,
+        "precioUnitario": 5239.08,
+        "bonificacionPct": 0,
+        "importe": 36673.56,
+        "alicuotaIva": 21
+      }
+    ],
+    "netoGravado": 2378233.92,
+    "iva": [
+      {
+        "alicuota": 21,
+        "base": 1313342.4,
+        "importe": 249535.06
+      },
+      {
+        "alicuota": 27,
+        "base": 1064891.52,
+        "importe": 287520.71
+      }
+    ],
+    "percepciones": [
+      {
+        "concepto": "Percepción IIBB Río Negro",
+        "importe": 47564.68
+      },
+      {
+        "concepto": "Impuestos internos",
+        "importe": 95129.36
+      }
+    ],
+    "total": 3057983.73
+  },
+  "erroresEsperados": [
+    "iva_incorrecto"
+  ],
+  "proveedorId": "comahue"
+}

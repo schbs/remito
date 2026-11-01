@@ -1,0 +1,86 @@
+{
+  "id": "F08",
+  "archivo": "data/facturas/limpias/F08.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "B",
+    "proveedor": {
+      "razonSocial": "Lácteos Ñire Sur S.A.",
+      "cuit": "30-71988001-7"
+    },
+    "puntoVenta": 3,
+    "numero": 5182,
+    "fecha": "2026-09-11",
+    "items": [
+      {
+        "codigo": "LS-305",
+        "descripcion": "Queso cremoso horma (kg)",
+        "cantidad": 366.9,
+        "precioUnitario": 10699,
+        "bonificacionPct": 2,
+        "importe": 3846953.84,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "LS-102",
+        "descripcion": "Leche descremada larga vida 1 L x 12",
+        "cantidad": 35,
+        "precioUnitario": 16288.05,
+        "bonificacionPct": 5,
+        "importe": 541577.66,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "LS-520",
+        "descripcion": "Dulce de leche 1 kg x 6",
+        "cantidad": 29,
+        "precioUnitario": 26089.46,
+        "bonificacionPct": 0,
+        "importe": 756594.34,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "LS-306",
+        "descripcion": "Queso de rallar horma (kg)",
+        "cantidad": 338.5,
+        "precioUnitario": 16527.56,
+        "bonificacionPct": 0,
+        "importe": 5594579.06,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "LS-101",
+        "descripcion": "Leche entera larga vida 1 L x 12",
+        "cantidad": 30,
+        "precioUnitario": 15667.52,
+        "bonificacionPct": 3,
+        "importe": 455924.83,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "LS-410",
+        "descripcion": "Manteca 200 g x 20",
+        "cantidad": 13,
+        "precioUnitario": 38016.26,
+        "bonificacionPct": 2,
+        "importe": 484327.15,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "LS-210",
+        "descripcion": "Yogur bebible frutilla 900 g x 6",
+        "cantidad": 35,
+        "precioUnitario": 15657.64,
+        "bonificacionPct": 7.5,
+        "importe": 506916.1,
+        "alicuotaIva": null
+      }
+    ],
+    "netoGravado": null,
+    "iva": [],
+    "percepciones": [],
+    "total": 12186872.98
+  },
+  "erroresEsperados": [],
+  "proveedorId": "nire"
+}

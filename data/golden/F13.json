@@ -1,0 +1,59 @@
+{
+  "id": "F13",
+  "archivo": "data/facturas/limpias/F13.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "B",
+    "proveedor": {
+      "razonSocial": "Química Limpia Austral S.R.L.",
+      "cuit": "30-71988354-7"
+    },
+    "puntoVenta": 1,
+    "numero": 8218,
+    "fecha": "2026-09-16",
+    "items": [
+      {
+        "codigo": "QA-JAB3",
+        "descripcion": "Jabón líquido para ropa 3 L x 4",
+        "cantidad": 1,
+        "precioUnitario": 33711.08,
+        "bonificacionPct": 0,
+        "importe": 33711.08,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "QA-BOL",
+        "descripcion": "Bolsa de residuos 60x90 x 100",
+        "cantidad": 7,
+        "precioUnitario": 10423.44,
+        "bonificacionPct": 0,
+        "importe": 72964.08,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "QA-DET750",
+        "descripcion": "Detergente concentrado 750 ml x 12",
+        "cantidad": 7,
+        "precioUnitario": 24343,
+        "bonificacionPct": 15,
+        "importe": 144840.85,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "QA-GUA",
+        "descripcion": "Guantes de látex talle M x 12 pares",
+        "cantidad": 20,
+        "precioUnitario": 8933.31,
+        "bonificacionPct": 0,
+        "importe": 178666.2,
+        "alicuotaIva": null
+      }
+    ],
+    "netoGravado": null,
+    "iva": [],
+    "percepciones": [],
+    "total": 430182.21
+  },
+  "erroresEsperados": [],
+  "proveedorId": "austral"
+}

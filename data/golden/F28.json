@@ -1,0 +1,56 @@
+{
+  "id": "F28",
+  "archivo": "data/facturas/limpias/F28.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Bodega Piedra Callada S.R.L.",
+      "cuit": "30-71988118-8"
+    },
+    "puntoVenta": 2,
+    "numero": 8211,
+    "fecha": "2026-10-04",
+    "items": [
+      {
+        "codigo": "PC-SAU-75",
+        "descripcion": "Sauvignon blanc 750 ml x 6",
+        "cantidad": 5,
+        "precioUnitario": 31023.48,
+        "bonificacionPct": 0,
+        "importe": 155117.4,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "PC-MER-75",
+        "descripcion": "Merlot joven 750 ml x 6",
+        "cantidad": 34,
+        "precioUnitario": 30076.8,
+        "bonificacionPct": 15,
+        "importe": 869219.52,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "PC-DAM-5L",
+        "descripcion": "Tinto de mesa damajuana 5 L",
+        "cantidad": 39,
+        "precioUnitario": 10171.25,
+        "bonificacionPct": 0,
+        "importe": 396678.75,
+        "alicuotaIva": 21
+      }
+    ],
+    "netoGravado": 1421015.67,
+    "iva": [
+      {
+        "alicuota": 21,
+        "base": 1421015.67,
+        "importe": 298413.29
+      }
+    ],
+    "percepciones": [],
+    "total": 1719428.96
+  },
+  "erroresEsperados": [],
+  "proveedorId": "piedra"
+}

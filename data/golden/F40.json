@@ -1,0 +1,41 @@
+{
+  "id": "F40",
+  "archivo": "data/facturas/limpias/F40.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "B",
+    "proveedor": {
+      "razonSocial": "Química Limpia Austral S.R.L.",
+      "cuit": "30-71988354-7"
+    },
+    "puntoVenta": 1,
+    "numero": 8278,
+    "fecha": "2026-10-24",
+    "items": [
+      {
+        "codigo": "QA-DET750",
+        "descripcion": "Detergente concentrado 750 ml x 12",
+        "cantidad": 25,
+        "precioUnitario": 23574.02,
+        "bonificacionPct": 15,
+        "importe": 500947.93,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "QA-DES900",
+        "descripcion": "Desinfectante de pisos 900 ml x 12",
+        "cantidad": 15,
+        "precioUnitario": 20518.72,
+        "bonificacionPct": 0,
+        "importe": 307780.8,
+        "alicuotaIva": null
+      }
+    ],
+    "netoGravado": null,
+    "iva": [],
+    "percepciones": [],
+    "total": 808728.73
+  },
+  "erroresEsperados": [],
+  "proveedorId": "austral"
+}

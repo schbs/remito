@@ -1,0 +1,13 @@
+.env*
+!.env.example
+notas/
+goals.md
+CLAUDE.md
+docs/
+scripts/
+tests/
+test-results/
+playwright-report/
+.next/
+node_modules/
+data/bandeja/

@@ -1,0 +1,50 @@
+{
+  "id": "F16",
+  "archivo": "data/facturas/limpias/F16.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "B",
+    "proveedor": {
+      "razonSocial": "Lácteos Ñire Sur S.A.",
+      "cuit": "30-71988001-7"
+    },
+    "puntoVenta": 3,
+    "numero": 5233,
+    "fecha": "2026-09-20",
+    "items": [
+      {
+        "codigo": "LS-520",
+        "descripcion": "Dulce de leche 1 kg x 6",
+        "cantidad": 9,
+        "precioUnitario": 27053.81,
+        "bonificacionPct": 0,
+        "importe": 243484.29,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "LS-410",
+        "descripcion": "Manteca 200 g x 20",
+        "cantidad": 22,
+        "precioUnitario": 39978.64,
+        "bonificacionPct": 0,
+        "importe": 879530.08,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "LS-210",
+        "descripcion": "Yogur bebible frutilla 900 g x 6",
+        "cantidad": 26,
+        "precioUnitario": 15642.4,
+        "bonificacionPct": 0,
+        "importe": 406702.4,
+        "alicuotaIva": null
+      }
+    ],
+    "netoGravado": null,
+    "iva": [],
+    "percepciones": [],
+    "total": 1529716.77
+  },
+  "erroresEsperados": [],
+  "proveedorId": "nire"
+}

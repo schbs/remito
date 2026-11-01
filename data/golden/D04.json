@@ -1,0 +1,89 @@
+{
+  "id": "D04",
+  "archivo": "data/facturas/degradadas/D04-F14.png",
+  "tipo": "degradada",
+  "origen": "F14",
+  "degradacion": {
+    "tipo": "rotacion",
+    "anguloGrados": -6.97
+  },
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Molino Tres Ríos S.A.",
+      "cuit": "30-71988236-2"
+    },
+    "puntoVenta": 7,
+    "numero": 1937,
+    "fecha": "2026-09-18",
+    "items": [
+      {
+        "codigo": "MT-SEM",
+        "descripcion": "Sémola 1 kg x 10",
+        "cantidad": 18,
+        "precioUnitario": 11618.98,
+        "bonificacionPct": 0,
+        "importe": 209141.64,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-FM500",
+        "descripcion": "Fideos mostachol 500 g x 20",
+        "cantidad": 9,
+        "precioUnitario": 19038.24,
+        "bonificacionPct": 0,
+        "importe": 171344.16,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-FS500",
+        "descripcion": "Fideos spaghetti 500 g x 20",
+        "cantidad": 19,
+        "precioUnitario": 18626.4,
+        "bonificacionPct": 0,
+        "importe": 353901.6,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-PRE",
+        "descripcion": "Premezcla para pizza 1 kg x 10",
+        "cantidad": 39,
+        "precioUnitario": 15088.96,
+        "bonificacionPct": 0,
+        "importe": 588469.44,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "MT-H0000",
+        "descripcion": "Harina 0000 1 kg x 10",
+        "cantidad": 25,
+        "precioUnitario": 9100.35,
+        "bonificacionPct": 0,
+        "importe": 227508.75,
+        "alicuotaIva": 10.5
+      }
+    ],
+    "netoGravado": 1550365.59,
+    "iva": [
+      {
+        "alicuota": 10.5,
+        "base": 961896.15,
+        "importe": 100999.1
+      },
+      {
+        "alicuota": 21,
+        "base": 588469.44,
+        "importe": 123578.58
+      }
+    ],
+    "percepciones": [
+      {
+        "concepto": "Percepción IIBB Río Negro",
+        "importe": 31007.31
+      }
+    ],
+    "total": 1805950.58
+  },
+  "erroresEsperados": [],
+  "proveedorId": "molino"
+}

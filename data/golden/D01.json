@@ -1,0 +1,43 @@
+{
+  "id": "D01",
+  "archivo": "data/facturas/degradadas/D01-F02.png",
+  "tipo": "degradada",
+  "origen": "F02",
+  "degradacion": {
+    "tipo": "rotacion",
+    "anguloGrados": 3.59
+  },
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Lácteos Ñire Sur S.A.",
+      "cuit": "30-71988001-7"
+    },
+    "puntoVenta": 3,
+    "numero": 5111,
+    "fecha": "2026-09-02",
+    "items": [
+      {
+        "codigo": "LS-306",
+        "descripcion": "Queso de rallar horma (kg)",
+        "cantidad": 181.1,
+        "precioUnitario": 12866.54,
+        "bonificacionPct": 0,
+        "importe": 2330130.39,
+        "alicuotaIva": 21
+      }
+    ],
+    "netoGravado": 2330130.39,
+    "iva": [
+      {
+        "alicuota": 21,
+        "base": 2330130.39,
+        "importe": 489327.38
+      }
+    ],
+    "percepciones": [],
+    "total": 2819457.77
+  },
+  "erroresEsperados": [],
+  "proveedorId": "nire"
+}

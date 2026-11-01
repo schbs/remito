@@ -1,0 +1,47 @@
+{
+  "id": "F30",
+  "archivo": "data/facturas/limpias/F30.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Química Limpia Austral S.R.L.",
+      "cuit": "30-71988354-7"
+    },
+    "puntoVenta": 1,
+    "numero": 8274,
+    "fecha": "2026-10-09",
+    "items": [
+      {
+        "codigo": "QA-DES900",
+        "descripcion": "Desinfectante de pisos 900 ml x 12",
+        "cantidad": 19,
+        "precioUnitario": 16572.6,
+        "bonificacionPct": 0,
+        "importe": 314879.4,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-LAV5",
+        "descripcion": "Lavandina 5 L",
+        "cantidad": 19,
+        "precioUnitario": 3375.54,
+        "bonificacionPct": 0,
+        "importe": 64135.26,
+        "alicuotaIva": 21
+      }
+    ],
+    "netoGravado": 379014.66,
+    "iva": [
+      {
+        "alicuota": 21,
+        "base": 379014.66,
+        "importe": 79593.08
+      }
+    ],
+    "percepciones": [],
+    "total": 458607.74
+  },
+  "erroresEsperados": [],
+  "proveedorId": "austral"
+}

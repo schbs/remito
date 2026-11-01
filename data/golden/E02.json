@@ -1,0 +1,61 @@
+{
+  "id": "E02",
+  "archivo": "data/facturas/errores/E02.pdf",
+  "tipo": "error",
+  "factura": {
+    "tipo": "B",
+    "proveedor": {
+      "razonSocial": "Química Limpia Austral S.R.L.",
+      "cuit": "30-71988354-7"
+    },
+    "puntoVenta": 1,
+    "numero": 8294,
+    "fecha": "2026-10-27",
+    "items": [
+      {
+        "codigo": "QA-DES900",
+        "descripcion": "Desinfectante de pisos 900 ml x 12",
+        "cantidad": 26,
+        "precioUnitario": 20437.7,
+        "bonificacionPct": 0,
+        "importe": 531380.2,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "QA-ESP",
+        "descripcion": "Esponja doble uso x 40",
+        "cantidad": 26,
+        "precioUnitario": 14420.48,
+        "bonificacionPct": 0,
+        "importe": 374932.48,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "QA-GUA",
+        "descripcion": "Guantes de látex talle M x 12 pares",
+        "cantidad": 21,
+        "precioUnitario": 8879.44,
+        "bonificacionPct": 3,
+        "importe": 180874.19,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "QA-JAB3",
+        "descripcion": "Jabón líquido para ropa 3 L x 4",
+        "cantidad": 17,
+        "precioUnitario": 33986,
+        "bonificacionPct": 0,
+        "importe": 577762,
+        "alicuotaIva": null
+      }
+    ],
+    "netoGravado": null,
+    "iva": [],
+    "percepciones": [],
+    "total": 1664498.87
+  },
+  "erroresEsperados": [
+    "total_no_cierra"
+  ],
+  "proveedorId": "austral"
+}

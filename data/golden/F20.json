@@ -1,0 +1,113 @@
+{
+  "id": "F20",
+  "archivo": "data/facturas/limpias/F20.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "B",
+    "proveedor": {
+      "razonSocial": "Bodega Piedra Callada S.R.L.",
+      "cuit": "30-71988118-8"
+    },
+    "puntoVenta": 2,
+    "numero": 8156,
+    "fecha": "2026-09-25",
+    "items": [
+      {
+        "codigo": "PC-MAL-75",
+        "descripcion": "Malbec reserva 750 ml x 6",
+        "cantidad": 11,
+        "precioUnitario": 51045.79,
+        "bonificacionPct": 0,
+        "importe": 561503.69,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "PC-MER-75",
+        "descripcion": "Merlot joven 750 ml x 6",
+        "cantidad": 33,
+        "precioUnitario": 34713.25,
+        "bonificacionPct": 3,
+        "importe": 1111171.13,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "PC-SAU-75",
+        "descripcion": "Sauvignon blanc 750 ml x 6",
+        "cantidad": 22,
+        "precioUnitario": 39562.35,
+        "bonificacionPct": 0,
+        "importe": 870371.7,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "PC-DAM-5L",
+        "descripcion": "Tinto de mesa damajuana 5 L",
+        "cantidad": 12,
+        "precioUnitario": 12008.49,
+        "bonificacionPct": 0,
+        "importe": 144101.88,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "PC-ESP-75",
+        "descripcion": "Espumante extra brut 750 ml x 6",
+        "cantidad": 36,
+        "precioUnitario": 62809.38,
+        "bonificacionPct": 0,
+        "importe": 2261137.68,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "PC-PIN-75",
+        "descripcion": "Pinot noir 750 ml x 6",
+        "cantidad": 5,
+        "precioUnitario": 57024.4,
+        "bonificacionPct": 0,
+        "importe": 285122,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "PC-MAL-75",
+        "descripcion": "Malbec reserva 750 ml x 6 (lote 832)",
+        "cantidad": 5,
+        "precioUnitario": 50244.28,
+        "bonificacionPct": 15,
+        "importe": 213538.19,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "PC-MER-75",
+        "descripcion": "Merlot joven 750 ml x 6 (lote 877)",
+        "cantidad": 32,
+        "precioUnitario": 33873.42,
+        "bonificacionPct": 0,
+        "importe": 1083949.44,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "PC-SAU-75",
+        "descripcion": "Sauvignon blanc 750 ml x 6 (lote 254)",
+        "cantidad": 4,
+        "precioUnitario": 39180.48,
+        "bonificacionPct": 0,
+        "importe": 156721.92,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "PC-DAM-5L",
+        "descripcion": "Tinto de mesa damajuana 5 L (lote 502)",
+        "cantidad": 9,
+        "precioUnitario": 11781.47,
+        "bonificacionPct": 0,
+        "importe": 106033.23,
+        "alicuotaIva": null
+      }
+    ],
+    "netoGravado": null,
+    "iva": [],
+    "percepciones": [],
+    "total": 6793650.86
+  },
+  "erroresEsperados": [],
+  "proveedorId": "piedra"
+}

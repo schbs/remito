@@ -1,0 +1,138 @@
+{
+  "id": "F29",
+  "archivo": "data/facturas/limpias/F29.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Lácteos Ñire Sur S.A.",
+      "cuit": "30-71988001-7"
+    },
+    "puntoVenta": 3,
+    "numero": 5250,
+    "fecha": "2026-10-08",
+    "items": [
+      {
+        "codigo": "LS-102",
+        "descripcion": "Leche descremada larga vida 1 L x 12",
+        "cantidad": 25,
+        "precioUnitario": 14680.4,
+        "bonificacionPct": 0,
+        "importe": 367010,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "LS-530",
+        "descripcion": "Crema de leche 350 g x 12",
+        "cantidad": 18,
+        "precioUnitario": 22208.34,
+        "bonificacionPct": 0,
+        "importe": 399750.12,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-210",
+        "descripcion": "Yogur bebible frutilla 900 g x 6",
+        "cantidad": 29,
+        "precioUnitario": 12700.8,
+        "bonificacionPct": 0,
+        "importe": 368323.2,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-101",
+        "descripcion": "Leche entera larga vida 1 L x 12",
+        "cantidad": 34,
+        "precioUnitario": 14734.5,
+        "bonificacionPct": 0,
+        "importe": 500973,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "LS-306",
+        "descripcion": "Queso de rallar horma (kg)",
+        "cantidad": 296.1,
+        "precioUnitario": 13051.48,
+        "bonificacionPct": 0,
+        "importe": 3864543.23,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-520",
+        "descripcion": "Dulce de leche 1 kg x 6",
+        "cantidad": 29,
+        "precioUnitario": 22315.44,
+        "bonificacionPct": 0,
+        "importe": 647147.76,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-305",
+        "descripcion": "Queso cremoso horma (kg)",
+        "cantidad": 403.7,
+        "precioUnitario": 9092.49,
+        "bonificacionPct": 0,
+        "importe": 3670638.21,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-410",
+        "descripcion": "Manteca 200 g x 20",
+        "cantidad": 30,
+        "precioUnitario": 30782.4,
+        "bonificacionPct": 0,
+        "importe": 923472,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-102",
+        "descripcion": "Leche descremada larga vida 1 L x 12 (lote 693)",
+        "cantidad": 39,
+        "precioUnitario": 15519.28,
+        "bonificacionPct": 0,
+        "importe": 605251.92,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "LS-530",
+        "descripcion": "Crema de leche 350 g x 12 (lote 308)",
+        "cantidad": 9,
+        "precioUnitario": 22507.21,
+        "bonificacionPct": 0,
+        "importe": 202564.89,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-210",
+        "descripcion": "Yogur bebible frutilla 900 g x 6 (lote 474)",
+        "cantidad": 32,
+        "precioUnitario": 12285,
+        "bonificacionPct": 0,
+        "importe": 393120,
+        "alicuotaIva": 21
+      }
+    ],
+    "netoGravado": 11942794.33,
+    "iva": [
+      {
+        "alicuota": 10.5,
+        "base": 1473234.92,
+        "importe": 154689.67
+      },
+      {
+        "alicuota": 21,
+        "base": 10469559.41,
+        "importe": 2198607.48
+      }
+    ],
+    "percepciones": [
+      {
+        "concepto": "Percepción IIBB Neuquén",
+        "importe": 358283.83
+      }
+    ],
+    "total": 14654375.31
+  },
+  "erroresEsperados": [],
+  "proveedorId": "nire"
+}

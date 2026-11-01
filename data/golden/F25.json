@@ -1,0 +1,174 @@
+{
+  "id": "F25",
+  "archivo": "data/facturas/limpias/F25.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Molino Tres Ríos S.A.",
+      "cuit": "30-71988236-2"
+    },
+    "puntoVenta": 7,
+    "numero": 1978,
+    "fecha": "2026-10-02",
+    "items": [
+      {
+        "codigo": "MT-FM500",
+        "descripcion": "Fideos mostachol 500 g x 20",
+        "cantidad": 10,
+        "precioUnitario": 18963.36,
+        "bonificacionPct": 0,
+        "importe": 189633.6,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-H0000",
+        "descripcion": "Harina 0000 1 kg x 10",
+        "cantidad": 11,
+        "precioUnitario": 9383.85,
+        "bonificacionPct": 0,
+        "importe": 103222.35,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-GAL",
+        "descripcion": "Galletitas de agua 300 g x 24",
+        "cantidad": 1,
+        "precioUnitario": 27486.75,
+        "bonificacionPct": 0,
+        "importe": 27486.75,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "MT-PRE",
+        "descripcion": "Premezcla para pizza 1 kg x 10",
+        "cantidad": 28,
+        "precioUnitario": 14934.36,
+        "bonificacionPct": 0,
+        "importe": 418162.08,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "MT-H000",
+        "descripcion": "Harina 000 25 kg",
+        "cantidad": 28,
+        "precioUnitario": 17464.26,
+        "bonificacionPct": 0,
+        "importe": 488999.28,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-SEM",
+        "descripcion": "Sémola 1 kg x 10",
+        "cantidad": 30,
+        "precioUnitario": 11687.26,
+        "bonificacionPct": 0,
+        "importe": 350617.8,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-FS500",
+        "descripcion": "Fideos spaghetti 500 g x 20",
+        "cantidad": 19,
+        "precioUnitario": 18308.16,
+        "bonificacionPct": 0,
+        "importe": 347855.04,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-FM500",
+        "descripcion": "Fideos mostachol 500 g x 20 (lote 281)",
+        "cantidad": 2,
+        "precioUnitario": 18214.56,
+        "bonificacionPct": 0,
+        "importe": 36429.12,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-H0000",
+        "descripcion": "Harina 0000 1 kg x 10 (lote 613)",
+        "cantidad": 14,
+        "precioUnitario": 9232.65,
+        "bonificacionPct": 0,
+        "importe": 129257.1,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-GAL",
+        "descripcion": "Galletitas de agua 300 g x 24 (lote 750)",
+        "cantidad": 27,
+        "precioUnitario": 26967.1,
+        "bonificacionPct": 0,
+        "importe": 728111.7,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "MT-PRE",
+        "descripcion": "Premezcla para pizza 1 kg x 10 (lote 456)",
+        "cantidad": 20,
+        "precioUnitario": 15212.64,
+        "bonificacionPct": 0,
+        "importe": 304252.8,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "MT-H000",
+        "descripcion": "Harina 000 25 kg (lote 832)",
+        "cantidad": 8,
+        "precioUnitario": 17160.24,
+        "bonificacionPct": 0,
+        "importe": 137281.92,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-SEM",
+        "descripcion": "Sémola 1 kg x 10 (lote 723)",
+        "cantidad": 5,
+        "precioUnitario": 11710.02,
+        "bonificacionPct": 0,
+        "importe": 58550.1,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-FS500",
+        "descripcion": "Fideos spaghetti 500 g x 20 (lote 903)",
+        "cantidad": 32,
+        "precioUnitario": 18046.08,
+        "bonificacionPct": 0,
+        "importe": 577474.56,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-FM500",
+        "descripcion": "Fideos mostachol 500 g x 20 (lote 979)",
+        "cantidad": 40,
+        "precioUnitario": 18027.36,
+        "bonificacionPct": 0,
+        "importe": 721094.4,
+        "alicuotaIva": 10.5
+      }
+    ],
+    "netoGravado": 4618428.6,
+    "iva": [
+      {
+        "alicuota": 10.5,
+        "base": 3140415.27,
+        "importe": 329743.6
+      },
+      {
+        "alicuota": 21,
+        "base": 1478013.33,
+        "importe": 310382.8
+      }
+    ],
+    "percepciones": [
+      {
+        "concepto": "Percepción IIBB Río Negro",
+        "importe": 92368.57
+      }
+    ],
+    "total": 5350923.57
+  },
+  "erroresEsperados": [],
+  "proveedorId": "molino"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "F10",
+  "archivo": "data/facturas/limpias/F10.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Lácteos Ñire Sur S.A.",
+      "cuit": "30-71988001-7"
+    },
+    "puntoVenta": 3,
+    "numero": 5201,
+    "fecha": "2026-09-12",
+    "items": [
+      {
+        "codigo": "LS-101",
+        "descripcion": "Leche entera larga vida 1 L x 12",
+        "cantidad": 37,
+        "precioUnitario": 14150.25,
+        "bonificacionPct": 0,
+        "importe": 523559.25,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "LS-305",
+        "descripcion": "Queso cremoso horma (kg)",
+        "cantidad": 222.1,
+        "precioUnitario": 9172.95,
+        "bonificacionPct": 3,
+        "importe": 1976192.83,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-520",
+        "descripcion": "Dulce de leche 1 kg x 6",
+        "cantidad": 30,
+        "precioUnitario": 22121.58,
+        "bonificacionPct": 5,
+        "importe": 630465.03,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-410",
+        "descripcion": "Manteca 200 g x 20",
+        "cantidad": 13,
+        "precioUnitario": 32213.4,
+        "bonificacionPct": 2,
+        "importe": 410398.72,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-530",
+        "descripcion": "Crema de leche 350 g x 12",
+        "cantidad": 3,
+        "precioUnitario": 22668.14,
+        "bonificacionPct": 5,
+        "importe": 64604.2,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-102",
+        "descripcion": "Leche descremada larga vida 1 L x 12",
+        "cantidad": 8,
+        "precioUnitario": 15579.2,
+        "bonificacionPct": 15,
+        "importe": 105938.56,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "LS-306",
+        "descripcion": "Queso de rallar horma (kg)",
+        "cantidad": 12.3,
+        "precioUnitario": 13474.2,
+        "bonificacionPct": 0,
+        "importe": 165732.66,
+        "alicuotaIva": 21
+      }
+    ],
+    "netoGravado": 3876891.25,
+    "iva": [
+      {
+        "alicuota": 10.5,
+        "base": 629497.81,
+        "importe": 66097.27
+      },
+      {
+        "alicuota": 21,
+        "base": 3247393.44,
+        "importe": 681952.62
+      }
+    ],
+    "percepciones": [],
+    "total": 4624941.14
+  },
+  "erroresEsperados": [],
+  "proveedorId": "nire"
+}

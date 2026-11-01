@@ -1,0 +1,68 @@
+{
+  "id": "F11",
+  "archivo": "data/facturas/limpias/F11.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "B",
+    "proveedor": {
+      "razonSocial": "Química Limpia Austral S.R.L.",
+      "cuit": "30-71988354-7"
+    },
+    "puntoVenta": 1,
+    "numero": 8207,
+    "fecha": "2026-09-14",
+    "items": [
+      {
+        "codigo": "QA-DET750",
+        "descripcion": "Detergente concentrado 750 ml x 12",
+        "cantidad": 15,
+        "precioUnitario": 24511.21,
+        "bonificacionPct": 0,
+        "importe": 367668.15,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "QA-LAV5",
+        "descripcion": "Lavandina 5 L",
+        "cantidad": 13,
+        "precioUnitario": 4047.16,
+        "bonificacionPct": 0,
+        "importe": 52613.08,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "QA-PAP",
+        "descripcion": "Papel higiénico 30 m x 48",
+        "cantidad": 17,
+        "precioUnitario": 27633.04,
+        "bonificacionPct": 0,
+        "importe": 469761.68,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "QA-JAB3",
+        "descripcion": "Jabón líquido para ropa 3 L x 4",
+        "cantidad": 35,
+        "precioUnitario": 33436.17,
+        "bonificacionPct": 0,
+        "importe": 1170265.95,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "QA-ESP",
+        "descripcion": "Esponja doble uso x 40",
+        "cantidad": 40,
+        "precioUnitario": 14883.73,
+        "bonificacionPct": 0,
+        "importe": 595349.2,
+        "alicuotaIva": null
+      }
+    ],
+    "netoGravado": null,
+    "iva": [],
+    "percepciones": [],
+    "total": 2655658.06
+  },
+  "erroresEsperados": [],
+  "proveedorId": "austral"
+}

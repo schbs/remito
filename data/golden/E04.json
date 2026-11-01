@@ -1,0 +1,99 @@
+{
+  "id": "E04",
+  "archivo": "data/facturas/errores/E04.pdf",
+  "tipo": "error",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Molino Tres Ríos S.A.",
+      "cuit": "30-71988236-2"
+    },
+    "puntoVenta": 7,
+    "numero": 2080,
+    "fecha": "2026-10-28",
+    "items": [
+      {
+        "codigo": "MT-PRE",
+        "descripcion": "Premezcla para pizza 1 kg x 10",
+        "cantidad": 17,
+        "precioUnitario": 15181.72,
+        "bonificacionPct": 0,
+        "importe": 258089.24,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "MT-H0000",
+        "descripcion": "Harina 0000 1 kg x 10",
+        "cantidad": 2,
+        "precioUnitario": 9355.5,
+        "bonificacionPct": 12,
+        "importe": 16465.68,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-FM500",
+        "descripcion": "Fideos mostachol 500 g x 20",
+        "cantidad": 22,
+        "precioUnitario": 18457.92,
+        "bonificacionPct": 0,
+        "importe": 406074.24,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-SEM",
+        "descripcion": "Sémola 1 kg x 10",
+        "cantidad": 19,
+        "precioUnitario": 11732.78,
+        "bonificacionPct": 10,
+        "importe": 200630.54,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-GAL",
+        "descripcion": "Galletitas de agua 300 g x 24",
+        "cantidad": 24,
+        "precioUnitario": 26256,
+        "bonificacionPct": 12,
+        "importe": 554526.72,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "MT-H000",
+        "descripcion": "Harina 000 25 kg",
+        "cantidad": 7,
+        "precioUnitario": 16754.88,
+        "bonificacionPct": 0,
+        "importe": 117284.16,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "MT-FS500",
+        "descripcion": "Fideos spaghetti 500 g x 20",
+        "cantidad": 15,
+        "precioUnitario": 18757.44,
+        "bonificacionPct": 0,
+        "importe": 281361.6,
+        "alicuotaIva": 10.5
+      }
+    ],
+    "netoGravado": 1834432.18,
+    "iva": [
+      {
+        "alicuota": 10.5,
+        "base": 1021816.22,
+        "importe": 214581.41
+      },
+      {
+        "alicuota": 21,
+        "base": 812615.96,
+        "importe": 170649.35
+      }
+    ],
+    "percepciones": [],
+    "total": 2219662.94
+  },
+  "erroresEsperados": [
+    "iva_incorrecto"
+  ],
+  "proveedorId": "molino"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "F01",
+  "archivo": "data/facturas/limpias/F01.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Frigorífico Meseta Blanca S.A.",
+      "cuit": "30-71988472-1"
+    },
+    "puntoVenta": 4,
+    "numero": 2930,
+    "fecha": "2026-09-02",
+    "items": [
+      {
+        "codigo": "000412",
+        "descripcion": "Media res novillo (kg)",
+        "cantidad": 356,
+        "precioUnitario": 5611.52,
+        "bonificacionPct": 0,
+        "importe": 1997701.12,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "000415",
+        "descripcion": "Bola de lomo (kg)",
+        "cantidad": 58.7,
+        "precioUnitario": 9001.44,
+        "bonificacionPct": 0,
+        "importe": 528384.53,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "000420",
+        "descripcion": "Carne picada especial (kg)",
+        "cantidad": 406.3,
+        "precioUnitario": 6607.26,
+        "bonificacionPct": 0,
+        "importe": 2684529.74,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "000433",
+        "descripcion": "Pollo entero congelado (kg)",
+        "cantidad": 352.4,
+        "precioUnitario": 3024,
+        "bonificacionPct": 0,
+        "importe": 1065657.6,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "000451",
+        "descripcion": "Hamburguesas 80 g x 36",
+        "cantidad": 29,
+        "precioUnitario": 18440.64,
+        "bonificacionPct": 0,
+        "importe": 534778.56,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "000447",
+        "descripcion": "Chorizo parrillero (kg)",
+        "cantidad": 420.9,
+        "precioUnitario": 6801.3,
+        "bonificacionPct": 0,
+        "importe": 2862667.17,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "000412",
+        "descripcion": "Media res novillo (kg) (lote 117)",
+        "cantidad": 357.2,
+        "precioUnitario": 5600.56,
+        "bonificacionPct": 0,
+        "importe": 2000520.03,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "000415",
+        "descripcion": "Bola de lomo (kg) (lote 995)",
+        "cantidad": 438.4,
+        "precioUnitario": 8791.68,
+        "bonificacionPct": 0,
+        "importe": 3854272.51,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "000420",
+        "descripcion": "Carne picada especial (kg) (lote 574)",
+        "cantidad": 391.8,
+        "precioUnitario": 6332.49,
+        "bonificacionPct": 0,
+        "importe": 2481069.58,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "000433",
+        "descripcion": "Pollo entero congelado (kg) (lote 928)",
+        "cantidad": 418.6,
+        "precioUnitario": 3036.6,
+        "bonificacionPct": 0,
+        "importe": 1271120.76,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "000451",
+        "descripcion": "Hamburguesas 80 g x 36 (lote 478)",
+        "cantidad": 8,
+        "precioUnitario": 18568.32,
+        "bonificacionPct": 0,
+        "importe": 148546.56,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "000447",
+        "descripcion": "Chorizo parrillero (kg) (lote 386)",
+        "cantidad": 30,
+        "precioUnitario": 6657.03,
+        "bonificacionPct": 0,
+        "importe": 199710.9,
+        "alicuotaIva": 21
+      }
+    ],
+    "netoGravado": 19628959.06,
+    "iva": [
+      {
+        "alicuota": 10.5,
+        "base": 15883255.87,
+        "importe": 1667741.87
+      },
+      {
+        "alicuota": 21,
+        "base": 3745703.19,
+        "importe": 786597.67
+      }
+    ],
+    "percepciones": [],
+    "total": 22083298.6
+  },
+  "erroresEsperados": [],
+  "proveedorId": "frigo"
+}

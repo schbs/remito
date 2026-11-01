@@ -1,0 +1,110 @@
+{
+  "id": "F05",
+  "archivo": "data/facturas/limpias/F05.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Bodega Piedra Callada S.R.L.",
+      "cuit": "30-71988118-8"
+    },
+    "puntoVenta": 2,
+    "numero": 8123,
+    "fecha": "2026-09-05",
+    "items": [
+      {
+        "codigo": "PC-PIN-75",
+        "descripcion": "Pinot noir 750 ml x 6",
+        "cantidad": 17,
+        "precioUnitario": 46519.2,
+        "bonificacionPct": 0,
+        "importe": 790826.4,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "PC-MAL-75",
+        "descripcion": "Malbec reserva 750 ml x 6",
+        "cantidad": 6,
+        "precioUnitario": 39785.4,
+        "bonificacionPct": 0,
+        "importe": 238712.4,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "PC-SAU-75",
+        "descripcion": "Sauvignon blanc 750 ml x 6",
+        "cantidad": 22,
+        "precioUnitario": 31528.44,
+        "bonificacionPct": 0,
+        "importe": 693625.68,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "PC-MER-75",
+        "descripcion": "Merlot joven 750 ml x 6",
+        "cantidad": 23,
+        "precioUnitario": 29209.2,
+        "bonificacionPct": 0,
+        "importe": 671811.6,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "PC-ESP-75",
+        "descripcion": "Espumante extra brut 750 ml x 6",
+        "cantidad": 33,
+        "precioUnitario": 51960.96,
+        "bonificacionPct": 0,
+        "importe": 1714711.68,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "PC-DAM-5L",
+        "descripcion": "Tinto de mesa damajuana 5 L",
+        "cantidad": 24,
+        "precioUnitario": 9865.13,
+        "bonificacionPct": 0,
+        "importe": 236763.12,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "PC-PIN-75",
+        "descripcion": "Pinot noir 750 ml x 6 (lote 949)",
+        "cantidad": 10,
+        "precioUnitario": 46378.8,
+        "bonificacionPct": 0,
+        "importe": 463788,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "PC-MAL-75",
+        "descripcion": "Malbec reserva 750 ml x 6 (lote 165)",
+        "cantidad": 27,
+        "precioUnitario": 40365,
+        "bonificacionPct": 0,
+        "importe": 1089855,
+        "alicuotaIva": 21
+      }
+    ],
+    "netoGravado": 5900093.88,
+    "iva": [
+      {
+        "alicuota": 21,
+        "base": 5900093.88,
+        "importe": 1239019.71
+      }
+    ],
+    "percepciones": [
+      {
+        "concepto": "Percepción IIBB Neuquén",
+        "importe": 147502.35
+      },
+      {
+        "concepto": "Percepción IVA RG 2408",
+        "importe": 177002.82
+      }
+    ],
+    "total": 7463618.76
+  },
+  "erroresEsperados": [],
+  "proveedorId": "piedra"
+}

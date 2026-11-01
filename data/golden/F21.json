@@ -1,0 +1,32 @@
+{
+  "id": "F21",
+  "archivo": "data/facturas/limpias/F21.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "B",
+    "proveedor": {
+      "razonSocial": "Molino Tres Ríos S.A.",
+      "cuit": "30-71988236-2"
+    },
+    "puntoVenta": 7,
+    "numero": 1944,
+    "fecha": "2026-09-26",
+    "items": [
+      {
+        "codigo": "MT-FM500",
+        "descripcion": "Fideos mostachol 500 g x 20",
+        "cantidad": 40,
+        "precioUnitario": 20396,
+        "bonificacionPct": 0,
+        "importe": 815840,
+        "alicuotaIva": null
+      }
+    ],
+    "netoGravado": null,
+    "iva": [],
+    "percepciones": [],
+    "total": 815840
+  },
+  "erroresEsperados": [],
+  "proveedorId": "molino"
+}

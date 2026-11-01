@@ -1,0 +1,174 @@
+{
+  "id": "F04",
+  "archivo": "data/facturas/limpias/F04.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Lácteos Ñire Sur S.A.",
+      "cuit": "30-71988001-7"
+    },
+    "puntoVenta": 3,
+    "numero": 5146,
+    "fecha": "2026-09-04",
+    "items": [
+      {
+        "codigo": "LS-101",
+        "descripcion": "Leche entera larga vida 1 L x 12",
+        "cantidad": 38,
+        "precioUnitario": 14677.5,
+        "bonificacionPct": 0,
+        "importe": 557745,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "LS-520",
+        "descripcion": "Dulce de leche 1 kg x 6",
+        "cantidad": 24,
+        "precioUnitario": 21927.72,
+        "bonificacionPct": 0,
+        "importe": 526265.28,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-102",
+        "descripcion": "Leche descremada larga vida 1 L x 12",
+        "cantidad": 19,
+        "precioUnitario": 15399.44,
+        "bonificacionPct": 0,
+        "importe": 292589.36,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "LS-530",
+        "descripcion": "Crema de leche 350 g x 12",
+        "cantidad": 40,
+        "precioUnitario": 23541.76,
+        "bonificacionPct": 0,
+        "importe": 941670.4,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-306",
+        "descripcion": "Queso de rallar horma (kg)",
+        "cantidad": 106.2,
+        "precioUnitario": 13355.31,
+        "bonificacionPct": 0,
+        "importe": 1418333.92,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-305",
+        "descripcion": "Queso cremoso horma (kg)",
+        "cantidad": 61.2,
+        "precioUnitario": 8851.09,
+        "bonificacionPct": 0,
+        "importe": 541686.71,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-210",
+        "descripcion": "Yogur bebible frutilla 900 g x 6",
+        "cantidad": 7,
+        "precioUnitario": 12940.2,
+        "bonificacionPct": 0,
+        "importe": 90581.4,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-410",
+        "descripcion": "Manteca 200 g x 20",
+        "cantidad": 24,
+        "precioUnitario": 32976.6,
+        "bonificacionPct": 0,
+        "importe": 791438.4,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-101",
+        "descripcion": "Leche entera larga vida 1 L x 12 (lote 579)",
+        "cantidad": 5,
+        "precioUnitario": 14335.5,
+        "bonificacionPct": 0,
+        "importe": 71677.5,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "LS-520",
+        "descripcion": "Dulce de leche 1 kg x 6 (lote 756)",
+        "cantidad": 29,
+        "precioUnitario": 21496.92,
+        "bonificacionPct": 0,
+        "importe": 623410.68,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-102",
+        "descripcion": "Leche descremada larga vida 1 L x 12 (lote 151)",
+        "cantidad": 16,
+        "precioUnitario": 15579.2,
+        "bonificacionPct": 0,
+        "importe": 249267.2,
+        "alicuotaIva": 10.5
+      },
+      {
+        "codigo": "LS-530",
+        "descripcion": "Crema de leche 350 g x 12 (lote 529)",
+        "cantidad": 9,
+        "precioUnitario": 23610.73,
+        "bonificacionPct": 0,
+        "importe": 212496.57,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-306",
+        "descripcion": "Queso de rallar horma (kg) (lote 730)",
+        "cantidad": 411.3,
+        "precioUnitario": 13130.74,
+        "bonificacionPct": 0,
+        "importe": 5400673.36,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-305",
+        "descripcion": "Queso cremoso horma (kg) (lote 262)",
+        "cantidad": 379.1,
+        "precioUnitario": 8591.82,
+        "bonificacionPct": 0,
+        "importe": 3257158.96,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "LS-210",
+        "descripcion": "Yogur bebible frutilla 900 g x 6 (lote 981)",
+        "cantidad": 2,
+        "precioUnitario": 12184.2,
+        "bonificacionPct": 0,
+        "importe": 24368.4,
+        "alicuotaIva": 21
+      }
+    ],
+    "netoGravado": 14999363.14,
+    "iva": [
+      {
+        "alicuota": 10.5,
+        "base": 1171279.06,
+        "importe": 122984.3
+      },
+      {
+        "alicuota": 21,
+        "base": 13828084.08,
+        "importe": 2903897.66
+      }
+    ],
+    "percepciones": [
+      {
+        "concepto": "Percepción IIBB Neuquén",
+        "importe": 449980.89
+      }
+    ],
+    "total": 18476225.99
+  },
+  "erroresEsperados": [],
+  "proveedorId": "nire"
+}

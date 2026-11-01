@@ -1,0 +1,151 @@
+{
+  "id": "F36",
+  "archivo": "data/facturas/limpias/F36.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Bebidas Cumbre Andina S.A.",
+      "cuit": "30-71988590-6"
+    },
+    "puntoVenta": 12,
+    "numero": 8409,
+    "fecha": "2026-10-22",
+    "items": [
+      {
+        "codigo": "CA-CER",
+        "descripcion": "Cerveza rubia lata 473 ml x 24",
+        "cantidad": 20,
+        "precioUnitario": 38083.68,
+        "bonificacionPct": 12,
+        "importe": 670272.77,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-ENE",
+        "descripcion": "Bebida energizante 473 ml x 24",
+        "cantidad": 6,
+        "precioUnitario": 50793.6,
+        "bonificacionPct": 5,
+        "importe": 289523.52,
+        "alicuotaIva": 27
+      },
+      {
+        "codigo": "CA-JUG",
+        "descripcion": "Jugo de manzana 1 L x 12",
+        "cantidad": 28,
+        "precioUnitario": 19897.92,
+        "bonificacionPct": 0,
+        "importe": 557141.76,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-SOD",
+        "descripcion": "Soda en sifón 2 L x 6",
+        "cantidad": 19,
+        "precioUnitario": 5314.54,
+        "bonificacionPct": 12,
+        "importe": 88859.11,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-AGU",
+        "descripcion": "Agua mineral sin gas 2 L x 6",
+        "cantidad": 1,
+        "precioUnitario": 6497.04,
+        "bonificacionPct": 5,
+        "importe": 6172.19,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-LIM2",
+        "descripcion": "Gaseosa lima-limón 2,25 L x 8",
+        "cantidad": 1,
+        "precioUnitario": 14656.8,
+        "bonificacionPct": 0,
+        "importe": 14656.8,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-COL2",
+        "descripcion": "Gaseosa cola 2,25 L x 8",
+        "cantidad": 18,
+        "precioUnitario": 16534.56,
+        "bonificacionPct": 0,
+        "importe": 297622.08,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-CER",
+        "descripcion": "Cerveza rubia lata 473 ml x 24 (lote 909)",
+        "cantidad": 20,
+        "precioUnitario": 37511.28,
+        "bonificacionPct": 0,
+        "importe": 750225.6,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-ENE",
+        "descripcion": "Bebida energizante 473 ml x 24 (lote 793)",
+        "cantidad": 5,
+        "precioUnitario": 53697.6,
+        "bonificacionPct": 0,
+        "importe": 268488,
+        "alicuotaIva": 27
+      },
+      {
+        "codigo": "CA-JUG",
+        "descripcion": "Jugo de manzana 1 L x 12 (lote 970)",
+        "cantidad": 1,
+        "precioUnitario": 19325.46,
+        "bonificacionPct": 15,
+        "importe": 16426.64,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-SOD",
+        "descripcion": "Soda en sifón 2 L x 6 (lote 500)",
+        "cantidad": 31,
+        "precioUnitario": 5416.95,
+        "bonificacionPct": 5,
+        "importe": 159529.18,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-AGU",
+        "descripcion": "Agua mineral sin gas 2 L x 6 (lote 672)",
+        "cantidad": 34,
+        "precioUnitario": 6400.74,
+        "bonificacionPct": 7.5,
+        "importe": 201303.27,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "CA-LIM2",
+        "descripcion": "Gaseosa lima-limón 2,25 L x 8 (lote 153)",
+        "cantidad": 30,
+        "precioUnitario": 14448.48,
+        "bonificacionPct": 10,
+        "importe": 390108.96,
+        "alicuotaIva": 21
+      }
+    ],
+    "netoGravado": 3710329.88,
+    "iva": [
+      {
+        "alicuota": 21,
+        "base": 3152318.36,
+        "importe": 661986.86
+      },
+      {
+        "alicuota": 27,
+        "base": 558011.52,
+        "importe": 150663.11
+      }
+    ],
+    "percepciones": [],
+    "total": 4522979.85
+  },
+  "erroresEsperados": [],
+  "proveedorId": "comahue"
+}

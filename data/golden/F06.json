@@ -1,0 +1,83 @@
+{
+  "id": "F06",
+  "archivo": "data/facturas/limpias/F06.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Química Limpia Austral S.R.L.",
+      "cuit": "30-71988354-7"
+    },
+    "puntoVenta": 1,
+    "numero": 8194,
+    "fecha": "2026-09-08",
+    "items": [
+      {
+        "codigo": "QA-BOL",
+        "descripcion": "Bolsa de residuos 60x90 x 100",
+        "cantidad": 24,
+        "precioUnitario": 9085.58,
+        "bonificacionPct": 0,
+        "importe": 218053.92,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-DES900",
+        "descripcion": "Desinfectante de pisos 900 ml x 12",
+        "cantidad": 22,
+        "precioUnitario": 17175.24,
+        "bonificacionPct": 0,
+        "importe": 377855.28,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-JAB3",
+        "descripcion": "Jabón líquido para ropa 3 L x 4",
+        "cantidad": 27,
+        "precioUnitario": 28314.8,
+        "bonificacionPct": 0,
+        "importe": 764499.6,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-DET750",
+        "descripcion": "Detergente concentrado 750 ml x 12",
+        "cantidad": 38,
+        "precioUnitario": 19919.58,
+        "bonificacionPct": 5,
+        "importe": 719096.84,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-GUA",
+        "descripcion": "Guantes de látex talle M x 12 pares",
+        "cantidad": 33,
+        "precioUnitario": 7264.18,
+        "bonificacionPct": 0,
+        "importe": 239717.94,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-PAP",
+        "descripcion": "Papel higiénico 30 m x 48",
+        "cantidad": 19,
+        "precioUnitario": 21364.56,
+        "bonificacionPct": 0,
+        "importe": 405926.64,
+        "alicuotaIva": 21
+      }
+    ],
+    "netoGravado": 2725150.22,
+    "iva": [
+      {
+        "alicuota": 21,
+        "base": 2725150.22,
+        "importe": 572281.55
+      }
+    ],
+    "percepciones": [],
+    "total": 3297431.77
+  },
+  "erroresEsperados": [],
+  "proveedorId": "austral"
+}

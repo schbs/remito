@@ -1,0 +1,146 @@
+{
+  "id": "F15",
+  "archivo": "data/facturas/limpias/F15.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Química Limpia Austral S.R.L.",
+      "cuit": "30-71988354-7"
+    },
+    "puntoVenta": 1,
+    "numero": 8251,
+    "fecha": "2026-09-19",
+    "items": [
+      {
+        "codigo": "QA-LAV5",
+        "descripcion": "Lavandina 5 L",
+        "cantidad": 5,
+        "precioUnitario": 3409.74,
+        "bonificacionPct": 0,
+        "importe": 17048.7,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-ESP",
+        "descripcion": "Esponja doble uso x 40",
+        "cantidad": 3,
+        "precioUnitario": 12436.45,
+        "bonificacionPct": 0,
+        "importe": 37309.35,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-BOL",
+        "descripcion": "Bolsa de residuos 60x90 x 100",
+        "cantidad": 39,
+        "precioUnitario": 8890,
+        "bonificacionPct": 0,
+        "importe": 346710,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-PAP",
+        "descripcion": "Papel higiénico 30 m x 48",
+        "cantidad": 26,
+        "precioUnitario": 21276.64,
+        "bonificacionPct": 0,
+        "importe": 553192.64,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-DET750",
+        "descripcion": "Detergente concentrado 750 ml x 12",
+        "cantidad": 32,
+        "precioUnitario": 20416.08,
+        "bonificacionPct": 0,
+        "importe": 653314.56,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-DES900",
+        "descripcion": "Desinfectante de pisos 900 ml x 12",
+        "cantidad": 40,
+        "precioUnitario": 16321.5,
+        "bonificacionPct": 0,
+        "importe": 652860,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-JAB3",
+        "descripcion": "Jabón líquido para ropa 3 L x 4",
+        "cantidad": 39,
+        "precioUnitario": 27519.6,
+        "bonificacionPct": 0,
+        "importe": 1073264.4,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-GUA",
+        "descripcion": "Guantes de látex talle M x 12 pares",
+        "cantidad": 13,
+        "precioUnitario": 7271.6,
+        "bonificacionPct": 0,
+        "importe": 94530.8,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-LAV5",
+        "descripcion": "Lavandina 5 L (lote 381)",
+        "cantidad": 23,
+        "precioUnitario": 3399.48,
+        "bonificacionPct": 0,
+        "importe": 78188.04,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-ESP",
+        "descripcion": "Esponja doble uso x 40 (lote 976)",
+        "cantidad": 7,
+        "precioUnitario": 12732.85,
+        "bonificacionPct": 0,
+        "importe": 89129.95,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-BOL",
+        "descripcion": "Bolsa de residuos 60x90 x 100 (lote 135)",
+        "cantidad": 13,
+        "precioUnitario": 8712.2,
+        "bonificacionPct": 0,
+        "importe": 113258.6,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-PAP",
+        "descripcion": "Papel higiénico 30 m x 48 (lote 442)",
+        "cantidad": 26,
+        "precioUnitario": 22243.76,
+        "bonificacionPct": 0,
+        "importe": 578337.76,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-DET750",
+        "descripcion": "Detergente concentrado 750 ml x 12 (lote 570)",
+        "cantidad": 36,
+        "precioUnitario": 19621.68,
+        "bonificacionPct": 0,
+        "importe": 706380.48,
+        "alicuotaIva": 21
+      }
+    ],
+    "netoGravado": 4993525.28,
+    "iva": [
+      {
+        "alicuota": 21,
+        "base": 4993525.28,
+        "importe": 1048640.31
+      }
+    ],
+    "percepciones": [],
+    "total": 6042165.59
+  },
+  "erroresEsperados": [],
+  "proveedorId": "austral"
+}

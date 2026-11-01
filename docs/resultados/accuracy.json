@@ -1,0 +1,1112 @@
+{
+  "fecha": "2026-10-31T23:33:25.441Z",
+  "modelo": "gemini-3.5-flash-lite",
+  "documentos": 55,
+  "camposClave": {
+    "limpia": {
+      "ok": 200,
+      "total": 200
+    },
+    "degradada": {
+      "ok": 49,
+      "total": 50
+    },
+    "error": {
+      "ok": 25,
+      "total": 25
+    }
+  },
+  "porCampo": {
+    "limpia": {
+      "proveedor": "40/40",
+      "numero": "40/40",
+      "fecha": "40/40",
+      "total": "40/40",
+      "items": "40/40",
+      "documento": "40/40"
+    },
+    "degradada": {
+      "proveedor": "10/10",
+      "numero": "10/10",
+      "fecha": "10/10",
+      "total": "10/10",
+      "items": "9/10",
+      "documento": "9/10"
+    },
+    "error": {
+      "proveedor": "5/5",
+      "numero": "5/5",
+      "fecha": "5/5",
+      "total": "5/5",
+      "items": "5/5",
+      "documento": "5/5"
+    }
+  },
+  "erroresDetectados": "5/5",
+  "excepcionesDeMas": [
+    "D07"
+  ],
+  "costoPromedioUsd": 0.002686107272727273,
+  "latenciaP50Ms": 3649,
+  "latenciaP95Ms": 5363,
+  "detalle": [
+    {
+      "id": "D01",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 1399,
+        "salida": 296
+      },
+      "ms": 2643
+    },
+    {
+      "id": "D02",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 1427,
+        "salida": 816
+      },
+      "ms": 4138
+    },
+    {
+      "id": "D03",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 1437,
+        "salida": 948
+      },
+      "ms": 4090
+    },
+    {
+      "id": "D04",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 1437,
+        "salida": 774
+      },
+      "ms": 4172
+    },
+    {
+      "id": "D05",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 1427,
+        "salida": 984
+      },
+      "ms": 3905
+    },
+    {
+      "id": "D06",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 1399,
+        "salida": 876
+      },
+      "ms": 4129
+    },
+    {
+      "id": "D07",
+      "estado": "excepcion",
+      "motivos": [
+        "iva_incorrecto",
+        "iva_incorrecto"
+      ],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": false,
+        "documento": false
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 1437,
+        "salida": 1634
+      },
+      "ms": 5282
+    },
+    {
+      "id": "D08",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 1399,
+        "salida": 375
+      },
+      "ms": 2960
+    },
+    {
+      "id": "D09",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 1427,
+        "salida": 1316
+      },
+      "ms": 4885
+    },
+    {
+      "id": "D10",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 1399,
+        "salida": 957
+      },
+      "ms": 4012
+    },
+    {
+      "id": "E01",
+      "estado": "excepcion",
+      "motivos": [
+        "total_no_cierra"
+      ],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 877
+      },
+      "ms": 2839
+    },
+    {
+      "id": "E02",
+      "estado": "excepcion",
+      "motivos": [
+        "total_no_cierra"
+      ],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 539
+      },
+      "ms": 3264
+    },
+    {
+      "id": "E03",
+      "estado": "excepcion",
+      "motivos": [
+        "iva_incorrecto"
+      ],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 788
+      },
+      "ms": 3271
+    },
+    {
+      "id": "E04",
+      "estado": "excepcion",
+      "motivos": [
+        "iva_incorrecto"
+      ],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 942
+      },
+      "ms": 3359
+    },
+    {
+      "id": "E05",
+      "estado": "excepcion",
+      "motivos": [
+        "duplicada"
+      ],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 977
+      },
+      "ms": 3121
+    },
+    {
+      "id": "F01",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1543
+      },
+      "ms": 5596
+    },
+    {
+      "id": "F02",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 296
+      },
+      "ms": 3320
+    },
+    {
+      "id": "F03",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1531
+      },
+      "ms": 4631
+    },
+    {
+      "id": "F04",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1879
+      },
+      "ms": 6070
+    },
+    {
+      "id": "F05",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1114
+      },
+      "ms": 4304
+    },
+    {
+      "id": "F06",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 775
+      },
+      "ms": 3415
+    },
+    {
+      "id": "F07",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1076
+      },
+      "ms": 3620
+    },
+    {
+      "id": "F08",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 871
+      },
+      "ms": 3949
+    },
+    {
+      "id": "F09",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1356
+      },
+      "ms": 4204
+    },
+    {
+      "id": "F10",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 971
+      },
+      "ms": 3649
+    },
+    {
+      "id": "F11",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 611
+      },
+      "ms": 3349
+    },
+    {
+      "id": "F12",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1300
+      },
+      "ms": 3885
+    },
+    {
+      "id": "F13",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 523
+      },
+      "ms": 3167
+    },
+    {
+      "id": "F14",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 777
+      },
+      "ms": 3833
+    },
+    {
+      "id": "F15",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1464
+      },
+      "ms": 4639
+    },
+    {
+      "id": "F16",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 442
+      },
+      "ms": 2867
+    },
+    {
+      "id": "F17",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1562
+      },
+      "ms": 4821
+    },
+    {
+      "id": "F18",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 984
+      },
+      "ms": 3700
+    },
+    {
+      "id": "F19",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 580
+      },
+      "ms": 3160
+    },
+    {
+      "id": "F20",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1172
+      },
+      "ms": 4191
+    },
+    {
+      "id": "F21",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 248
+      },
+      "ms": 2615
+    },
+    {
+      "id": "F22",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 914
+      },
+      "ms": 3648
+    },
+    {
+      "id": "F23",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1647
+      },
+      "ms": 4990
+    },
+    {
+      "id": "F24",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 833
+      },
+      "ms": 3345
+    },
+    {
+      "id": "F25",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1850
+      },
+      "ms": 5363
+    },
+    {
+      "id": "F26",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1622
+      },
+      "ms": 4849
+    },
+    {
+      "id": "F27",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 668
+      },
+      "ms": 2957
+    },
+    {
+      "id": "F28",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 500
+      },
+      "ms": 2392
+    },
+    {
+      "id": "F29",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1433
+      },
+      "ms": 4906
+    },
+    {
+      "id": "F30",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 389
+      },
+      "ms": 2407
+    },
+    {
+      "id": "F31",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 983
+      },
+      "ms": 3255
+    },
+    {
+      "id": "F32",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 707
+      },
+      "ms": 3059
+    },
+    {
+      "id": "F33",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 529
+      },
+      "ms": 2916
+    },
+    {
+      "id": "F34",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1308
+      },
+      "ms": 3503
+    },
+    {
+      "id": "F35",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1200
+      },
+      "ms": 4086
+    },
+    {
+      "id": "F36",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 1567
+      },
+      "ms": 4428
+    },
+    {
+      "id": "F37",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 545
+      },
+      "ms": 2837
+    },
+    {
+      "id": "F38",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 957
+      },
+      "ms": 3698
+    },
+    {
+      "id": "F39",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 544
+      },
+      "ms": 2689
+    },
+    {
+      "id": "F40",
+      "estado": "ok",
+      "motivos": [],
+      "campos": {
+        "proveedor": true,
+        "numero": true,
+        "fecha": true,
+        "total": true,
+        "items": true,
+        "documento": true
+      },
+      "intentos": 1,
+      "tokens": {
+        "entrada": 867,
+        "salida": 340
+      },
+      "ms": 2459
+    }
+  ]
+}

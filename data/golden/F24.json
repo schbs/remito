@@ -1,0 +1,86 @@
+{
+  "id": "F24",
+  "archivo": "data/facturas/limpias/F24.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "B",
+    "proveedor": {
+      "razonSocial": "Bebidas Cumbre Andina S.A.",
+      "cuit": "30-71988590-6"
+    },
+    "puntoVenta": 12,
+    "numero": 8382,
+    "fecha": "2026-10-02",
+    "items": [
+      {
+        "codigo": "CA-COL2",
+        "descripcion": "Gaseosa cola 2,25 L x 8",
+        "cantidad": 24,
+        "precioUnitario": 19562.65,
+        "bonificacionPct": 0,
+        "importe": 469503.6,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "CA-LIM2",
+        "descripcion": "Gaseosa lima-limón 2,25 L x 8",
+        "cantidad": 19,
+        "precioUnitario": 18328.89,
+        "bonificacionPct": 0,
+        "importe": 348248.91,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "CA-SOD",
+        "descripcion": "Soda en sifón 2 L x 6",
+        "cantidad": 35,
+        "precioUnitario": 6378.42,
+        "bonificacionPct": 0,
+        "importe": 223244.7,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "CA-AGU",
+        "descripcion": "Agua mineral sin gas 2 L x 6",
+        "cantidad": 24,
+        "precioUnitario": 7535.15,
+        "bonificacionPct": 0,
+        "importe": 180843.6,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "CA-JUG",
+        "descripcion": "Jugo de manzana 1 L x 12",
+        "cantidad": 34,
+        "precioUnitario": 24649.73,
+        "bonificacionPct": 0,
+        "importe": 838090.82,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "CA-ENE",
+        "descripcion": "Bebida energizante 473 ml x 24",
+        "cantidad": 18,
+        "precioUnitario": 64843.15,
+        "bonificacionPct": 0,
+        "importe": 1167176.7,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "CA-CER",
+        "descripcion": "Cerveza rubia lata 473 ml x 24",
+        "cantidad": 5,
+        "precioUnitario": 44326.66,
+        "bonificacionPct": 10,
+        "importe": 199469.97,
+        "alicuotaIva": null
+      }
+    ],
+    "netoGravado": null,
+    "iva": [],
+    "percepciones": [],
+    "total": 3426578.3
+  },
+  "erroresEsperados": [],
+  "proveedorId": "comahue"
+}

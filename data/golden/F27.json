@@ -1,0 +1,68 @@
+{
+  "id": "F27",
+  "archivo": "data/facturas/limpias/F27.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "B",
+    "proveedor": {
+      "razonSocial": "Bodega Piedra Callada S.R.L.",
+      "cuit": "30-71988118-8"
+    },
+    "puntoVenta": 2,
+    "numero": 8197,
+    "fecha": "2026-10-02",
+    "items": [
+      {
+        "codigo": "PC-MER-75",
+        "descripcion": "Merlot joven 750 ml x 6",
+        "cantidad": 17,
+        "precioUnitario": 34223.35,
+        "bonificacionPct": 0,
+        "importe": 581796.95,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "PC-MAL-75",
+        "descripcion": "Malbec reserva 750 ml x 6",
+        "cantidad": 29,
+        "precioUnitario": 51546.73,
+        "bonificacionPct": 0,
+        "importe": 1494855.17,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "PC-PIN-75",
+        "descripcion": "Pinot noir 750 ml x 6",
+        "cantidad": 8,
+        "precioUnitario": 55382.18,
+        "bonificacionPct": 0,
+        "importe": 443057.44,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "PC-ESP-75",
+        "descripcion": "Espumante extra brut 750 ml x 6",
+        "cantidad": 5,
+        "precioUnitario": 64457.26,
+        "bonificacionPct": 0,
+        "importe": 322286.3,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "PC-SAU-75",
+        "descripcion": "Sauvignon blanc 750 ml x 6",
+        "cantidad": 17,
+        "precioUnitario": 39295.04,
+        "bonificacionPct": 0,
+        "importe": 668015.68,
+        "alicuotaIva": null
+      }
+    ],
+    "netoGravado": null,
+    "iva": [],
+    "percepciones": [],
+    "total": 3510011.54
+  },
+  "erroresEsperados": [],
+  "proveedorId": "piedra"
+}

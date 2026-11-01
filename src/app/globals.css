@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+/* Identidad A · Remito de depósito (docs/brand.md): gris hormigón frío, tinta grafito, bordes de 2 px como cinta de
+   embalar, resaltador lima solo como FONDO (con texto grafito encima) y sello "APROBADA". Se apaga la paleta por defecto
+   de Tailwind: solo existen estos colores. */
+@theme {
+  --color-*: initial;
+  --color-hormigon: oklch(0.965 0.004 110);
+  --color-papel: oklch(0.995 0.002 110);
+  --color-grafito: oklch(0.24 0.01 110);
+  --color-grafito-suave: oklch(0.42 0.01 110);
+  --color-cinta: oklch(0.3 0.01 110);
+  --color-linea: oklch(0.82 0.006 110);
+  --color-lima: oklch(0.9 0.16 112);
+  --color-lima-suave: oklch(0.95 0.08 112);
+  --color-control: oklch(0.44 0.11 140);
+  --color-alerta: oklch(0.5 0.17 30);
+  --color-alerta-suave: oklch(0.95 0.03 30);
+
+  --font-display: var(--font-barlow-condensed), "Arial Narrow", sans-serif;
+  --font-sans: var(--font-barlow), system-ui, sans-serif;
+
+  --radius-*: initial;
+  --ease-sello: cubic-bezier(0.2, 0.9, 0.3, 1.2);
+}
+
+html {
+  background: var(--color-hormigon);
+  color: var(--color-grafito);
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-control);
+  outline-offset: 2px;
+}
+
+/* El resaltador: fondo lima detrás del campo que no cierra, como en papel. */
+.resaltado {
+  background: linear-gradient(transparent 8%, var(--color-lima) 8%, var(--color-lima) 92%, transparent 92%);
+}
+
+/* Sello "APROBADA": baja y asienta una vez (solo transform y opacity). */
+@keyframes sello {
+  from {
+    opacity: 0;
+    transform: translateY(-24px) scale(1.4) rotate(-14deg);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1) rotate(-8deg);
+  }
+}
+
+.sello {
+  transform: rotate(-8deg);
+  animation: sello 0.45s var(--ease-sello) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sello {
+    animation: none;
+  }
+}

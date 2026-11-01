@@ -1,0 +1,100 @@
+{
+  "id": "D10",
+  "archivo": "data/facturas/degradadas/D10-F38.jpg",
+  "tipo": "degradada",
+  "origen": "F38",
+  "degradacion": {
+    "tipo": "foto",
+    "anguloGrados": -2.04
+  },
+  "factura": {
+    "tipo": "B",
+    "proveedor": {
+      "razonSocial": "Frigorífico Meseta Blanca S.A.",
+      "cuit": "30-71988472-1"
+    },
+    "puntoVenta": 4,
+    "numero": 2994,
+    "fecha": "2026-10-22",
+    "items": [
+      {
+        "codigo": "000420",
+        "descripcion": "Carne picada especial (kg)",
+        "cantidad": 51.9,
+        "precioUnitario": 7046.83,
+        "bonificacionPct": 0,
+        "importe": 365730.48,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "000412",
+        "descripcion": "Media res novillo (kg)",
+        "cantidad": 90.9,
+        "precioUnitario": 6067.51,
+        "bonificacionPct": 0,
+        "importe": 551536.66,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "000451",
+        "descripcion": "Hamburguesas 80 g x 36",
+        "cantidad": 25,
+        "precioUnitario": 22511.81,
+        "bonificacionPct": 0,
+        "importe": 562795.25,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "000447",
+        "descripcion": "Chorizo parrillero (kg)",
+        "cantidad": 452.1,
+        "precioUnitario": 8387.51,
+        "bonificacionPct": 0,
+        "importe": 3791993.27,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "000433",
+        "descripcion": "Pollo entero congelado (kg)",
+        "cantidad": 90,
+        "precioUnitario": 3411.14,
+        "bonificacionPct": 0,
+        "importe": 307002.6,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "000415",
+        "descripcion": "Bola de lomo (kg)",
+        "cantidad": 326.7,
+        "precioUnitario": 10138.07,
+        "bonificacionPct": 0,
+        "importe": 3312107.47,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "000420",
+        "descripcion": "Carne picada especial (kg) (lote 353)",
+        "cantidad": 380.9,
+        "precioUnitario": 7223.35,
+        "bonificacionPct": 0,
+        "importe": 2751374.02,
+        "alicuotaIva": null
+      },
+      {
+        "codigo": "000412",
+        "descripcion": "Media res novillo (kg) (lote 443)",
+        "cantidad": 250.6,
+        "precioUnitario": 6231.01,
+        "bonificacionPct": 0,
+        "importe": 1561491.11,
+        "alicuotaIva": null
+      }
+    ],
+    "netoGravado": null,
+    "iva": [],
+    "percepciones": [],
+    "total": 13204030.86
+  },
+  "erroresEsperados": [],
+  "proveedorId": "frigo"
+}

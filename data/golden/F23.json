@@ -1,0 +1,155 @@
+{
+  "id": "F23",
+  "archivo": "data/facturas/limpias/F23.pdf",
+  "tipo": "limpia",
+  "factura": {
+    "tipo": "A",
+    "proveedor": {
+      "razonSocial": "Química Limpia Austral S.R.L.",
+      "cuit": "30-71988354-7"
+    },
+    "puntoVenta": 1,
+    "numero": 8271,
+    "fecha": "2026-09-28",
+    "items": [
+      {
+        "codigo": "QA-GUA",
+        "descripcion": "Guantes de látex talle M x 12 pares",
+        "cantidad": 16,
+        "precioUnitario": 7420,
+        "bonificacionPct": 0,
+        "importe": 118720,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-JAB3",
+        "descripcion": "Jabón líquido para ropa 3 L x 4",
+        "cantidad": 22,
+        "precioUnitario": 27746.8,
+        "bonificacionPct": 0,
+        "importe": 610429.6,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-DES900",
+        "descripcion": "Desinfectante de pisos 900 ml x 12",
+        "cantidad": 18,
+        "precioUnitario": 16957.62,
+        "bonificacionPct": 0,
+        "importe": 305237.16,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-BOL",
+        "descripcion": "Bolsa de residuos 60x90 x 100",
+        "cantidad": 10,
+        "precioUnitario": 9218.93,
+        "bonificacionPct": 10,
+        "importe": 82970.37,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-ESP",
+        "descripcion": "Esponja doble uso x 40",
+        "cantidad": 26,
+        "precioUnitario": 12350,
+        "bonificacionPct": 15,
+        "importe": 272935,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-LAV5",
+        "descripcion": "Lavandina 5 L",
+        "cantidad": 20,
+        "precioUnitario": 3433.68,
+        "bonificacionPct": 5,
+        "importe": 65239.92,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-PAP",
+        "descripcion": "Papel higiénico 30 m x 48",
+        "cantidad": 38,
+        "precioUnitario": 22045.94,
+        "bonificacionPct": 0,
+        "importe": 837745.72,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-DET750",
+        "descripcion": "Detergente concentrado 750 ml x 12",
+        "cantidad": 30,
+        "precioUnitario": 19264.2,
+        "bonificacionPct": 5,
+        "importe": 549029.7,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-GUA",
+        "descripcion": "Guantes de látex talle M x 12 pares (lote 249)",
+        "cantidad": 25,
+        "precioUnitario": 7330.96,
+        "bonificacionPct": 0,
+        "importe": 183274,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-JAB3",
+        "descripcion": "Jabón líquido para ropa 3 L x 4 (lote 738)",
+        "cantidad": 13,
+        "precioUnitario": 28286.4,
+        "bonificacionPct": 2,
+        "importe": 360368.74,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-DES900",
+        "descripcion": "Desinfectante de pisos 900 ml x 12 (lote 180)",
+        "cantidad": 13,
+        "precioUnitario": 16840.44,
+        "bonificacionPct": 0,
+        "importe": 218925.72,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-BOL",
+        "descripcion": "Bolsa de residuos 60x90 x 100 (lote 376)",
+        "cantidad": 39,
+        "precioUnitario": 9201.15,
+        "bonificacionPct": 2,
+        "importe": 351667.95,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-ESP",
+        "descripcion": "Esponja doble uso x 40 (lote 706)",
+        "cantidad": 35,
+        "precioUnitario": 12140.05,
+        "bonificacionPct": 2,
+        "importe": 416403.72,
+        "alicuotaIva": 21
+      },
+      {
+        "codigo": "QA-LAV5",
+        "descripcion": "Lavandina 5 L (lote 106)",
+        "cantidad": 38,
+        "precioUnitario": 3389.22,
+        "bonificacionPct": 7.5,
+        "importe": 119131.08,
+        "alicuotaIva": 21
+      }
+    ],
+    "netoGravado": 4492078.68,
+    "iva": [
+      {
+        "alicuota": 21,
+        "base": 4492078.68,
+        "importe": 943336.52
+      }
+    ],
+    "percepciones": [],
+    "total": 5435415.2
+  },
+  "erroresEsperados": [],
+  "proveedorId": "austral"
+}

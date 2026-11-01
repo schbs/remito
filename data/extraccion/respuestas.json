@@ -1,0 +1,5272 @@
+{
+ "b51e3150c23addd8e0f49e6775354043": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "Molino Tres Ríos S.A.",
+    "cuit": "30-71988236-2"
+   },
+   "puntoVenta": 7,
+   "numero": 1944,
+   "fecha": "2026-09-26",
+   "items": [
+    {
+     "codigo": "MT-FM500",
+     "descripcion": "Fideos mostachol 500 g x 20",
+     "cantidad": 40,
+     "precioUnitario": 20396,
+     "bonificacionPct": 0,
+     "importe": 815840,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 815840
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 248
+  },
+  "ms": 2615
+ },
+ "c96ba8000941ad179a845748d7942d77": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Lácteos Ñire Sur S.A.",
+    "cuit": "30-71988001-7"
+   },
+   "puntoVenta": 3,
+   "numero": 5146,
+   "fecha": "2026-09-04",
+   "items": [
+    {
+     "codigo": "LS-101",
+     "descripcion": "Leche entera larga vida 1 L x 12",
+     "cantidad": 38,
+     "precioUnitario": 14677.5,
+     "bonificacionPct": 0,
+     "importe": 557745,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-520",
+     "descripcion": "Dulce de leche 1 kg x 6",
+     "cantidad": 24,
+     "precioUnitario": 21927.72,
+     "bonificacionPct": 0,
+     "importe": 526265.28,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-102",
+     "descripcion": "Leche descremada larga vida 1 L x 12",
+     "cantidad": 19,
+     "precioUnitario": 15399.44,
+     "bonificacionPct": 0,
+     "importe": 292589.36,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-530",
+     "descripcion": "Crema de leche 350 g x 12",
+     "cantidad": 40,
+     "precioUnitario": 23541.76,
+     "bonificacionPct": 0,
+     "importe": 941670.4,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-306",
+     "descripcion": "Queso de rallar horma (kg)",
+     "cantidad": 106.2,
+     "precioUnitario": 13355.31,
+     "bonificacionPct": 0,
+     "importe": 1418333.92,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-305",
+     "descripcion": "Queso cremoso horma (kg)",
+     "cantidad": 61.2,
+     "precioUnitario": 8851.09,
+     "bonificacionPct": 0,
+     "importe": 541686.71,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-210",
+     "descripcion": "Yogur bebible frutilla 900 g x 6",
+     "cantidad": 7,
+     "precioUnitario": 12940.2,
+     "bonificacionPct": 0,
+     "importe": 90581.4,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-410",
+     "descripcion": "Manteca 200 g x 20",
+     "cantidad": 24,
+     "precioUnitario": 32976.6,
+     "bonificacionPct": 0,
+     "importe": 791438.4,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-101",
+     "descripcion": "Leche entera larga vida 1 L x 12 (lote 579)",
+     "cantidad": 5,
+     "precioUnitario": 14335.5,
+     "bonificacionPct": 0,
+     "importe": 71677.5,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-520",
+     "descripcion": "Dulce de leche 1 kg x 6 (lote 756)",
+     "cantidad": 29,
+     "precioUnitario": 21496.92,
+     "bonificacionPct": 0,
+     "importe": 623410.68,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-102",
+     "descripcion": "Leche descremada larga vida 1 L x 12 (lote 151)",
+     "cantidad": 16,
+     "precioUnitario": 15579.2,
+     "bonificacionPct": 0,
+     "importe": 249267.2,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-530",
+     "descripcion": "Crema de leche 350 g x 12 (lote 529)",
+     "cantidad": 9,
+     "precioUnitario": 23610.73,
+     "bonificacionPct": 0,
+     "importe": 212496.57,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-306",
+     "descripcion": "Queso de rallar horma (kg) (lote 730)",
+     "cantidad": 411.3,
+     "precioUnitario": 13130.74,
+     "bonificacionPct": 0,
+     "importe": 5400673.36,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-305",
+     "descripcion": "Queso cremoso horma (kg) (lote 262)",
+     "cantidad": 379.1,
+     "precioUnitario": 8591.82,
+     "bonificacionPct": 0,
+     "importe": 3257158.96,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-210",
+     "descripcion": "Yogur bebible frutilla 900 g x 6 (lote 981)",
+     "cantidad": 2,
+     "precioUnitario": 12184.2,
+     "bonificacionPct": 0,
+     "importe": 24368.4,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 14999363.14,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 122984.3
+    },
+    {
+     "alicuota": 21,
+     "importe": 2903897.66
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Neuquén",
+     "importe": 449980.89
+    }
+   ],
+   "total": 18476225.99
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1879
+  },
+  "ms": 6070
+ },
+ "dcbb31687c8756ddc594771721d35cb9": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Lácteos Ñire Sur S.A.",
+    "cuit": "30-71988001-7"
+   },
+   "puntoVenta": 3,
+   "numero": 5201,
+   "fecha": "2026-09-12",
+   "items": [
+    {
+     "codigo": "LS-101",
+     "descripcion": "Leche entera larga vida 1 L x 12",
+     "cantidad": 37,
+     "precioUnitario": 14150.25,
+     "bonificacionPct": 0,
+     "importe": 523559.25,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-305",
+     "descripcion": "Queso cremoso horma (kg)",
+     "cantidad": 222.1,
+     "precioUnitario": 9172.95,
+     "bonificacionPct": 3,
+     "importe": 1976192.83,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-520",
+     "descripcion": "Dulce de leche 1 kg x 6",
+     "cantidad": 30,
+     "precioUnitario": 22121.58,
+     "bonificacionPct": 5,
+     "importe": 630465.03,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-410",
+     "descripcion": "Manteca 200 g x 20",
+     "cantidad": 13,
+     "precioUnitario": 32213.4,
+     "bonificacionPct": 2,
+     "importe": 410398.72,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-530",
+     "descripcion": "Crema de leche 350 g x 12",
+     "cantidad": 3,
+     "precioUnitario": 22668.14,
+     "bonificacionPct": 5,
+     "importe": 64604.2,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-102",
+     "descripcion": "Leche descremada larga vida 1 L x 12",
+     "cantidad": 8,
+     "precioUnitario": 15579.2,
+     "bonificacionPct": 15,
+     "importe": 105938.56,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-306",
+     "descripcion": "Queso de rallar horma (kg)",
+     "cantidad": 12.3,
+     "precioUnitario": 13474.2,
+     "bonificacionPct": 0,
+     "importe": 165732.66,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 3876891.25,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 66097.27
+    },
+    {
+     "alicuota": 21,
+     "importe": 681952.62
+    }
+   ],
+   "percepciones": [],
+   "total": 4624941.14
+  },
+  "uso": {
+   "entrada": 1437,
+   "salida": 948
+  },
+  "ms": 4090
+ },
+ "39d109b249ee4b6428d638e69802f556": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Lácteos Ñire Sur S.A.",
+    "cuit": "30-71988001-7"
+   },
+   "puntoVenta": 3,
+   "numero": 5111,
+   "fecha": "2026-09-02",
+   "items": [
+    {
+     "codigo": "LS-306",
+     "descripcion": "Queso de rallar horma (kg)",
+     "cantidad": 181.1,
+     "precioUnitario": 12866.54,
+     "bonificacionPct": 0,
+     "importe": 2330130.39,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 2330130.39,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 489327.38
+    }
+   ],
+   "percepciones": [],
+   "total": 2819457.77
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 296
+  },
+  "ms": 3320
+ },
+ "804f207f7f93e8ad6fd3cfbaa09c0bdd": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "FRIGORÍFICO MESETA BLANCA S.A.",
+    "cuit": "30-71988472-1"
+   },
+   "puntoVenta": 4,
+   "numero": 2930,
+   "fecha": "2026-09-02",
+   "items": [
+    {
+     "codigo": "000412",
+     "descripcion": "MEDIA RES NOVILLO (KG)",
+     "cantidad": 356,
+     "precioUnitario": 5611.52,
+     "bonificacionPct": 0,
+     "importe": 1997701.12,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "000415",
+     "descripcion": "BOLA DE LOMO (KG)",
+     "cantidad": 58.7,
+     "precioUnitario": 9001.44,
+     "bonificacionPct": 0,
+     "importe": 528384.53,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "000420",
+     "descripcion": "CARNE PICADA ESPECIAL (KG)",
+     "cantidad": 406.3,
+     "precioUnitario": 6607.26,
+     "bonificacionPct": 0,
+     "importe": 2684529.74,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "000433",
+     "descripcion": "POLLO ENTERO CONGELADO (KG)",
+     "cantidad": 352.4,
+     "precioUnitario": 3024,
+     "bonificacionPct": 0,
+     "importe": 1065657.6,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "000451",
+     "descripcion": "HAMBURGUESAS 80 G X 36",
+     "cantidad": 29,
+     "precioUnitario": 18440.64,
+     "bonificacionPct": 0,
+     "importe": 534778.56,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "000447",
+     "descripcion": "CHORIZO PARRILLERO (KG)",
+     "cantidad": 420.9,
+     "precioUnitario": 6801.3,
+     "bonificacionPct": 0,
+     "importe": 2862667.17,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "000412",
+     "descripcion": "MEDIA RES NOVILLO (KG) (LOTE 117)",
+     "cantidad": 357.2,
+     "precioUnitario": 5600.56,
+     "bonificacionPct": 0,
+     "importe": 2000520.03,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "000415",
+     "descripcion": "BOLA DE LOMO (KG) (LOTE 995)",
+     "cantidad": 438.4,
+     "precioUnitario": 8791.68,
+     "bonificacionPct": 0,
+     "importe": 3854272.51,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "000420",
+     "descripcion": "CARNE PICADA ESPECIAL (KG) (LOTE 574)",
+     "cantidad": 391.8,
+     "precioUnitario": 6332.49,
+     "bonificacionPct": 0,
+     "importe": 2481069.58,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "000433",
+     "descripcion": "POLLO ENTERO CONGELADO (KG) (LOTE 928)",
+     "cantidad": 418.6,
+     "precioUnitario": 3036.6,
+     "bonificacionPct": 0,
+     "importe": 1271120.76,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "000451",
+     "descripcion": "HAMBURGUESAS 80 G X 36 (LOTE 478)",
+     "cantidad": 8,
+     "precioUnitario": 18568.32,
+     "bonificacionPct": 0,
+     "importe": 148546.56,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "000447",
+     "descripcion": "CHORIZO PARRILLERO (KG) (LOTE 386)",
+     "cantidad": 30,
+     "precioUnitario": 6657.03,
+     "bonificacionPct": 0,
+     "importe": 199710.9,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 19628959.06,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 1667741.87
+    },
+    {
+     "alicuota": 21,
+     "importe": 786597.67
+    }
+   ],
+   "percepciones": [],
+   "total": 22083298.6
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1543
+  },
+  "ms": 5596
+ },
+ "59f50b6d9ddc37755a64a2017eb6cb80": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "FRIGORÍFICO MESETA BLANCA S.A.",
+    "cuit": "30-71988472-1"
+   },
+   "puntoVenta": 4,
+   "numero": 2951,
+   "fecha": "2026-09-04",
+   "items": [
+    {
+     "codigo": "000433",
+     "descripcion": "POLLO ENTERO CONGELADO (KG)",
+     "cantidad": 273.7,
+     "precioUnitario": 3546.88,
+     "bonificacionPct": 0,
+     "importe": 970781.06,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000447",
+     "descripcion": "CHORIZO PARRILLERO (KG)",
+     "cantidad": 140,
+     "precioUnitario": 8079.94,
+     "bonificacionPct": 0,
+     "importe": 1131191.6,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000420",
+     "descripcion": "CARNE PICADA ESPECIAL (KG)",
+     "cantidad": 409,
+     "precioUnitario": 7209.23,
+     "bonificacionPct": 0,
+     "importe": 2948575.07,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000415",
+     "descripcion": "BOLA DE LOMO (KG)",
+     "cantidad": 312.5,
+     "precioUnitario": 9805.5,
+     "bonificacionPct": 0,
+     "importe": 3064218.75,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000412",
+     "descripcion": "MEDIA RES NOVILLO (KG)",
+     "cantidad": 343.5,
+     "precioUnitario": 5879.79,
+     "bonificacionPct": 0,
+     "importe": 2019707.87,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000451",
+     "descripcion": "HAMBURGUESAS 80 G X 36",
+     "cantidad": 5,
+     "precioUnitario": 21827.63,
+     "bonificacionPct": 0,
+     "importe": 109138.15,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000433",
+     "descripcion": "POLLO ENTERO CONGELADO (KG) (LOTE 885)",
+     "cantidad": 39,
+     "precioUnitario": 3383.29,
+     "bonificacionPct": 0,
+     "importe": 131948.31,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000447",
+     "descripcion": "CHORIZO PARRILLERO (KG) (LOTE 694)",
+     "cantidad": 229.6,
+     "precioUnitario": 8096.57,
+     "bonificacionPct": 0,
+     "importe": 1858972.47,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000420",
+     "descripcion": "CARNE PICADA ESPECIAL (KG) (LOTE 569)",
+     "cantidad": 407,
+     "precioUnitario": 7096.25,
+     "bonificacionPct": 0,
+     "importe": 2888173.75,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000415",
+     "descripcion": "BOLA DE LOMO (KG) (LOTE 993)",
+     "cantidad": 151.4,
+     "precioUnitario": 10339.62,
+     "bonificacionPct": 0,
+     "importe": 1565418.47,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000412",
+     "descripcion": "MEDIA RES NOVILLO (KG) (LOTE 136)",
+     "cantidad": 221.9,
+     "precioUnitario": 5849.52,
+     "bonificacionPct": 0,
+     "importe": 1298008.49,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000451",
+     "descripcion": "HAMBURGUESAS 80 G X 36 (LOTE 806)",
+     "cantidad": 22,
+     "precioUnitario": 22202.82,
+     "bonificacionPct": 0,
+     "importe": 488462.04,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000433",
+     "descripcion": "POLLO ENTERO CONGELADO (KG) (LOTE 464)",
+     "cantidad": 401.4,
+     "precioUnitario": 3463.35,
+     "bonificacionPct": 0,
+     "importe": 1390188.69,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 19864784.72
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1531
+  },
+  "ms": 4631
+ },
+ "34eadcb176773ef0670dbf56fb7ac46c": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bodega Piedra Callada S.R.L.",
+    "cuit": "30-71988118-8"
+   },
+   "puntoVenta": 2,
+   "numero": 8123,
+   "fecha": "2026-09-05",
+   "items": [
+    {
+     "codigo": "PC-PIN-75",
+     "descripcion": "Pinot noir 750 ml x 6",
+     "cantidad": 17,
+     "precioUnitario": 46519.2,
+     "bonificacionPct": 0,
+     "importe": 790826.4,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-MAL-75",
+     "descripcion": "Malbec reserva 750 ml x 6",
+     "cantidad": 6,
+     "precioUnitario": 39785.4,
+     "bonificacionPct": 0,
+     "importe": 238712.4,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-SAU-75",
+     "descripcion": "Sauvignon blanc 750 ml x 6",
+     "cantidad": 22,
+     "precioUnitario": 31528.44,
+     "bonificacionPct": 0,
+     "importe": 693625.68,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-MER-75",
+     "descripcion": "Merlot joven 750 ml x 6",
+     "cantidad": 23,
+     "precioUnitario": 29209.2,
+     "bonificacionPct": 0,
+     "importe": 671811.6,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-ESP-75",
+     "descripcion": "Espumante extra brut 750 ml x 6",
+     "cantidad": 33,
+     "precioUnitario": 51960.96,
+     "bonificacionPct": 0,
+     "importe": 1714711.68,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-DAM-5L",
+     "descripcion": "Tinto de mesa damajuana 5 L",
+     "cantidad": 24,
+     "precioUnitario": 9865.13,
+     "bonificacionPct": 0,
+     "importe": 236763.12,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-PIN-75",
+     "descripcion": "Pinot noir 750 ml x 6 (lote 949)",
+     "cantidad": 10,
+     "precioUnitario": 46378.8,
+     "bonificacionPct": 0,
+     "importe": 463788,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-MAL-75",
+     "descripcion": "Malbec reserva 750 ml x 6 (lote 165)",
+     "cantidad": 27,
+     "precioUnitario": 40365,
+     "bonificacionPct": 0,
+     "importe": 1089855,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 5900093.88,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 1239019.71
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Neuquén",
+     "importe": 147502.35
+    },
+    {
+     "concepto": "Percepción IVA RG 2408",
+     "importe": 177002.82
+    }
+   ],
+   "total": 7463618.76
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1114
+  },
+  "ms": 4304
+ },
+ "f1caa2dc6bcb6bf4cc74190ba25a3034": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Química Limpia Austral S.R.L.",
+    "cuit": "30-71988354-7"
+   },
+   "puntoVenta": 1,
+   "numero": 8194,
+   "fecha": "2026-09-08",
+   "items": [
+    {
+     "codigo": null,
+     "descripcion": "Bolsa de residuos 60x90 x 100",
+     "cantidad": 24,
+     "precioUnitario": 9085.58,
+     "bonificacionPct": 0,
+     "importe": 218053.92,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Desinfectante de pisos 900 ml x 12",
+     "cantidad": 22,
+     "precioUnitario": 17175.24,
+     "bonificacionPct": 0,
+     "importe": 377855.28,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Jabón líquido para ropa 3 L x 4",
+     "cantidad": 27,
+     "precioUnitario": 28314.8,
+     "bonificacionPct": 0,
+     "importe": 764499.6,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Detergente concentrado 750 ml x 12",
+     "cantidad": 38,
+     "precioUnitario": 19919.58,
+     "bonificacionPct": 5,
+     "importe": 719096.84,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Guantes de látex talle M x 12 pares",
+     "cantidad": 33,
+     "precioUnitario": 7264.18,
+     "bonificacionPct": 0,
+     "importe": 239717.94,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Papel higiénico 30 m x 48",
+     "cantidad": 19,
+     "precioUnitario": 21364.56,
+     "bonificacionPct": 0,
+     "importe": 405926.64,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 2725150.22,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 572281.55
+    }
+   ],
+   "percepciones": [],
+   "total": 3297431.77
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 775
+  },
+  "ms": 3415
+ },
+ "08cda8966cbcc798f2cbf4ce25ce18ec": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "FRIGORÍFICO MESETA BLANCA S.A.",
+    "cuit": "30-71988472-1"
+   },
+   "puntoVenta": 4,
+   "numero": 2956,
+   "fecha": "2026-09-11",
+   "items": [
+    {
+     "codigo": "000420",
+     "descripcion": "CARNE PICADA ESPECIAL (KG)",
+     "cantidad": 256.2,
+     "precioUnitario": 7060.95,
+     "bonificacionPct": 0,
+     "importe": 1809015.39,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000433",
+     "descripcion": "POLLO ENTERO CONGELADO (KG)",
+     "cantidad": 473.4,
+     "precioUnitario": 3432.02,
+     "bonificacionPct": 0,
+     "importe": 1624718.27,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000447",
+     "descripcion": "CHORIZO PARRILLERO (KG)",
+     "cantidad": 183.5,
+     "precioUnitario": 8063.32,
+     "bonificacionPct": 0,
+     "importe": 1479619.22,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000451",
+     "descripcion": "HAMBURGUESAS 80 G X 36",
+     "cantidad": 38,
+     "precioUnitario": 22070.4,
+     "bonificacionPct": 0,
+     "importe": 838675.2,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000415",
+     "descripcion": "BOLA DE LOMO (KG)",
+     "cantidad": 366.1,
+     "precioUnitario": 9815.58,
+     "bonificacionPct": 0,
+     "importe": 3593483.84,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000412",
+     "descripcion": "MEDIA RES NOVILLO (KG)",
+     "cantidad": 353.3,
+     "precioUnitario": 5861.63,
+     "bonificacionPct": 0,
+     "importe": 2070913.88,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000420",
+     "descripcion": "CARNE PICADA ESPECIAL (KG) (LOTE 495)",
+     "cantidad": 158.1,
+     "precioUnitario": 7195.11,
+     "bonificacionPct": 0,
+     "importe": 1137546.89,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000433",
+     "descripcion": "POLLO ENTERO CONGELADO (KG) (LOTE 916)",
+     "cantidad": 45.5,
+     "precioUnitario": 3619.98,
+     "bonificacionPct": 0,
+     "importe": 164709.09,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000447",
+     "descripcion": "CHORIZO PARRILLERO (KG) (LOTE 970)",
+     "cantidad": 275.5,
+     "precioUnitario": 8545.46,
+     "bonificacionPct": 0,
+     "importe": 2354274.23,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 15072956.01
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1076
+  },
+  "ms": 3620
+ },
+ "8bb9bcb672912974266976bfc13f2fb4": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "Lácteos Ñire Sur S.A.",
+    "cuit": "30-71988001-7"
+   },
+   "puntoVenta": 3,
+   "numero": 5182,
+   "fecha": "2026-09-11",
+   "items": [
+    {
+     "codigo": "LS-305",
+     "descripcion": "Queso cremoso horma (kg)",
+     "cantidad": 366.9,
+     "precioUnitario": 10699,
+     "bonificacionPct": 2,
+     "importe": 3846953.84,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "LS-102",
+     "descripcion": "Leche descremada larga vida 1 L x 12",
+     "cantidad": 35,
+     "precioUnitario": 16288.05,
+     "bonificacionPct": 5,
+     "importe": 541577.66,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "LS-520",
+     "descripcion": "Dulce de leche 1 kg x 6",
+     "cantidad": 29,
+     "precioUnitario": 26089.46,
+     "bonificacionPct": 0,
+     "importe": 756594.34,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "LS-306",
+     "descripcion": "Queso de rallar horma (kg)",
+     "cantidad": 338.5,
+     "precioUnitario": 16527.56,
+     "bonificacionPct": 0,
+     "importe": 5594579.06,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "LS-101",
+     "descripcion": "Leche entera larga vida 1 L x 12",
+     "cantidad": 30,
+     "precioUnitario": 15667.52,
+     "bonificacionPct": 3,
+     "importe": 455924.83,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "LS-410",
+     "descripcion": "Manteca 200 g x 20",
+     "cantidad": 13,
+     "precioUnitario": 38016.26,
+     "bonificacionPct": 2,
+     "importe": 484327.15,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "LS-210",
+     "descripcion": "Yogur bebible frutilla 900 g x 6",
+     "cantidad": 35,
+     "precioUnitario": 15657.64,
+     "bonificacionPct": 7.5,
+     "importe": 506916.1,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 12186872.98
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 871
+  },
+  "ms": 3949
+ },
+ "b77361da68859dc4d672f3509e0efb7b": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Molino Tres Ríos S.A.",
+    "cuit": "30-71988236-2"
+   },
+   "puntoVenta": 7,
+   "numero": 1918,
+   "fecha": "2026-09-12",
+   "items": [
+    {
+     "codigo": "MT-FS500",
+     "descripcion": "Fideos spaghetti 500 g x 20",
+     "cantidad": 11,
+     "precioUnitario": 18869.76,
+     "bonificacionPct": 0,
+     "importe": 207567.36,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-FM500",
+     "descripcion": "Fideos mostachol 500 g x 20",
+     "cantidad": 18,
+     "precioUnitario": 18570.24,
+     "bonificacionPct": 0,
+     "importe": 334264.32,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-H0000",
+     "descripcion": "Harina 0000 1 kg x 10",
+     "cantidad": 7,
+     "precioUnitario": 9582.3,
+     "bonificacionPct": 0,
+     "importe": 67076.1,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-H000",
+     "descripcion": "Harina 000 25 kg",
+     "cantidad": 6,
+     "precioUnitario": 17548.71,
+     "bonificacionPct": 0,
+     "importe": 105292.26,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-GAL",
+     "descripcion": "Galletitas de agua 300 g x 24",
+     "cantidad": 7,
+     "precioUnitario": 27295.3,
+     "bonificacionPct": 0,
+     "importe": 191067.1,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "MT-PRE",
+     "descripcion": "Premezcla para pizza 1 kg x 10",
+     "cantidad": 30,
+     "precioUnitario": 14918.9,
+     "bonificacionPct": 0,
+     "importe": 447567,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "MT-SEM",
+     "descripcion": "Sémola 1 kg x 10",
+     "cantidad": 16,
+     "precioUnitario": 10958.94,
+     "bonificacionPct": 0,
+     "importe": 175343.04,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-FS500",
+     "descripcion": "Fideos spaghetti 500 g x 20 (lote 852)",
+     "cantidad": 8,
+     "precioUnitario": 17989.92,
+     "bonificacionPct": 0,
+     "importe": 143919.36,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-FM500",
+     "descripcion": "Fideos mostachol 500 g x 20 (lote 997)",
+     "cantidad": 38,
+     "precioUnitario": 18064.8,
+     "bonificacionPct": 0,
+     "importe": 686462.4,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-H0000",
+     "descripcion": "Harina 0000 1 kg x 10 (lote 853)",
+     "cantidad": 26,
+     "precioUnitario": 9279.9,
+     "bonificacionPct": 0,
+     "importe": 241277.4,
+     "alicuotaIva": 10.5
+    }
+   ],
+   "netoGravado": 2599836.34,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 205926.24
+    },
+    {
+     "alicuota": 21,
+     "importe": 134113.16
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Río Negro",
+     "importe": 51996.73
+    }
+   ],
+   "total": 2991872.47
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1356
+  },
+  "ms": 4204
+ },
+ "dde6141ac3bab618336eca2bebdd6e79": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Lácteos Ñire Sur S.A.",
+    "cuit": "30-71988001-7"
+   },
+   "puntoVenta": 3,
+   "numero": 5201,
+   "fecha": "2026-09-12",
+   "items": [
+    {
+     "codigo": "LS-101",
+     "descripcion": "Leche entera larga vida 1 L x 12",
+     "cantidad": 37,
+     "precioUnitario": 14150.25,
+     "bonificacionPct": 0,
+     "importe": 523559.25,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-305",
+     "descripcion": "Queso cremoso horma (kg)",
+     "cantidad": 222.1,
+     "precioUnitario": 9172.95,
+     "bonificacionPct": 3,
+     "importe": 1976192.83,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-520",
+     "descripcion": "Dulce de leche 1 kg x 6",
+     "cantidad": 30,
+     "precioUnitario": 22121.58,
+     "bonificacionPct": 5,
+     "importe": 630465.03,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-410",
+     "descripcion": "Manteca 200 g x 20",
+     "cantidad": 13,
+     "precioUnitario": 32213.4,
+     "bonificacionPct": 2,
+     "importe": 410398.72,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-530",
+     "descripcion": "Crema de leche 350 g x 12",
+     "cantidad": 3,
+     "precioUnitario": 22668.14,
+     "bonificacionPct": 5,
+     "importe": 64604.2,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-102",
+     "descripcion": "Leche descremada larga vida 1 L x 12",
+     "cantidad": 8,
+     "precioUnitario": 15579.2,
+     "bonificacionPct": 15,
+     "importe": 105938.56,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-306",
+     "descripcion": "Queso de rallar horma (kg)",
+     "cantidad": 12.3,
+     "precioUnitario": 13474.2,
+     "bonificacionPct": 0,
+     "importe": 165732.66,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 3876891.25,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 66097.27
+    },
+    {
+     "alicuota": 21,
+     "importe": 681952.62
+    }
+   ],
+   "percepciones": [],
+   "total": 4624941.14
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 971
+  },
+  "ms": 3649
+ },
+ "3de5aca1b228872a5e3507e8559fe0cf": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "Química Limpia Austral S.R.L.",
+    "cuit": "30-71988354-7"
+   },
+   "puntoVenta": 1,
+   "numero": 8207,
+   "fecha": "2026-09-14",
+   "items": [
+    {
+     "codigo": null,
+     "descripcion": "Detergente concentrado 750 ml x 12",
+     "cantidad": 15,
+     "precioUnitario": 24511.21,
+     "bonificacionPct": 0,
+     "importe": 367668.15,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": null,
+     "descripcion": "Lavandina 5 L",
+     "cantidad": 13,
+     "precioUnitario": 4047.16,
+     "bonificacionPct": 0,
+     "importe": 52613.08,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": null,
+     "descripcion": "Papel higiénico 30 m x 48",
+     "cantidad": 17,
+     "precioUnitario": 27633.04,
+     "bonificacionPct": 0,
+     "importe": 469761.68,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": null,
+     "descripcion": "Jabón líquido para ropa 3 L x 4",
+     "cantidad": 35,
+     "precioUnitario": 33436.17,
+     "bonificacionPct": 0,
+     "importe": 1170265.95,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": null,
+     "descripcion": "Esponja doble uso x 40",
+     "cantidad": 40,
+     "precioUnitario": 14883.73,
+     "bonificacionPct": 0,
+     "importe": 595349.2,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 2655658.06
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 611
+  },
+  "ms": 3349
+ },
+ "ce7dd0a6d90225d3195258b070004a5c": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bebidas Cumbre Andina S.A.",
+    "cuit": "30-71988590-6"
+   },
+   "puntoVenta": 12,
+   "numero": 8354,
+   "fecha": "2026-09-14",
+   "items": [
+    {
+     "codigo": "CA-AGU",
+     "descripcion": "Agua mineral sin gas 2 L x 6",
+     "cantidad": 25,
+     "precioUnitario": 6163.2,
+     "bonificacionPct": 0,
+     "importe": 154080,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-LIM2",
+     "descripcion": "Gaseosa lima-limón 2,25 L x 8",
+     "cantidad": 2,
+     "precioUnitario": 14612.16,
+     "bonificacionPct": 0,
+     "importe": 29224.32,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-SOD",
+     "descripcion": "Soda en sifón 2 L x 6",
+     "cantidad": 2,
+     "precioUnitario": 5244.47,
+     "bonificacionPct": 0,
+     "importe": 10488.94,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-ENE",
+     "descripcion": "Bebida energizante 473 ml x 24",
+     "cantidad": 2,
+     "precioUnitario": 52800,
+     "bonificacionPct": 0,
+     "importe": 105600,
+     "alicuotaIva": 27
+    },
+    {
+     "codigo": "CA-JUG",
+     "descripcion": "Jugo de manzana 1 L x 12",
+     "cantidad": 21,
+     "precioUnitario": 19384.68,
+     "bonificacionPct": 0,
+     "importe": 407078.28,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-CER",
+     "descripcion": "Cerveza rubia lata 473 ml x 24",
+     "cantidad": 29,
+     "precioUnitario": 36824.4,
+     "bonificacionPct": 0,
+     "importe": 1067907.6,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-COL2",
+     "descripcion": "Gaseosa cola 2,25 L x 8",
+     "cantidad": 21,
+     "precioUnitario": 15688.68,
+     "bonificacionPct": 0,
+     "importe": 329462.28,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-AGU",
+     "descripcion": "Agua mineral sin gas 2 L x 6 (lote 629)",
+     "cantidad": 6,
+     "precioUnitario": 6188.88,
+     "bonificacionPct": 0,
+     "importe": 37133.28,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-LIM2",
+     "descripcion": "Gaseosa lima-limón 2,25 L x 8 (lote 121)",
+     "cantidad": 17,
+     "precioUnitario": 15118.08,
+     "bonificacionPct": 0,
+     "importe": 257007.36,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-SOD",
+     "descripcion": "Soda en sifón 2 L x 6 (lote 828)",
+     "cantidad": 25,
+     "precioUnitario": 5341.49,
+     "bonificacionPct": 0,
+     "importe": 133537.25,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 2531519.31,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 509443.06
+    },
+    {
+     "alicuota": 27,
+     "importe": 28512
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Río Negro",
+     "importe": 50630.39
+    },
+    {
+     "concepto": "Impuestos internos",
+     "importe": 101260.77
+    }
+   ],
+   "total": 3221365.53
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1300
+  },
+  "ms": 3885
+ },
+ "a7e7e388ea23fecdb4c2462e1e6ed707": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "Química Limpia Austral S.R.L.",
+    "cuit": "30-71988354-7"
+   },
+   "puntoVenta": 1,
+   "numero": 8218,
+   "fecha": "2026-09-16",
+   "items": [
+    {
+     "codigo": null,
+     "descripcion": "Jabón líquido para ropa 3 L x 4",
+     "cantidad": 1,
+     "precioUnitario": 33711.08,
+     "bonificacionPct": 0,
+     "importe": 33711.08,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": null,
+     "descripcion": "Bolsa de residuos 60x90 x 100",
+     "cantidad": 7,
+     "precioUnitario": 10423.44,
+     "bonificacionPct": 0,
+     "importe": 72964.08,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": null,
+     "descripcion": "Detergente concentrado 750 ml x 12",
+     "cantidad": 7,
+     "precioUnitario": 24343,
+     "bonificacionPct": 15,
+     "importe": 144840.85,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": null,
+     "descripcion": "Guantes de látex talle M x 12 pares",
+     "cantidad": 20,
+     "precioUnitario": 8933.31,
+     "bonificacionPct": 0,
+     "importe": 178666.2,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 430182.21
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 523
+  },
+  "ms": 3167
+ },
+ "b98cbf1ba85938706f6c8d0defcafe34": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Molino Tres Ríos S.A.",
+    "cuit": "30-71988236-2"
+   },
+   "puntoVenta": 7,
+   "numero": 1937,
+   "fecha": "2026-09-18",
+   "items": [
+    {
+     "codigo": "MT-SEM",
+     "descripcion": "Sémola 1 kg x 10",
+     "cantidad": 18,
+     "precioUnitario": 11618.98,
+     "bonificacionPct": 0,
+     "importe": 209141.64,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-FM500",
+     "descripcion": "Fideos mostachol 500 g x 20",
+     "cantidad": 9,
+     "precioUnitario": 19038.24,
+     "bonificacionPct": 0,
+     "importe": 171344.16,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-FS500",
+     "descripcion": "Fideos spaghetti 500 g x 20",
+     "cantidad": 19,
+     "precioUnitario": 18626.4,
+     "bonificacionPct": 0,
+     "importe": 353901.6,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-PRE",
+     "descripcion": "Premezcla para pizza 1 kg x 10",
+     "cantidad": 39,
+     "precioUnitario": 15088.96,
+     "bonificacionPct": 0,
+     "importe": 588469.44,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "MT-H0000",
+     "descripcion": "Harina 0000 1 kg x 10",
+     "cantidad": 25,
+     "precioUnitario": 9100.35,
+     "bonificacionPct": 0,
+     "importe": 227508.75,
+     "alicuotaIva": 10.5
+    }
+   ],
+   "netoGravado": 1550365.59,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 100999.1
+    },
+    {
+     "alicuota": 21,
+     "importe": 123578.58
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Río Negro",
+     "importe": 31007.31
+    }
+   ],
+   "total": 1805950.58
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 777
+  },
+  "ms": 3833
+ },
+ "99701a24e5b6df73c1ad99f7f9eb1adc": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "Lácteos Ñire Sur S.A.",
+    "cuit": "30-71988001-7"
+   },
+   "puntoVenta": 3,
+   "numero": 5233,
+   "fecha": "2026-09-20",
+   "items": [
+    {
+     "codigo": "LS-520",
+     "descripcion": "Dulce de leche 1 kg x 6",
+     "cantidad": 9,
+     "precioUnitario": 27053.81,
+     "bonificacionPct": 0,
+     "importe": 243484.29,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "LS-410",
+     "descripcion": "Manteca 200 g x 20",
+     "cantidad": 22,
+     "precioUnitario": 39978.64,
+     "bonificacionPct": 0,
+     "importe": 879530.08,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "LS-210",
+     "descripcion": "Yogur bebible frutilla 900 g x 6",
+     "cantidad": 26,
+     "precioUnitario": 15642.4,
+     "bonificacionPct": 0,
+     "importe": 406702.4,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 1529716.77
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 442
+  },
+  "ms": 2867
+ },
+ "f4dbc51cd31fb86abad087c4abdc89c4": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Química Limpia Austral S.R.L.",
+    "cuit": "30-71988354-7"
+   },
+   "puntoVenta": 1,
+   "numero": 8251,
+   "fecha": "2026-09-19",
+   "items": [
+    {
+     "codigo": null,
+     "descripcion": "Lavandina 5 L",
+     "cantidad": 5,
+     "precioUnitario": 3409.74,
+     "bonificacionPct": 0,
+     "importe": 17048.7,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Esponja doble uso x 40",
+     "cantidad": 3,
+     "precioUnitario": 12436.45,
+     "bonificacionPct": 0,
+     "importe": 37309.35,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Bolsa de residuos 60x90 x 100",
+     "cantidad": 39,
+     "precioUnitario": 8890,
+     "bonificacionPct": 0,
+     "importe": 346710,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Papel higiénico 30 m x 48",
+     "cantidad": 26,
+     "precioUnitario": 21276.64,
+     "bonificacionPct": 0,
+     "importe": 553192.64,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Detergente concentrado 750 ml x 12",
+     "cantidad": 32,
+     "precioUnitario": 20416.08,
+     "bonificacionPct": 0,
+     "importe": 653314.56,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Desinfectante de pisos 900 ml x 12",
+     "cantidad": 40,
+     "precioUnitario": 16321.5,
+     "bonificacionPct": 0,
+     "importe": 652860,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Jabón líquido para ropa 3 L x 4",
+     "cantidad": 39,
+     "precioUnitario": 27519.6,
+     "bonificacionPct": 0,
+     "importe": 1073264.4,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Guantes de látex talle M x 12 pares",
+     "cantidad": 13,
+     "precioUnitario": 7271.6,
+     "bonificacionPct": 0,
+     "importe": 94530.8,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Lavandina 5 L (lote 381)",
+     "cantidad": 23,
+     "precioUnitario": 3399.48,
+     "bonificacionPct": 0,
+     "importe": 78188.04,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Esponja doble uso x 40 (lote 976)",
+     "cantidad": 7,
+     "precioUnitario": 12732.85,
+     "bonificacionPct": 0,
+     "importe": 89129.95,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Bolsa de residuos 60x90 x 100 (lote 135)",
+     "cantidad": 13,
+     "precioUnitario": 8712.2,
+     "bonificacionPct": 0,
+     "importe": 113258.6,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Papel higiénico 30 m x 48 (lote 442)",
+     "cantidad": 26,
+     "precioUnitario": 22243.76,
+     "bonificacionPct": 0,
+     "importe": 578337.76,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Detergente concentrado 750 ml x 12 (lote 570)",
+     "cantidad": 36,
+     "precioUnitario": 19621.68,
+     "bonificacionPct": 0,
+     "importe": 706380.48,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 4993525.28,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 1048640.31
+    }
+   ],
+   "percepciones": [],
+   "total": 6042165.59
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1464
+  },
+  "ms": 4639
+ },
+ "1fd9866b770f3d7ecca71fc2b2c227a1": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bodega Piedra Callada S.R.L.",
+    "cuit": "30-71988118-8"
+   },
+   "puntoVenta": 2,
+   "numero": 8126,
+   "fecha": "2026-09-23",
+   "items": [
+    {
+     "codigo": "PC-DAM-5L",
+     "descripcion": "Tinto de mesa damajuana 5 L",
+     "cantidad": 19,
+     "precioUnitario": 9983.62,
+     "bonificacionPct": 0,
+     "importe": 189688.78,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-MAL-75",
+     "descripcion": "Malbec reserva 750 ml x 6",
+     "cantidad": 36,
+     "precioUnitario": 41193,
+     "bonificacionPct": 0,
+     "importe": 1482948,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-PIN-75",
+     "descripcion": "Pinot noir 750 ml x 6",
+     "cantidad": 36,
+     "precioUnitario": 47595.6,
+     "bonificacionPct": 0,
+     "importe": 1713441.6,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-MER-75",
+     "descripcion": "Merlot joven 750 ml x 6",
+     "cantidad": 7,
+     "precioUnitario": 28023.48,
+     "bonificacionPct": 0,
+     "importe": 196164.36,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-SAU-75",
+     "descripcion": "Sauvignon blanc 750 ml x 6",
+     "cantidad": 18,
+     "precioUnitario": 30802.56,
+     "bonificacionPct": 0,
+     "importe": 554446.08,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-ESP-75",
+     "descripcion": "Espumante extra brut 750 ml x 6",
+     "cantidad": 6,
+     "precioUnitario": 52327.62,
+     "bonificacionPct": 0,
+     "importe": 313965.72,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-DAM-5L",
+     "descripcion": "Tinto de mesa damajuana 5 L (lote 431)",
+     "cantidad": 21,
+     "precioUnitario": 9875,
+     "bonificacionPct": 0,
+     "importe": 207375,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 4658029.54,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 978186.2
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Neuquén",
+     "importe": 116450.74
+    },
+    {
+     "concepto": "Percepción IVA RG 2408",
+     "importe": 139740.89
+    }
+   ],
+   "total": 5892407.37
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 984
+  },
+  "ms": 3700
+ },
+ "3d1ea2da250b64d9bdb841e5a9340842": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bebidas Cumbre Andina S.A.",
+    "cuit": "30-71988590-6"
+   },
+   "puntoVenta": 12,
+   "numero": 8373,
+   "fecha": "2026-09-23",
+   "items": [
+    {
+     "codigo": "CA-ENE",
+     "descripcion": "Bebida energizante 473 ml x 24",
+     "cantidad": 11,
+     "precioUnitario": 51268.8,
+     "bonificacionPct": 0,
+     "importe": 563956.8,
+     "alicuotaIva": 27
+    },
+    {
+     "codigo": "CA-COL2",
+     "descripcion": "Gaseosa cola 2,25 L x 8",
+     "cantidad": 38,
+     "precioUnitario": 15624.84,
+     "bonificacionPct": 0,
+     "importe": 593743.92,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-CER",
+     "descripcion": "Cerveza rubia lata 473 ml x 24",
+     "cantidad": 31,
+     "precioUnitario": 39686.4,
+     "bonificacionPct": 0,
+     "importe": 1230278.4,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-LIM2",
+     "descripcion": "Gaseosa lima-limón 2,25 L x 8",
+     "cantidad": 24,
+     "precioUnitario": 14433.6,
+     "bonificacionPct": 0,
+     "importe": 346406.4,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-SOD",
+     "descripcion": "Soda en sifón 2 L x 6",
+     "cantidad": 14,
+     "precioUnitario": 5460.07,
+     "bonificacionPct": 0,
+     "importe": 76440.98,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-AGU",
+     "descripcion": "Agua mineral sin gas 2 L x 6",
+     "cantidad": 5,
+     "precioUnitario": 6503.46,
+     "bonificacionPct": 0,
+     "importe": 32517.3,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-JUG",
+     "descripcion": "Jugo de manzana 1 L x 12",
+     "cantidad": 20,
+     "precioUnitario": 19207.02,
+     "bonificacionPct": 0,
+     "importe": 384140.4,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-ENE",
+     "descripcion": "Bebida energizante 473 ml x 24 (lote 351)",
+     "cantidad": 8,
+     "precioUnitario": 54595.2,
+     "bonificacionPct": 0,
+     "importe": 436761.6,
+     "alicuotaIva": 27
+    },
+    {
+     "codigo": "CA-COL2",
+     "descripcion": "Gaseosa cola 2,25 L x 8 (lote 517)",
+     "cantidad": 24,
+     "precioUnitario": 15944.04,
+     "bonificacionPct": 0,
+     "importe": 382656.96,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-CER",
+     "descripcion": "Cerveza rubia lata 473 ml x 24 (lote 366)",
+     "cantidad": 34,
+     "precioUnitario": 38160,
+     "bonificacionPct": 0,
+     "importe": 1297440,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-LIM2",
+     "descripcion": "Gaseosa lima-limón 2,25 L x 8 (lote 492)",
+     "cantidad": 15,
+     "precioUnitario": 14493.12,
+     "bonificacionPct": 0,
+     "importe": 217396.8,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-SOD",
+     "descripcion": "Soda en sifón 2 L x 6 (lote 432)",
+     "cantidad": 38,
+     "precioUnitario": 5557.09,
+     "bonificacionPct": 0,
+     "importe": 211169.42,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 5772908.98,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 1002160.02
+    },
+    {
+     "alicuota": 27,
+     "importe": 270193.97
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Río Negro",
+     "importe": 115458.18
+    },
+    {
+     "concepto": "Impuestos internos",
+     "importe": 230916.36
+    }
+   ],
+   "total": 7391637.51
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1562
+  },
+  "ms": 4821
+ },
+ "296d8da4a8b2b4a81a3a8ed7b9c2457c": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "FRIGORÍFICO MESETA BLANCA S.A.",
+    "cuit": "30-71988472-1"
+   },
+   "puntoVenta": 4,
+   "numero": 2967,
+   "fecha": "2026-09-24",
+   "items": [
+    {
+     "codigo": "000415",
+     "descripcion": "BOLA DE LOMO (KG)",
+     "cantidad": 102.1,
+     "precioUnitario": 8791.68,
+     "bonificacionPct": 0,
+     "importe": 897630.53,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "000447",
+     "descripcion": "CHORIZO PARRILLERO (KG)",
+     "cantidad": 362.5,
+     "precioUnitario": 6876.87,
+     "bonificacionPct": 0,
+     "importe": 2492865.38,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "000433",
+     "descripcion": "POLLO ENTERO CONGELADO (KG)",
+     "cantidad": 318.9,
+     "precioUnitario": 3127.95,
+     "bonificacionPct": 0,
+     "importe": 997503.25,
+     "alicuotaIva": 10.5
+    }
+   ],
+   "netoGravado": 4387999.16,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 198989.05
+    },
+    {
+     "alicuota": 21,
+     "importe": 523501.73
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "PERCEPCIÓN IIBB NEUQUÉN",
+     "importe": 65819.99
+    }
+   ],
+   "total": 5176309.93
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 580
+  },
+  "ms": 3160
+ },
+ "7b15520df520e95a35988dbc7c83a8c1": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "Bodega Piedra Callada S.R.L.",
+    "cuit": "30-71988118-8"
+   },
+   "puntoVenta": 2,
+   "numero": 8156,
+   "fecha": "2026-09-25",
+   "items": [
+    {
+     "codigo": "PC-MAL-75",
+     "descripcion": "Malbec reserva 750 ml x 6",
+     "cantidad": 11,
+     "precioUnitario": 51045.79,
+     "bonificacionPct": 0,
+     "importe": 561503.69,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "PC-MER-75",
+     "descripcion": "Merlot joven 750 ml x 6",
+     "cantidad": 33,
+     "precioUnitario": 34713.25,
+     "bonificacionPct": 3,
+     "importe": 1111171.13,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "PC-SAU-75",
+     "descripcion": "Sauvignon blanc 750 ml x 6",
+     "cantidad": 22,
+     "precioUnitario": 39562.35,
+     "bonificacionPct": 0,
+     "importe": 870371.7,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "PC-DAM-5L",
+     "descripcion": "Tinto de mesa damajuana 5 L",
+     "cantidad": 12,
+     "precioUnitario": 12008.49,
+     "bonificacionPct": 0,
+     "importe": 144101.88,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "PC-ESP-75",
+     "descripcion": "Espumante extra brut 750 ml x 6",
+     "cantidad": 36,
+     "precioUnitario": 62809.38,
+     "bonificacionPct": 0,
+     "importe": 2261137.68,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "PC-PIN-75",
+     "descripcion": "Pinot noir 750 ml x 6",
+     "cantidad": 5,
+     "precioUnitario": 57024.4,
+     "bonificacionPct": 0,
+     "importe": 285122,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "PC-MAL-75",
+     "descripcion": "Malbec reserva 750 ml x 6 (lote 832)",
+     "cantidad": 5,
+     "precioUnitario": 50244.28,
+     "bonificacionPct": 15,
+     "importe": 213538.19,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "PC-MER-75",
+     "descripcion": "Merlot joven 750 ml x 6 (lote 877)",
+     "cantidad": 32,
+     "precioUnitario": 33873.42,
+     "bonificacionPct": 0,
+     "importe": 1083949.44,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "PC-SAU-75",
+     "descripcion": "Sauvignon blanc 750 ml x 6 (lote 254)",
+     "cantidad": 4,
+     "precioUnitario": 39180.48,
+     "bonificacionPct": 0,
+     "importe": 156721.92,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "PC-DAM-5L",
+     "descripcion": "Tinto de mesa damajuana 5 L (lote 502)",
+     "cantidad": 9,
+     "precioUnitario": 11781.47,
+     "bonificacionPct": 0,
+     "importe": 106033.23,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 6793650.86
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1172
+  },
+  "ms": 4191
+ },
+ "022990153443cf3221d519aa07a4c6a3": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bodega Piedra Callada S.R.L.",
+    "cuit": "30-71988118-8"
+   },
+   "puntoVenta": 2,
+   "numero": 8189,
+   "fecha": "2026-09-27",
+   "items": [
+    {
+     "codigo": "PC-MAL-75",
+     "descripcion": "Malbec reserva 750 ml x 6",
+     "cantidad": 20,
+     "precioUnitario": 42228,
+     "bonificacionPct": 15,
+     "importe": 717876,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-PIN-75",
+     "descripcion": "Pinot noir 750 ml x 6",
+     "cantidad": 19,
+     "precioUnitario": 47689.2,
+     "bonificacionPct": 0,
+     "importe": 906094.8,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-DAM-5L",
+     "descripcion": "Tinto de mesa damajuana 5 L",
+     "cantidad": 17,
+     "precioUnitario": 9697.25,
+     "bonificacionPct": 3,
+     "importe": 159907.65,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-MER-75",
+     "descripcion": "Merlot joven 750 ml x 6",
+     "cantidad": 9,
+     "precioUnitario": 27763.2,
+     "bonificacionPct": 0,
+     "importe": 249868.8,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-SAU-75",
+     "descripcion": "Sauvignon blanc 750 ml x 6",
+     "cantidad": 6,
+     "precioUnitario": 31339.08,
+     "bonificacionPct": 12,
+     "importe": 165470.34,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-ESP-75",
+     "descripcion": "Espumante extra brut 750 ml x 6",
+     "cantidad": 10,
+     "precioUnitario": 52170.48,
+     "bonificacionPct": 0,
+     "importe": 521704.8,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 2720922.39,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 571393.7
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Neuquén",
+     "importe": 68023.06
+    },
+    {
+     "concepto": "Percepción IVA RG 2408",
+     "importe": 81627.67
+    }
+   ],
+   "total": 3441966.82
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 914
+  },
+  "ms": 3648
+ },
+ "bc91254433ddfa9cb6068ff4fa8a84bd": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Química Limpia Austral S.R.L.",
+    "cuit": "30-71988354-7"
+   },
+   "puntoVenta": 1,
+   "numero": 8271,
+   "fecha": "2026-09-28",
+   "items": [
+    {
+     "codigo": null,
+     "descripcion": "Guantes de látex talle M x 12 pares",
+     "cantidad": 16,
+     "precioUnitario": 7420,
+     "bonificacionPct": 0,
+     "importe": 118720,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Jabón líquido para ropa 3 L x 4",
+     "cantidad": 22,
+     "precioUnitario": 27746.8,
+     "bonificacionPct": 0,
+     "importe": 610429.6,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Desinfectante de pisos 900 ml x 12",
+     "cantidad": 18,
+     "precioUnitario": 16957.62,
+     "bonificacionPct": 0,
+     "importe": 305237.16,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Bolsa de residuos 60x90 x 100",
+     "cantidad": 10,
+     "precioUnitario": 9218.93,
+     "bonificacionPct": 10,
+     "importe": 82970.37,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Esponja doble uso x 40",
+     "cantidad": 26,
+     "precioUnitario": 12350,
+     "bonificacionPct": 15,
+     "importe": 272935,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Lavandina 5 L",
+     "cantidad": 20,
+     "precioUnitario": 3433.68,
+     "bonificacionPct": 5,
+     "importe": 65239.92,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Papel higiénico 30 m x 48",
+     "cantidad": 38,
+     "precioUnitario": 22045.94,
+     "bonificacionPct": 0,
+     "importe": 837745.72,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Detergente concentrado 750 ml x 12",
+     "cantidad": 30,
+     "precioUnitario": 19264.2,
+     "bonificacionPct": 5,
+     "importe": 549029.7,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Guantes de látex talle M x 12 pares (lote 249)",
+     "cantidad": 25,
+     "precioUnitario": 7330.96,
+     "bonificacionPct": 0,
+     "importe": 183274,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Jabón líquido para ropa 3 L x 4 (lote 738)",
+     "cantidad": 13,
+     "precioUnitario": 28286.4,
+     "bonificacionPct": 2,
+     "importe": 360368.74,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Desinfectante de pisos 900 ml x 12 (lote 180)",
+     "cantidad": 13,
+     "precioUnitario": 16840.44,
+     "bonificacionPct": 0,
+     "importe": 218925.72,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Bolsa de residuos 60x90 x 100 (lote 376)",
+     "cantidad": 39,
+     "precioUnitario": 9201.15,
+     "bonificacionPct": 2,
+     "importe": 351667.95,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Esponja doble uso x 40 (lote 706)",
+     "cantidad": 35,
+     "precioUnitario": 12140.05,
+     "bonificacionPct": 2,
+     "importe": 416403.72,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Lavandina 5 L (lote 106)",
+     "cantidad": 38,
+     "precioUnitario": 3389.22,
+     "bonificacionPct": 7.5,
+     "importe": 119131.08,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 4492078.68,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 943336.52
+    }
+   ],
+   "percepciones": [],
+   "total": 5435415.2
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1647
+  },
+  "ms": 4990
+ },
+ "ffb6381cfbf5ec70c92ad026bdc600fb": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "Bebidas Cumbre Andina S.A.",
+    "cuit": "30-71988590-6"
+   },
+   "puntoVenta": 12,
+   "numero": 8382,
+   "fecha": "2026-10-02",
+   "items": [
+    {
+     "codigo": "CA-COL2",
+     "descripcion": "Gaseosa cola 2,25 L x 8",
+     "cantidad": 24,
+     "precioUnitario": 19562.65,
+     "bonificacionPct": 0,
+     "importe": 469503.6,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "CA-LIM2",
+     "descripcion": "Gaseosa lima-limón 2,25 L x 8",
+     "cantidad": 19,
+     "precioUnitario": 18328.89,
+     "bonificacionPct": 0,
+     "importe": 348248.91,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "CA-SOD",
+     "descripcion": "Soda en sifón 2 L x 6",
+     "cantidad": 35,
+     "precioUnitario": 6378.42,
+     "bonificacionPct": 0,
+     "importe": 223244.7,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "CA-AGU",
+     "descripcion": "Agua mineral sin gas 2 L x 6",
+     "cantidad": 24,
+     "precioUnitario": 7535.15,
+     "bonificacionPct": 0,
+     "importe": 180843.6,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "CA-JUG",
+     "descripcion": "Jugo de manzana 1 L x 12",
+     "cantidad": 34,
+     "precioUnitario": 24649.73,
+     "bonificacionPct": 0,
+     "importe": 838090.82,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "CA-ENE",
+     "descripcion": "Bebida energizante 473 ml x 24",
+     "cantidad": 18,
+     "precioUnitario": 64843.15,
+     "bonificacionPct": 0,
+     "importe": 1167176.7,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "CA-CER",
+     "descripcion": "Cerveza rubia lata 473 ml x 24",
+     "cantidad": 5,
+     "precioUnitario": 44326.66,
+     "bonificacionPct": 10,
+     "importe": 199469.97,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 3426578.3
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 833
+  },
+  "ms": 3345
+ },
+ "8488b2de60cdb4513c8b97b936242ef3": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Molino Tres Ríos S.A.",
+    "cuit": "30-71988236-2"
+   },
+   "puntoVenta": 7,
+   "numero": 1978,
+   "fecha": "2026-10-02",
+   "items": [
+    {
+     "codigo": "MT-FM500",
+     "descripcion": "Fideos mostachol 500 g x 20",
+     "cantidad": 10,
+     "precioUnitario": 18963.36,
+     "bonificacionPct": 0,
+     "importe": 189633.6,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-H0000",
+     "descripcion": "Harina 0000 1 kg x 10",
+     "cantidad": 11,
+     "precioUnitario": 9383.85,
+     "bonificacionPct": 0,
+     "importe": 103222.35,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-GAL",
+     "descripcion": "Galletitas de agua 300 g x 24",
+     "cantidad": 1,
+     "precioUnitario": 27486.75,
+     "bonificacionPct": 0,
+     "importe": 27486.75,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "MT-PRE",
+     "descripcion": "Premezcla para pizza 1 kg x 10",
+     "cantidad": 28,
+     "precioUnitario": 14934.36,
+     "bonificacionPct": 0,
+     "importe": 418162.08,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "MT-H000",
+     "descripcion": "Harina 000 25 kg",
+     "cantidad": 28,
+     "precioUnitario": 17464.26,
+     "bonificacionPct": 0,
+     "importe": 488999.28,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-SEM",
+     "descripcion": "Sémola 1 kg x 10",
+     "cantidad": 30,
+     "precioUnitario": 11687.26,
+     "bonificacionPct": 0,
+     "importe": 350617.8,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-FS500",
+     "descripcion": "Fideos spaghetti 500 g x 20",
+     "cantidad": 19,
+     "precioUnitario": 18308.16,
+     "bonificacionPct": 0,
+     "importe": 347855.04,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-FM500",
+     "descripcion": "Fideos mostachol 500 g x 20 (lote 281)",
+     "cantidad": 2,
+     "precioUnitario": 18214.56,
+     "bonificacionPct": 0,
+     "importe": 36429.12,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-H0000",
+     "descripcion": "Harina 0000 1 kg x 10 (lote 613)",
+     "cantidad": 14,
+     "precioUnitario": 9232.65,
+     "bonificacionPct": 0,
+     "importe": 129257.1,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-GAL",
+     "descripcion": "Galletitas de agua 300 g x 24 (lote 750)",
+     "cantidad": 27,
+     "precioUnitario": 26967.1,
+     "bonificacionPct": 0,
+     "importe": 728111.7,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "MT-PRE",
+     "descripcion": "Premezcla para pizza 1 kg x 10 (lote 456)",
+     "cantidad": 20,
+     "precioUnitario": 15212.64,
+     "bonificacionPct": 0,
+     "importe": 304252.8,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "MT-H000",
+     "descripcion": "Harina 000 25 kg (lote 832)",
+     "cantidad": 8,
+     "precioUnitario": 17160.24,
+     "bonificacionPct": 0,
+     "importe": 137281.92,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-SEM",
+     "descripcion": "Sémola 1 kg x 10 (lote 723)",
+     "cantidad": 5,
+     "precioUnitario": 11710.02,
+     "bonificacionPct": 0,
+     "importe": 58550.1,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-FS500",
+     "descripcion": "Fideos spaghetti 500 g x 20 (lote 903)",
+     "cantidad": 32,
+     "precioUnitario": 18046.08,
+     "bonificacionPct": 0,
+     "importe": 577474.56,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-FM500",
+     "descripcion": "Fideos mostachol 500 g x 20 (lote 979)",
+     "cantidad": 40,
+     "precioUnitario": 18027.36,
+     "bonificacionPct": 0,
+     "importe": 721094.4,
+     "alicuotaIva": 10.5
+    }
+   ],
+   "netoGravado": 4618428.6,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 329743.6
+    },
+    {
+     "alicuota": 21,
+     "importe": 310382.8
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Río Negro",
+     "importe": 92368.57
+    }
+   ],
+   "total": 5350923.57
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1850
+  },
+  "ms": 5363
+ },
+ "13e3aa61bb2791b0fbd3d456f93553b4": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Lácteos Ñire Sur S.A.",
+    "cuit": "30-71988001-7"
+   },
+   "puntoVenta": 3,
+   "numero": 5237,
+   "fecha": "2026-10-02",
+   "items": [
+    {
+     "codigo": "LS-102",
+     "descripcion": "Leche descremada larga vida 1 L x 12",
+     "cantidad": 7,
+     "precioUnitario": 15519.28,
+     "bonificacionPct": 15,
+     "importe": 92339.72,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-520",
+     "descripcion": "Dulce de leche 1 kg x 6",
+     "cantidad": 17,
+     "precioUnitario": 20678.4,
+     "bonificacionPct": 7.5,
+     "importe": 325167.84,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-101",
+     "descripcion": "Leche entera larga vida 1 L x 12",
+     "cantidad": 17,
+     "precioUnitario": 14193,
+     "bonificacionPct": 7.5,
+     "importe": 223184.93,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-305",
+     "descripcion": "Queso cremoso horma (kg)",
+     "cantidad": 307.6,
+     "precioUnitario": 8931.56,
+     "bonificacionPct": 0,
+     "importe": 2747347.86,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-410",
+     "descripcion": "Manteca 200 g x 20",
+     "cantidad": 23,
+     "precioUnitario": 31545.6,
+     "bonificacionPct": 0,
+     "importe": 725548.8,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-530",
+     "descripcion": "Crema de leche 350 g x 12",
+     "cantidad": 17,
+     "precioUnitario": 22599.17,
+     "bonificacionPct": 0,
+     "importe": 384185.89,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-306",
+     "descripcion": "Queso de rallar horma (kg)",
+     "cantidad": 343.8,
+     "precioUnitario": 13170.37,
+     "bonificacionPct": 0,
+     "importe": 4527973.21,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-210",
+     "descripcion": "Yogur bebible frutilla 900 g x 6",
+     "cantidad": 23,
+     "precioUnitario": 12902.4,
+     "bonificacionPct": 0,
+     "importe": 296755.2,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-102",
+     "descripcion": "Leche descremada larga vida 1 L x 12 (lote 509)",
+     "cantidad": 12,
+     "precioUnitario": 14425.74,
+     "bonificacionPct": 0,
+     "importe": 173108.88,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-520",
+     "descripcion": "Dulce de leche 1 kg x 6 (lote 241)",
+     "cantidad": 8,
+     "precioUnitario": 21798.48,
+     "bonificacionPct": 0,
+     "importe": 174387.84,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-101",
+     "descripcion": "Leche entera larga vida 1 L x 12 (lote 224)",
+     "cantidad": 18,
+     "precioUnitario": 13794,
+     "bonificacionPct": 15,
+     "importe": 211048.2,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-305",
+     "descripcion": "Queso cremoso horma (kg) (lote 317)",
+     "cantidad": 429.7,
+     "precioUnitario": 8967.32,
+     "bonificacionPct": 15,
+     "importe": 3275268.79,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-410",
+     "descripcion": "Manteca 200 g x 20 (lote 105)",
+     "cantidad": 28,
+     "precioUnitario": 30877.8,
+     "bonificacionPct": 0,
+     "importe": 864578.4,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 14020895.56,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 73466.58
+    },
+    {
+     "alicuota": 21,
+     "importe": 2797454.9
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Neuquén",
+     "importe": 420626.87
+    }
+   ],
+   "total": 17312443.91
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1622
+  },
+  "ms": 4849
+ },
+ "57e4abcff7b54dfe957b598e7f985b08": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bodega Piedra Callada S.R.L.",
+    "cuit": "30-71988118-8"
+   },
+   "puntoVenta": 2,
+   "numero": 8211,
+   "fecha": "2026-10-04",
+   "items": [
+    {
+     "codigo": "PC-SAU-75",
+     "descripcion": "Sauvignon blanc 750 ml x 6",
+     "cantidad": 5,
+     "precioUnitario": 31023.48,
+     "bonificacionPct": 0,
+     "importe": 155117.4,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-MER-75",
+     "descripcion": "Merlot joven 750 ml x 6",
+     "cantidad": 34,
+     "precioUnitario": 30076.8,
+     "bonificacionPct": 15,
+     "importe": 869219.52,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-DAM-5L",
+     "descripcion": "Tinto de mesa damajuana 5 L",
+     "cantidad": 39,
+     "precioUnitario": 10171.25,
+     "bonificacionPct": 0,
+     "importe": 396678.75,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 1421015.67,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 298413.29
+    }
+   ],
+   "percepciones": [],
+   "total": 1719428.96
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 500
+  },
+  "ms": 2392
+ },
+ "9f8cb9dd038a95dadb465ea91b7d938d": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "Bodega Piedra Callada S.R.L.",
+    "cuit": "30-71988118-8"
+   },
+   "puntoVenta": 2,
+   "numero": 8197,
+   "fecha": "2026-10-02",
+   "items": [
+    {
+     "codigo": "PC-MER-75",
+     "descripcion": "Merlot joven 750 ml x 6",
+     "cantidad": 17,
+     "precioUnitario": 34223.35,
+     "bonificacionPct": 0,
+     "importe": 581796.95,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "PC-MAL-75",
+     "descripcion": "Malbec reserva 750 ml x 6",
+     "cantidad": 29,
+     "precioUnitario": 51546.73,
+     "bonificacionPct": 0,
+     "importe": 1494855.17,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "PC-PIN-75",
+     "descripcion": "Pinot noir 750 ml x 6",
+     "cantidad": 8,
+     "precioUnitario": 55382.18,
+     "bonificacionPct": 0,
+     "importe": 443057.44,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "PC-ESP-75",
+     "descripcion": "Espumante extra brut 750 ml x 6",
+     "cantidad": 5,
+     "precioUnitario": 64457.26,
+     "bonificacionPct": 0,
+     "importe": 322286.3,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "PC-SAU-75",
+     "descripcion": "Sauvignon blanc 750 ml x 6",
+     "cantidad": 17,
+     "precioUnitario": 39295.04,
+     "bonificacionPct": 0,
+     "importe": 668015.68,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 3510011.54
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 668
+  },
+  "ms": 2957
+ },
+ "5bf2cb743427445b923a16ae294dc166": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Química Limpia Austral S.R.L.",
+    "cuit": "30-71988354-7"
+   },
+   "puntoVenta": 1,
+   "numero": 8274,
+   "fecha": "2026-10-09",
+   "items": [
+    {
+     "codigo": null,
+     "descripcion": "Desinfectante de pisos 900 ml x 12",
+     "cantidad": 19,
+     "precioUnitario": 16572.6,
+     "bonificacionPct": 0,
+     "importe": 314879.4,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Lavandina 5 L",
+     "cantidad": 19,
+     "precioUnitario": 3375.54,
+     "bonificacionPct": 0,
+     "importe": 64135.26,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 379014.66,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 79593.08
+    }
+   ],
+   "percepciones": [],
+   "total": 458607.74
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 389
+  },
+  "ms": 2407
+ },
+ "896df97e1fa508f1d767c08b651dbef7": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Lácteos Ñire Sur S.A.",
+    "cuit": "30-71988001-7"
+   },
+   "puntoVenta": 3,
+   "numero": 5250,
+   "fecha": "2026-10-08",
+   "items": [
+    {
+     "codigo": "LS-102",
+     "descripcion": "Leche descremada larga vida 1 L x 12",
+     "cantidad": 25,
+     "precioUnitario": 14680.4,
+     "bonificacionPct": 0,
+     "importe": 367010,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-530",
+     "descripcion": "Crema de leche 350 g x 12",
+     "cantidad": 18,
+     "precioUnitario": 22208.34,
+     "bonificacionPct": 0,
+     "importe": 399750.12,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-210",
+     "descripcion": "Yogur bebible frutilla 900 g x 6",
+     "cantidad": 29,
+     "precioUnitario": 12700.8,
+     "bonificacionPct": 0,
+     "importe": 368323.2,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-101",
+     "descripcion": "Leche entera larga vida 1 L x 12",
+     "cantidad": 34,
+     "precioUnitario": 14734.5,
+     "bonificacionPct": 0,
+     "importe": 500973,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-306",
+     "descripcion": "Queso de rallar horma (kg)",
+     "cantidad": 296.1,
+     "precioUnitario": 13051.48,
+     "bonificacionPct": 0,
+     "importe": 3864543.23,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-520",
+     "descripcion": "Dulce de leche 1 kg x 6",
+     "cantidad": 29,
+     "precioUnitario": 22315.44,
+     "bonificacionPct": 0,
+     "importe": 647147.76,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-305",
+     "descripcion": "Queso cremoso horma (kg)",
+     "cantidad": 403.7,
+     "precioUnitario": 9092.49,
+     "bonificacionPct": 0,
+     "importe": 3670638.21,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-410",
+     "descripcion": "Manteca 200 g x 20",
+     "cantidad": 30,
+     "precioUnitario": 30782.4,
+     "bonificacionPct": 0,
+     "importe": 923472,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-102",
+     "descripcion": "Leche descremada larga vida 1 L x 12 (lote 693)",
+     "cantidad": 39,
+     "precioUnitario": 15519.28,
+     "bonificacionPct": 0,
+     "importe": 605251.92,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-530",
+     "descripcion": "Crema de leche 350 g x 12 (lote 308)",
+     "cantidad": 9,
+     "precioUnitario": 22507.21,
+     "bonificacionPct": 0,
+     "importe": 202564.89,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-210",
+     "descripcion": "Yogur bebible frutilla 900 g x 6 (lote 474)",
+     "cantidad": 32,
+     "precioUnitario": 12285,
+     "bonificacionPct": 0,
+     "importe": 393120,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 11942794.33,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 154689.67
+    },
+    {
+     "alicuota": 21,
+     "importe": 2198607.48
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Neuquén",
+     "importe": 358283.83
+    }
+   ],
+   "total": 14654375.31
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1433
+  },
+  "ms": 4906
+ },
+ "3467d9e475f1d6b7da1427657621f6de": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Molino Tres Ríos S.A.",
+    "cuit": "30-71988236-2"
+   },
+   "puntoVenta": 7,
+   "numero": 2018,
+   "fecha": "2026-10-14",
+   "items": [
+    {
+     "codigo": "MT-FS500",
+     "descripcion": "Fideos spaghetti 500 g x 20",
+     "cantidad": 31,
+     "precioUnitario": 18383.04,
+     "bonificacionPct": 0,
+     "importe": 569874.24,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-H000",
+     "descripcion": "Harina 000 25 kg",
+     "cantidad": 30,
+     "precioUnitario": 17075.79,
+     "bonificacionPct": 0,
+     "importe": 512273.7,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-PRE",
+     "descripcion": "Premezcla para pizza 1 kg x 10",
+     "cantidad": 30,
+     "precioUnitario": 15691.9,
+     "bonificacionPct": 0,
+     "importe": 470757,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "MT-FM500",
+     "descripcion": "Fideos mostachol 500 g x 20",
+     "cantidad": 32,
+     "precioUnitario": 19450.08,
+     "bonificacionPct": 0,
+     "importe": 622402.56,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-GAL",
+     "descripcion": "Galletitas de agua 300 g x 24",
+     "cantidad": 4,
+     "precioUnitario": 27678.2,
+     "bonificacionPct": 0,
+     "importe": 110712.8,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "MT-H0000",
+     "descripcion": "Harina 0000 1 kg x 10",
+     "cantidad": 26,
+     "precioUnitario": 9213.75,
+     "bonificacionPct": 0,
+     "importe": 239557.5,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-SEM",
+     "descripcion": "Sémola 1 kg x 10",
+     "cantidad": 27,
+     "precioUnitario": 11072.74,
+     "bonificacionPct": 0,
+     "importe": 298963.98,
+     "alicuotaIva": 10.5
+    }
+   ],
+   "netoGravado": 2824541.78,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 235522.56
+    },
+    {
+     "alicuota": 21,
+     "importe": 122108.66
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Río Negro",
+     "importe": 56490.84
+    }
+   ],
+   "total": 3238663.84
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 983
+  },
+  "ms": 3255
+ },
+ "22a86ef42880a763026693e6c5e35acf": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bodega Piedra Callada S.R.L.",
+    "cuit": "30-71988118-8"
+   },
+   "puntoVenta": 2,
+   "numero": 8230,
+   "fecha": "2026-10-14",
+   "items": [
+    {
+     "codigo": "PC-MER-75",
+     "descripcion": "Merlot joven 750 ml x 6",
+     "cantidad": 31,
+     "precioUnitario": 28283.76,
+     "bonificacionPct": 0,
+     "importe": 876796.56,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-ESP-75",
+     "descripcion": "Espumante extra brut 750 ml x 6",
+     "cantidad": 28,
+     "precioUnitario": 52222.86,
+     "bonificacionPct": 15,
+     "importe": 1242904.07,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-DAM-5L",
+     "descripcion": "Tinto de mesa damajuana 5 L",
+     "cantidad": 33,
+     "precioUnitario": 10082.37,
+     "bonificacionPct": 0,
+     "importe": 332718.21,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-PIN-75",
+     "descripcion": "Pinot noir 750 ml x 6",
+     "cantidad": 34,
+     "precioUnitario": 45021.6,
+     "bonificacionPct": 0,
+     "importe": 1530734.4,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-SAU-75",
+     "descripcion": "Sauvignon blanc 750 ml x 6",
+     "cantidad": 5,
+     "precioUnitario": 32790.84,
+     "bonificacionPct": 7.5,
+     "importe": 151657.63,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 4134810.87,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 868310.28
+    }
+   ],
+   "percepciones": [],
+   "total": 5003121.15
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 707
+  },
+  "ms": 3059
+ },
+ "2199f9183226793a20f4f83f3c180f05": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bebidas Cumbre Andina S.A.",
+    "cuit": "30-71988590-6"
+   },
+   "puntoVenta": 12,
+   "numero": 8395,
+   "fecha": "2026-10-16",
+   "items": [
+    {
+     "codigo": "CA-CER",
+     "descripcion": "Cerveza rubia lata 473 ml x 24",
+     "cantidad": 16,
+     "precioUnitario": 39571.92,
+     "bonificacionPct": 0,
+     "importe": 633150.72,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-AGU",
+     "descripcion": "Agua mineral sin gas 2 L x 6",
+     "cantidad": 22,
+     "precioUnitario": 6619.02,
+     "bonificacionPct": 0,
+     "importe": 145618.44,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-ENE",
+     "descripcion": "Bebida energizante 473 ml x 24",
+     "cantidad": 35,
+     "precioUnitario": 51638.4,
+     "bonificacionPct": 0,
+     "importe": 1807344,
+     "alicuotaIva": 27
+    }
+   ],
+   "netoGravado": 2586113.16,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 163541.52
+    },
+    {
+     "alicuota": 27,
+     "importe": 487982.88
+    }
+   ],
+   "percepciones": [],
+   "total": 3237637.56
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 529
+  },
+  "ms": 2916
+ },
+ "d797716c3a9ac8b5c766c7d811e3f455": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bebidas Cumbre Andina S.A.",
+    "cuit": "30-71988590-6"
+   },
+   "puntoVenta": 12,
+   "numero": 8398,
+   "fecha": "2026-10-18",
+   "items": [
+    {
+     "codigo": "CA-CER",
+     "descripcion": "Cerveza rubia lata 473 ml x 24",
+     "cantidad": 24,
+     "precioUnitario": 37511.28,
+     "bonificacionPct": 0,
+     "importe": 900270.72,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-LIM2",
+     "descripcion": "Gaseosa lima-limón 2,25 L x 8",
+     "cantidad": 4,
+     "precioUnitario": 14686.56,
+     "bonificacionPct": 0,
+     "importe": 58746.24,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-ENE",
+     "descripcion": "Bebida energizante 473 ml x 24",
+     "cantidad": 23,
+     "precioUnitario": 51955.2,
+     "bonificacionPct": 0,
+     "importe": 1194969.6,
+     "alicuotaIva": 27
+    },
+    {
+     "codigo": "CA-JUG",
+     "descripcion": "Jugo de manzana 1 L x 12",
+     "cantidad": 10,
+     "precioUnitario": 19443.9,
+     "bonificacionPct": 0,
+     "importe": 194439,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-COL2",
+     "descripcion": "Gaseosa cola 2,25 L x 8",
+     "cantidad": 33,
+     "precioUnitario": 15497.16,
+     "bonificacionPct": 0,
+     "importe": 511406.28,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-AGU",
+     "descripcion": "Agua mineral sin gas 2 L x 6",
+     "cantidad": 1,
+     "precioUnitario": 6612.6,
+     "bonificacionPct": 0,
+     "importe": 6612.6,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-SOD",
+     "descripcion": "Soda en sifón 2 L x 6",
+     "cantidad": 8,
+     "precioUnitario": 5276.81,
+     "bonificacionPct": 0,
+     "importe": 42214.48,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-CER",
+     "descripcion": "Cerveza rubia lata 473 ml x 24 (lote 131)",
+     "cantidad": 7,
+     "precioUnitario": 37549.44,
+     "bonificacionPct": 0,
+     "importe": 262846.08,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-LIM2",
+     "descripcion": "Gaseosa lima-limón 2,25 L x 8 (lote 375)",
+     "cantidad": 34,
+     "precioUnitario": 14567.52,
+     "bonificacionPct": 0,
+     "importe": 495295.68,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-ENE",
+     "descripcion": "Bebida energizante 473 ml x 24 (lote 497)",
+     "cantidad": 18,
+     "precioUnitario": 52800,
+     "bonificacionPct": 0,
+     "importe": 950400,
+     "alicuotaIva": 27
+    }
+   ],
+   "netoGravado": 4617200.68,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 519084.53
+    },
+    {
+     "alicuota": 27,
+     "importe": 579249.79
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Río Negro",
+     "importe": 92344.01
+    },
+    {
+     "concepto": "Impuestos internos",
+     "importe": 184688.03
+    }
+   ],
+   "total": 5992567.04
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1308
+  },
+  "ms": 3503
+ },
+ "88bf62194dd0dc9a5e27dd948a43b931": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "Molino Tres Ríos S.A.",
+    "cuit": "30-71988236-2"
+   },
+   "puntoVenta": 7,
+   "numero": 2055,
+   "fecha": "2026-10-19",
+   "items": [
+    {
+     "codigo": "MT-FS500",
+     "descripcion": "Fideos spaghetti 500 g x 20",
+     "cantidad": 40,
+     "precioUnitario": 20706.29,
+     "bonificacionPct": 3,
+     "importe": 803404.05,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "MT-H0000",
+     "descripcion": "Harina 0000 1 kg x 10",
+     "cantidad": 35,
+     "precioUnitario": 10337.83,
+     "bonificacionPct": 0,
+     "importe": 361824.05,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "MT-GAL",
+     "descripcion": "Galletitas de agua 300 g x 24",
+     "cantidad": 29,
+     "precioUnitario": 34152.49,
+     "bonificacionPct": 5,
+     "importe": 940901.1,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "MT-H000",
+     "descripcion": "Harina 000 25 kg",
+     "cantidad": 10,
+     "precioUnitario": 18775.43,
+     "bonificacionPct": 0,
+     "importe": 187754.3,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "MT-SEM",
+     "descripcion": "Sémola 1 kg x 10",
+     "cantidad": 32,
+     "precioUnitario": 12725.8,
+     "bonificacionPct": 0,
+     "importe": 407225.6,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "MT-FM500",
+     "descripcion": "Fideos mostachol 500 g x 20",
+     "cantidad": 3,
+     "precioUnitario": 20354.63,
+     "bonificacionPct": 0,
+     "importe": 61063.89,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "MT-PRE",
+     "descripcion": "Premezcla para pizza 1 kg x 10",
+     "cantidad": 33,
+     "precioUnitario": 19398.74,
+     "bonificacionPct": 5,
+     "importe": 608150.5,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "MT-FS500",
+     "descripcion": "Fideos spaghetti 500 g x 20 (lote 986)",
+     "cantidad": 33,
+     "precioUnitario": 21016.57,
+     "bonificacionPct": 0,
+     "importe": 693546.81,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "MT-H0000",
+     "descripcion": "Harina 0000 1 kg x 10 (lote 323)",
+     "cantidad": 8,
+     "precioUnitario": 10578,
+     "bonificacionPct": 0,
+     "importe": 84624,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "MT-GAL",
+     "descripcion": "Galletitas de agua 300 g x 24 (lote 532)",
+     "cantidad": 27,
+     "precioUnitario": 32464.72,
+     "bonificacionPct": 15,
+     "importe": 745065.32,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 4893559.62
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1200
+  },
+  "ms": 4086
+ },
+ "94118035f4ea4761a5ea6f61bfb2c8ec": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bebidas Cumbre Andina S.A.",
+    "cuit": "30-71988590-6"
+   },
+   "puntoVenta": 12,
+   "numero": 8409,
+   "fecha": "2026-10-22",
+   "items": [
+    {
+     "codigo": "CA-CER",
+     "descripcion": "Cerveza rubia lata 473 ml x 24",
+     "cantidad": 20,
+     "precioUnitario": 38083.68,
+     "bonificacionPct": 12,
+     "importe": 670272.77,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-ENE",
+     "descripcion": "Bebida energizante 473 ml x 24",
+     "cantidad": 6,
+     "precioUnitario": 50793.6,
+     "bonificacionPct": 5,
+     "importe": 289523.52,
+     "alicuotaIva": 27
+    },
+    {
+     "codigo": "CA-JUG",
+     "descripcion": "Jugo de manzana 1 L x 12",
+     "cantidad": 28,
+     "precioUnitario": 19897.92,
+     "bonificacionPct": 0,
+     "importe": 557141.76,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-SOD",
+     "descripcion": "Soda en sifón 2 L x 6",
+     "cantidad": 19,
+     "precioUnitario": 5314.54,
+     "bonificacionPct": 12,
+     "importe": 88859.11,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-AGU",
+     "descripcion": "Agua mineral sin gas 2 L x 6",
+     "cantidad": 1,
+     "precioUnitario": 6497.04,
+     "bonificacionPct": 5,
+     "importe": 6172.19,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-LIM2",
+     "descripcion": "Gaseosa lima-limón 2,25 L x 8",
+     "cantidad": 1,
+     "precioUnitario": 14656.8,
+     "bonificacionPct": 0,
+     "importe": 14656.8,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-COL2",
+     "descripcion": "Gaseosa cola 2,25 L x 8",
+     "cantidad": 18,
+     "precioUnitario": 16534.56,
+     "bonificacionPct": 0,
+     "importe": 297622.08,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-CER",
+     "descripcion": "Cerveza rubia lata 473 ml x 24 (lote 909)",
+     "cantidad": 20,
+     "precioUnitario": 37511.28,
+     "bonificacionPct": 0,
+     "importe": 750225.6,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-ENE",
+     "descripcion": "Bebida energizante 473 ml x 24 (lote 793)",
+     "cantidad": 5,
+     "precioUnitario": 53697.6,
+     "bonificacionPct": 0,
+     "importe": 268488,
+     "alicuotaIva": 27
+    },
+    {
+     "codigo": "CA-JUG",
+     "descripcion": "Jugo de manzana 1 L x 12 (lote 970)",
+     "cantidad": 1,
+     "precioUnitario": 19325.46,
+     "bonificacionPct": 15,
+     "importe": 16426.64,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-SOD",
+     "descripcion": "Soda en sifón 2 L x 6 (lote 500)",
+     "cantidad": 31,
+     "precioUnitario": 5416.95,
+     "bonificacionPct": 5,
+     "importe": 159529.18,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-AGU",
+     "descripcion": "Agua mineral sin gas 2 L x 6 (lote 672)",
+     "cantidad": 34,
+     "precioUnitario": 6400.74,
+     "bonificacionPct": 7.5,
+     "importe": 201303.27,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-LIM2",
+     "descripcion": "Gaseosa lima-limón 2,25 L x 8 (lote 153)",
+     "cantidad": 30,
+     "precioUnitario": 14448.48,
+     "bonificacionPct": 10,
+     "importe": 390108.96,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 3710329.88,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 661986.86
+    },
+    {
+     "alicuota": 27,
+     "importe": 150663.11
+    }
+   ],
+   "percepciones": [],
+   "total": 4522979.85
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 1567
+  },
+  "ms": 4428
+ },
+ "015266fb5b527f946af027291f748a8b": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "FRIGORÍFICO MESETA BLANCA S.A.",
+    "cuit": "30-71988472-1"
+   },
+   "puntoVenta": 4,
+   "numero": 2986,
+   "fecha": "2026-10-22",
+   "items": [
+    {
+     "codigo": "000451",
+     "descripcion": "HAMBURGUESAS 80 G X 36",
+     "cantidad": 31,
+     "precioUnitario": 18331.2,
+     "bonificacionPct": 0,
+     "importe": 568267.2,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "000433",
+     "descripcion": "POLLO ENTERO CONGELADO (KG)",
+     "cantidad": 176.3,
+     "precioUnitario": 3046.05,
+     "bonificacionPct": 0,
+     "importe": 537018.62,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "000415",
+     "descripcion": "BOLA DE LOMO (KG)",
+     "cantidad": 101.9,
+     "precioUnitario": 9147.36,
+     "bonificacionPct": 0,
+     "importe": 932115.98,
+     "alicuotaIva": 10.5
+    }
+   ],
+   "netoGravado": 2037401.8,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 154259.13
+    },
+    {
+     "alicuota": 21,
+     "importe": 119336.11
+    }
+   ],
+   "percepciones": [],
+   "total": 2310997.04
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 545
+  },
+  "ms": 2837
+ },
+ "1f5ad0e43f1f542cb8d8cc985c90f099": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "FRIGORÍFICO MESETA BLANCA S.A.",
+    "cuit": "30-71988472-1"
+   },
+   "puntoVenta": 4,
+   "numero": 2994,
+   "fecha": "2026-10-22",
+   "items": [
+    {
+     "codigo": "000420",
+     "descripcion": "CARNE PICADA ESPECIAL (KG)",
+     "cantidad": 51.9,
+     "precioUnitario": 7046.83,
+     "bonificacionPct": 0,
+     "importe": 365730.48,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000412",
+     "descripcion": "MEDIA RES NOVILLO (KG)",
+     "cantidad": 90.9,
+     "precioUnitario": 6067.51,
+     "bonificacionPct": 0,
+     "importe": 551536.66,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000451",
+     "descripcion": "HAMBURGUESAS 80 G X 36",
+     "cantidad": 25,
+     "precioUnitario": 22511.81,
+     "bonificacionPct": 0,
+     "importe": 562795.25,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000447",
+     "descripcion": "CHORIZO PARRILLERO (KG)",
+     "cantidad": 452.1,
+     "precioUnitario": 8387.51,
+     "bonificacionPct": 0,
+     "importe": 3791993.27,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000433",
+     "descripcion": "POLLO ENTERO CONGELADO (KG)",
+     "cantidad": 90,
+     "precioUnitario": 3411.14,
+     "bonificacionPct": 0,
+     "importe": 307002.6,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000415",
+     "descripcion": "BOLA DE LOMO (KG)",
+     "cantidad": 326.7,
+     "precioUnitario": 10138.07,
+     "bonificacionPct": 0,
+     "importe": 3312107.47,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000420",
+     "descripcion": "CARNE PICADA ESPECIAL (KG) (LOTE 353)",
+     "cantidad": 380.9,
+     "precioUnitario": 7223.35,
+     "bonificacionPct": 0,
+     "importe": 2751374.02,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000412",
+     "descripcion": "MEDIA RES NOVILLO (KG) (LOTE 443)",
+     "cantidad": 250.6,
+     "precioUnitario": 6231.01,
+     "bonificacionPct": 0,
+     "importe": 1561491.11,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 13204030.86
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 957
+  },
+  "ms": 3698
+ },
+ "51336670f982309335e2327effa63368": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "Molino Tres Ríos S.A.",
+    "cuit": "30-71988236-2"
+   },
+   "puntoVenta": 7,
+   "numero": 2075,
+   "fecha": "2026-10-23",
+   "items": [
+    {
+     "codigo": "MT-FM500",
+     "descripcion": "Fideos mostachol 500 g x 20",
+     "cantidad": 37,
+     "precioUnitario": 21368.22,
+     "bonificacionPct": 0,
+     "importe": 790624.14,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "MT-PRE",
+     "descripcion": "Premezcla para pizza 1 kg x 10",
+     "cantidad": 23,
+     "precioUnitario": 19286.5,
+     "bonificacionPct": 0,
+     "importe": 443589.5,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "MT-H000",
+     "descripcion": "Harina 000 25 kg",
+     "cantidad": 31,
+     "precioUnitario": 19167.36,
+     "bonificacionPct": 0,
+     "importe": 594188.16,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "MT-H0000",
+     "descripcion": "Harina 0000 1 kg x 10",
+     "cantidad": 33,
+     "precioUnitario": 10087.21,
+     "bonificacionPct": 0,
+     "importe": 332877.93,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 2161279.73
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 544
+  },
+  "ms": 2689
+ },
+ "99b0f88ce34ca735406236e61393bcd0": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "Química Limpia Austral S.R.L.",
+    "cuit": "30-71988354-7"
+   },
+   "puntoVenta": 1,
+   "numero": 8278,
+   "fecha": "2026-10-24",
+   "items": [
+    {
+     "codigo": null,
+     "descripcion": "Detergente concentrado 750 ml x 12",
+     "cantidad": 25,
+     "precioUnitario": 23574.02,
+     "bonificacionPct": 15,
+     "importe": 500947.93,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": null,
+     "descripcion": "Desinfectante de pisos 900 ml x 12",
+     "cantidad": 15,
+     "precioUnitario": 20518.72,
+     "bonificacionPct": 0,
+     "importe": 307780.8,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 808728.73
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 340
+  },
+  "ms": 2459
+ },
+ "3bb48f43ef73dcb338cc5befaf04f1ff": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bodega Piedra Callada S.R.L.",
+    "cuit": "30-71988118-8"
+   },
+   "puntoVenta": 2,
+   "numero": 8245,
+   "fecha": "2026-10-27",
+   "items": [
+    {
+     "codigo": "PC-SAU-75",
+     "descripcion": "Sauvignon blanc 750 ml x 6",
+     "cantidad": 3,
+     "precioUnitario": 31528.44,
+     "bonificacionPct": 15,
+     "importe": 80397.52,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-MAL-75",
+     "descripcion": "Malbec reserva 750 ml x 6",
+     "cantidad": 11,
+     "precioUnitario": 43056,
+     "bonificacionPct": 15,
+     "importe": 402573.6,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-DAM-5L",
+     "descripcion": "Tinto de mesa damajuana 5 L",
+     "cantidad": 40,
+     "precioUnitario": 10191,
+     "bonificacionPct": 0,
+     "importe": 407640,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-ESP-75",
+     "descripcion": "Espumante extra brut 750 ml x 6",
+     "cantidad": 5,
+     "precioUnitario": 51437.16,
+     "bonificacionPct": 0,
+     "importe": 257185.8,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-MER-75",
+     "descripcion": "Merlot joven 750 ml x 6",
+     "cantidad": 31,
+     "precioUnitario": 28601.88,
+     "bonificacionPct": 3,
+     "importe": 860058.53,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-PIN-75",
+     "descripcion": "Pinot noir 750 ml x 6",
+     "cantidad": 28,
+     "precioUnitario": 46051.2,
+     "bonificacionPct": 2,
+     "importe": 1263644.93,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 3271500.38,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 687015.08
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Neuquén",
+     "importe": 81787.51
+    },
+    {
+     "concepto": "Percepción IVA RG 2408",
+     "importe": 98145.01
+    }
+   ],
+   "total": 4139447.98
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 877
+  },
+  "ms": 2839
+ },
+ "a08ea7c55010a19d0d365eba8211d5a1": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "Química Limpia Austral S.R.L.",
+    "cuit": "30-71988354-7"
+   },
+   "puntoVenta": 1,
+   "numero": 8294,
+   "fecha": "2026-10-27",
+   "items": [
+    {
+     "codigo": null,
+     "descripcion": "Desinfectante de pisos 900 ml x 12",
+     "cantidad": 26,
+     "precioUnitario": 20437.7,
+     "bonificacionPct": 0,
+     "importe": 531380.2,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": null,
+     "descripcion": "Esponja doble uso x 40",
+     "cantidad": 26,
+     "precioUnitario": 14420.48,
+     "bonificacionPct": 0,
+     "importe": 374932.48,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": null,
+     "descripcion": "Guantes de látex talle M x 12 pares",
+     "cantidad": 21,
+     "precioUnitario": 8879.44,
+     "bonificacionPct": 3,
+     "importe": 180874.19,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": null,
+     "descripcion": "Jabón líquido para ropa 3 L x 4",
+     "cantidad": 17,
+     "precioUnitario": 33986,
+     "bonificacionPct": 0,
+     "importe": 577762,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 1664498.87
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 539
+  },
+  "ms": 3264
+ },
+ "7dacf61614c4d709ec5229b896da8bb3": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bebidas Cumbre Andina S.A.",
+    "cuit": "30-71988590-6"
+   },
+   "puntoVenta": 12,
+   "numero": 8424,
+   "fecha": "2026-10-28",
+   "items": [
+    {
+     "codigo": "CA-JUG",
+     "descripcion": "Jugo de manzana 1 L x 12",
+     "cantidad": 8,
+     "precioUnitario": 19542.6,
+     "bonificacionPct": 10,
+     "importe": 140706.72,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-ENE",
+     "descripcion": "Bebida energizante 473 ml x 24",
+     "cantidad": 20,
+     "precioUnitario": 54331.2,
+     "bonificacionPct": 2,
+     "importe": 1064891.52,
+     "alicuotaIva": 27
+    },
+    {
+     "codigo": "CA-COL2",
+     "descripcion": "Gaseosa cola 2,25 L x 8",
+     "cantidad": 25,
+     "precioUnitario": 15624.84,
+     "bonificacionPct": 0,
+     "importe": 390621,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-CER",
+     "descripcion": "Cerveza rubia lata 473 ml x 24",
+     "cantidad": 19,
+     "precioUnitario": 39228.48,
+     "bonificacionPct": 0,
+     "importe": 745341.12,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-SOD",
+     "descripcion": "Soda en sifón 2 L x 6",
+     "cantidad": 7,
+     "precioUnitario": 5239.08,
+     "bonificacionPct": 0,
+     "importe": 36673.56,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 2378233.92,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 249535.06
+    },
+    {
+     "alicuota": 27,
+     "importe": 287520.71
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Río Negro",
+     "importe": 47564.68
+    },
+    {
+     "concepto": "Impuestos internos",
+     "importe": 95129.36
+    }
+   ],
+   "total": 3057983.73
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 788
+  },
+  "ms": 3271
+ },
+ "245cbe41233a5900f7b1a9da41d1e930": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Molino Tres Ríos S.A.",
+    "cuit": "30-71988236-2"
+   },
+   "puntoVenta": 7,
+   "numero": 2080,
+   "fecha": "2026-10-28",
+   "items": [
+    {
+     "codigo": "MT-PRE",
+     "descripcion": "Premezcla para pizza 1 kg x 10",
+     "cantidad": 17,
+     "precioUnitario": 15181.72,
+     "bonificacionPct": 0,
+     "importe": 258089.24,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "MT-H0000",
+     "descripcion": "Harina 0000 1 kg x 10",
+     "cantidad": 2,
+     "precioUnitario": 9355.5,
+     "bonificacionPct": 12,
+     "importe": 16465.68,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-FM500",
+     "descripcion": "Fideos mostachol 500 g x 20",
+     "cantidad": 22,
+     "precioUnitario": 18457.92,
+     "bonificacionPct": 0,
+     "importe": 406074.24,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-SEM",
+     "descripcion": "Sémola 1 kg x 10",
+     "cantidad": 19,
+     "precioUnitario": 11732.78,
+     "bonificacionPct": 10,
+     "importe": 200630.54,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-GAL",
+     "descripcion": "Galletitas de agua 300 g x 24",
+     "cantidad": 24,
+     "precioUnitario": 26256,
+     "bonificacionPct": 12,
+     "importe": 554526.72,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "MT-H000",
+     "descripcion": "Harina 000 25 kg",
+     "cantidad": 7,
+     "precioUnitario": 16754.88,
+     "bonificacionPct": 0,
+     "importe": 117284.16,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-FS500",
+     "descripcion": "Fideos spaghetti 500 g x 20",
+     "cantidad": 15,
+     "precioUnitario": 18757.44,
+     "bonificacionPct": 0,
+     "importe": 281361.6,
+     "alicuotaIva": 10.5
+    }
+   ],
+   "netoGravado": 1834432.18,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 214581.41
+    },
+    {
+     "alicuota": 21,
+     "importe": 170649.35
+    }
+   ],
+   "percepciones": [],
+   "total": 2219662.94
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 942
+  },
+  "ms": 3359
+ },
+ "53cb7d10c3d7d480d743545ddf8afb88": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bodega Piedra Callada S.R.L.",
+    "cuit": "30-71988118-8"
+   },
+   "puntoVenta": 2,
+   "numero": 8126,
+   "fecha": "2026-09-23",
+   "items": [
+    {
+     "codigo": "PC-DAM-5L",
+     "descripcion": "Tinto de mesa damajuana 5 L",
+     "cantidad": 19,
+     "precioUnitario": 9983.62,
+     "bonificacionPct": 0,
+     "importe": 189688.78,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-MAL-75",
+     "descripcion": "Malbec reserva 750 ml x 6",
+     "cantidad": 36,
+     "precioUnitario": 41193,
+     "bonificacionPct": 0,
+     "importe": 1482948,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-PIN-75",
+     "descripcion": "Pinot noir 750 ml x 6",
+     "cantidad": 36,
+     "precioUnitario": 47595.6,
+     "bonificacionPct": 0,
+     "importe": 1713441.6,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-MER-75",
+     "descripcion": "Merlot joven 750 ml x 6",
+     "cantidad": 7,
+     "precioUnitario": 28023.48,
+     "bonificacionPct": 0,
+     "importe": 196164.36,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-SAU-75",
+     "descripcion": "Sauvignon blanc 750 ml x 6",
+     "cantidad": 18,
+     "precioUnitario": 30802.56,
+     "bonificacionPct": 0,
+     "importe": 554446.08,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-ESP-75",
+     "descripcion": "Espumante extra brut 750 ml x 6",
+     "cantidad": 6,
+     "precioUnitario": 52327.62,
+     "bonificacionPct": 0,
+     "importe": 313965.72,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-DAM-5L",
+     "descripcion": "Tinto de mesa damajuana 5 L (lote 431)",
+     "cantidad": 21,
+     "precioUnitario": 9875,
+     "bonificacionPct": 0,
+     "importe": 207375,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 4658029.54,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 978186.2
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Neuquén",
+     "importe": 116450.74
+    },
+    {
+     "concepto": "Percepción IVA RG 2408",
+     "importe": 139740.89
+    }
+   ],
+   "total": 5892407.37
+  },
+  "uso": {
+   "entrada": 867,
+   "salida": 977
+  },
+  "ms": 3121
+ },
+ "7f2e309e12df360153e9d3193bffb0e7": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Lácteos Ñire Sur S.A.",
+    "cuit": "30-71988001-7"
+   },
+   "puntoVenta": 3,
+   "numero": 5111,
+   "fecha": "2026-09-02",
+   "items": [
+    {
+     "codigo": "LS-306",
+     "descripcion": "Queso de rallar horma (kg)",
+     "cantidad": 181.1,
+     "precioUnitario": 12866.54,
+     "bonificacionPct": 0,
+     "importe": 2330130.39,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 2330130.39,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 489327.38
+    }
+   ],
+   "percepciones": [],
+   "total": 2819457.77
+  },
+  "uso": {
+   "entrada": 1399,
+   "salida": 296
+  },
+  "ms": 2643
+ },
+ "31ab0455b56f03699c061125e2f5fc72": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Molino Tres Ríos S.A.",
+    "cuit": "30-71988236-2"
+   },
+   "puntoVenta": 7,
+   "numero": 1937,
+   "fecha": "2026-09-18",
+   "items": [
+    {
+     "codigo": "MT-SEM",
+     "descripcion": "Sémola 1 kg x 10",
+     "cantidad": 18,
+     "precioUnitario": 11618.98,
+     "bonificacionPct": 0,
+     "importe": 209141.64,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-FM500",
+     "descripcion": "Fideos mostachol 500 g x 20",
+     "cantidad": 9,
+     "precioUnitario": 19038.24,
+     "bonificacionPct": 0,
+     "importe": 171344.16,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-FS500",
+     "descripcion": "Fideos spaghetti 500 g x 20",
+     "cantidad": 19,
+     "precioUnitario": 18626.4,
+     "bonificacionPct": 0,
+     "importe": 353901.6,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "MT-PRE",
+     "descripcion": "Premezcla para pizza 1 kg x 10",
+     "cantidad": 39,
+     "precioUnitario": 15088.96,
+     "bonificacionPct": 0,
+     "importe": 588469.44,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "MT-H0000",
+     "descripcion": "Harina 0000 1 kg x 10",
+     "cantidad": 25,
+     "precioUnitario": 9100.35,
+     "bonificacionPct": 0,
+     "importe": 227508.75,
+     "alicuotaIva": 10.5
+    }
+   ],
+   "netoGravado": 1550365.59,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 100999.1
+    },
+    {
+     "alicuota": 21,
+     "importe": 123578.58
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Río Negro",
+     "importe": 31007.31
+    }
+   ],
+   "total": 1805950.58
+  },
+  "uso": {
+   "entrada": 1437,
+   "salida": 774
+  },
+  "ms": 4172
+ },
+ "d9d2f7e3cfb17456fb4b3d86b2f00ffc": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Química Limpia Austral S.R.L.",
+    "cuit": "30-71988354-7"
+   },
+   "puntoVenta": 1,
+   "numero": 8194,
+   "fecha": "2026-09-08",
+   "items": [
+    {
+     "codigo": null,
+     "descripcion": "Bolsa de residuos 60x90 x 100",
+     "cantidad": 24,
+     "precioUnitario": 9085.58,
+     "bonificacionPct": 0,
+     "importe": 218053.92,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Desinfectante de pisos 900 ml x 12",
+     "cantidad": 22,
+     "precioUnitario": 17175.24,
+     "bonificacionPct": 0,
+     "importe": 377855.28,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Jabón líquido para ropa 3 L x 4",
+     "cantidad": 27,
+     "precioUnitario": 28314.8,
+     "bonificacionPct": 0,
+     "importe": 764499.6,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Detergente concentrado 750 ml x 12",
+     "cantidad": 38,
+     "precioUnitario": 19919.58,
+     "bonificacionPct": 5,
+     "importe": 719096.84,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Guantes de látex talle M x 12 pares",
+     "cantidad": 33,
+     "precioUnitario": 7264.18,
+     "bonificacionPct": 0,
+     "importe": 239717.94,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Papel higiénico 30 m x 48",
+     "cantidad": 19,
+     "precioUnitario": 21364.56,
+     "bonificacionPct": 0,
+     "importe": 405926.64,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 2725150.22,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 572281.55
+    }
+   ],
+   "percepciones": [],
+   "total": 3297431.77
+  },
+  "uso": {
+   "entrada": 1427,
+   "salida": 816
+  },
+  "ms": 4138
+ },
+ "1c95a1cdb6fb4f89d0f20f04aa2f6ed8": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bodega Piedra Callada S.R.L.",
+    "cuit": "30-71988118-8"
+   },
+   "puntoVenta": 2,
+   "numero": 8126,
+   "fecha": "2026-09-23",
+   "items": [
+    {
+     "codigo": "PC-DAM-5L",
+     "descripcion": "Tinto de mesa damajuana 5 L",
+     "cantidad": 19,
+     "precioUnitario": 9983.62,
+     "bonificacionPct": 0,
+     "importe": 189688.78,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-MAL-75",
+     "descripcion": "Malbec reserva 750 ml x 6",
+     "cantidad": 36,
+     "precioUnitario": 41193,
+     "bonificacionPct": 0,
+     "importe": 1482948,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-PIN-75",
+     "descripcion": "Pinot noir 750 ml x 6",
+     "cantidad": 36,
+     "precioUnitario": 47595.6,
+     "bonificacionPct": 0,
+     "importe": 1713441.6,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-MER-75",
+     "descripcion": "Merlot joven 750 ml x 6",
+     "cantidad": 7,
+     "precioUnitario": 28023.48,
+     "bonificacionPct": 0,
+     "importe": 196164.36,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-SAU-75",
+     "descripcion": "Sauvignon blanc 750 ml x 6",
+     "cantidad": 18,
+     "precioUnitario": 30802.56,
+     "bonificacionPct": 0,
+     "importe": 554446.08,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-ESP-75",
+     "descripcion": "Espumante extra brut 750 ml x 6",
+     "cantidad": 6,
+     "precioUnitario": 52327.62,
+     "bonificacionPct": 0,
+     "importe": 313965.72,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-DAM-5L",
+     "descripcion": "Tinto de mesa damajuana 5 L (lote 431)",
+     "cantidad": 21,
+     "precioUnitario": 9875,
+     "bonificacionPct": 0,
+     "importe": 207375,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 4658029.54,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 978186.2
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Neuquén",
+     "importe": 116450.74
+    },
+    {
+     "concepto": "Percepción IVA RG 2408",
+     "importe": 139740.89
+    }
+   ],
+   "total": 5892407.37
+  },
+  "uso": {
+   "entrada": 1427,
+   "salida": 984
+  },
+  "ms": 3905
+ },
+ "1b2cc34bc0fa7e0f052aba4c3b35f2cd": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bodega Piedra Callada S.R.L.",
+    "cuit": "30-71988118-8"
+   },
+   "puntoVenta": 2,
+   "numero": 8189,
+   "fecha": "2026-09-27",
+   "items": [
+    {
+     "codigo": "PC-MAL-75",
+     "descripcion": "Malbec reserva 750 ml x 6",
+     "cantidad": 20,
+     "precioUnitario": 42228,
+     "bonificacionPct": 15,
+     "importe": 717876,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-PIN-75",
+     "descripcion": "Pinot noir 750 ml x 6",
+     "cantidad": 19,
+     "precioUnitario": 47689.2,
+     "bonificacionPct": 0,
+     "importe": 906094.8,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-DAM-5L",
+     "descripcion": "Tinto de mesa damajuana 5 L",
+     "cantidad": 17,
+     "precioUnitario": 9697.25,
+     "bonificacionPct": 3,
+     "importe": 159907.65,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-MER-75",
+     "descripcion": "Merlot joven 750 ml x 6",
+     "cantidad": 9,
+     "precioUnitario": 27763.2,
+     "bonificacionPct": 0,
+     "importe": 249868.8,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-SAU-75",
+     "descripcion": "Sauvignon blanc 750 ml x 6",
+     "cantidad": 6,
+     "precioUnitario": 31339.08,
+     "bonificacionPct": 12,
+     "importe": 165470.34,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "PC-ESP-75",
+     "descripcion": "Espumante extra brut 750 ml x 6",
+     "cantidad": 10,
+     "precioUnitario": 52170.48,
+     "bonificacionPct": 0,
+     "importe": 521704.8,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 2720922.39,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 571393.7
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Neuquén",
+     "importe": 68023.06
+    },
+    {
+     "concepto": "Percepción IVA RG 2408",
+     "importe": 81627.67
+    }
+   ],
+   "total": 3441966.82
+  },
+  "uso": {
+   "entrada": 1399,
+   "salida": 876
+  },
+  "ms": 4129
+ },
+ "6a7023987585c3c3e87afde26da0a163": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Química Limpia Austral S.R.L.",
+    "cuit": "30-71988354-7"
+   },
+   "puntoVenta": 1,
+   "numero": 8274,
+   "fecha": "2026-10-09",
+   "items": [
+    {
+     "codigo": null,
+     "descripcion": "Desinfectante de pisos 900 ml x 12",
+     "cantidad": 19,
+     "precioUnitario": 16572.6,
+     "bonificacionPct": 0,
+     "importe": 314879.4,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": null,
+     "descripcion": "Lavandina 5 L",
+     "cantidad": 19,
+     "precioUnitario": 3375.54,
+     "bonificacionPct": 0,
+     "importe": 64135.26,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 379014.66,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 79593.08
+    }
+   ],
+   "percepciones": [],
+   "total": 458607.74
+  },
+  "uso": {
+   "entrada": 1399,
+   "salida": 375
+  },
+  "ms": 2960
+ },
+ "7fb44b1edd524ae72bd7b041b24da035": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Lácteos Ñire Sur S.A.",
+    "cuit": "30-71988001-7"
+   },
+   "puntoVenta": 3,
+   "numero": 5237,
+   "fecha": "2026-10-02",
+   "items": [
+    {
+     "codigo": "LS-102",
+     "descripcion": "Leche descremada larga vida 1 L x 12",
+     "cantidad": 7,
+     "precioUnitario": 15519.28,
+     "bonificacionPct": 15,
+     "importe": 92339.72,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-520",
+     "descripcion": "Dulce de leche 1 kg x 6",
+     "cantidad": 17,
+     "precioUnitario": 20678.4,
+     "bonificacionPct": 7.5,
+     "importe": 325167.84,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-101",
+     "descripcion": "Leche entera larga vida 1 L x 12",
+     "cantidad": 17,
+     "precioUnitario": 14193,
+     "bonificacionPct": 7.5,
+     "importe": 223184.93,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-305",
+     "descripcion": "Queso cremoso horma (kg)",
+     "cantidad": 307.6,
+     "precioUnitario": 8931.56,
+     "bonificacionPct": 0,
+     "importe": 2747347.86,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-410",
+     "descripcion": "Manteca 200 g x 20",
+     "cantidad": 23,
+     "precioUnitario": 31545.6,
+     "bonificacionPct": 0,
+     "importe": 725548.8,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-530",
+     "descripcion": "Crema de leche 350 g x 12",
+     "cantidad": 17,
+     "precioUnitario": 22599.17,
+     "bonificacionPct": 0,
+     "importe": 384185.89,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-306",
+     "descripcion": "Queso de rallar horma (kg)",
+     "cantidad": 343.8,
+     "precioUnitario": 13170.37,
+     "bonificacionPct": 0,
+     "importe": 4527973.21,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-210",
+     "descripcion": "Yogur bebible frutilla 900 g x 6",
+     "cantidad": 23,
+     "precioUnitario": 12902.4,
+     "bonificacionPct": 0,
+     "importe": 296755.2,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-102",
+     "descripcion": "Leche descremada larga vida 1 L x 12 (lote 509)",
+     "cantidad": 12,
+     "precioUnitario": 14425.74,
+     "bonificacionPct": 0,
+     "importe": 173108.88,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-520",
+     "descripcion": "Dulce de leche 1 kg x 6 (lote 241)",
+     "cantidad": 8,
+     "precioUnitario": 21798.48,
+     "bonificacionPct": 0,
+     "importe": 174387.84,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-101",
+     "descripcion": "Leche entera larga vida 1 L x 12 (lote 224)",
+     "cantidad": 18,
+     "precioUnitario": 13794,
+     "bonificacionPct": 15,
+     "importe": 211048.2,
+     "alicuotaIva": 10.5
+    },
+    {
+     "codigo": "LS-305",
+     "descripcion": "Queso cremoso horma (kg) (lote 317)",
+     "cantidad": 429.7,
+     "precioUnitario": 8967.32,
+     "bonificacionPct": 15,
+     "importe": 3275268.79,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "LS-410",
+     "descripcion": "Manteca 200 g x 20 (lote 105)",
+     "cantidad": 28,
+     "precioUnitario": 30877.8,
+     "bonificacionPct": 0,
+     "importe": 864578.4,
+     "alicuotaIva": 21
+    }
+   ],
+   "netoGravado": 14020895.56,
+   "iva": [
+    {
+     "alicuota": 10.5,
+     "importe": 73466.58
+    },
+    {
+     "alicuota": 21,
+     "importe": 2797454.9
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Neuquén",
+     "importe": 420626.87
+    }
+   ],
+   "total": 17312443.91
+  },
+  "uso": {
+   "entrada": 1437,
+   "salida": 1634
+  },
+  "ms": 5282
+ },
+ "ccb84e79d1599409917a28b60c009af6": {
+  "json": {
+   "tipo": "A",
+   "proveedor": {
+    "razonSocial": "Bebidas Cumbre Andina S.A.",
+    "cuit": "30-71988590-6"
+   },
+   "puntoVenta": 12,
+   "numero": 8398,
+   "fecha": "2026-10-18",
+   "items": [
+    {
+     "codigo": "CA-CER",
+     "descripcion": "Cerveza rubia lata 473 ml x 24",
+     "cantidad": 24,
+     "precioUnitario": 37511.28,
+     "bonificacionPct": 0,
+     "importe": 900270.72,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-LIM2",
+     "descripcion": "Gaseosa lima-limón 2,25 L x 8",
+     "cantidad": 4,
+     "precioUnitario": 14686.56,
+     "bonificacionPct": 0,
+     "importe": 58746.24,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-ENE",
+     "descripcion": "Bebida energizante 473 ml x 24",
+     "cantidad": 23,
+     "precioUnitario": 51955.2,
+     "bonificacionPct": 0,
+     "importe": 1194969.6,
+     "alicuotaIva": 27
+    },
+    {
+     "codigo": "CA-JUG",
+     "descripcion": "Jugo de manzana 1 L x 12",
+     "cantidad": 10,
+     "precioUnitario": 19443.9,
+     "bonificacionPct": 0,
+     "importe": 194439,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-COL2",
+     "descripcion": "Gaseosa cola 2,25 L x 8",
+     "cantidad": 33,
+     "precioUnitario": 15497.16,
+     "bonificacionPct": 0,
+     "importe": 511406.28,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-AGU",
+     "descripcion": "Agua mineral sin gas 2 L x 6",
+     "cantidad": 1,
+     "precioUnitario": 6612.6,
+     "bonificacionPct": 0,
+     "importe": 6612.6,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-SOD",
+     "descripcion": "Soda en sifón 2 L x 6",
+     "cantidad": 8,
+     "precioUnitario": 5276.81,
+     "bonificacionPct": 0,
+     "importe": 42214.48,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-CER",
+     "descripcion": "Cerveza rubia lata 473 ml x 24 (lote 131)",
+     "cantidad": 7,
+     "precioUnitario": 37549.44,
+     "bonificacionPct": 0,
+     "importe": 262846.08,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-LIM2",
+     "descripcion": "Gaseosa lima-limón 2,25 L x 8 (lote 375)",
+     "cantidad": 34,
+     "precioUnitario": 14567.52,
+     "bonificacionPct": 0,
+     "importe": 495295.68,
+     "alicuotaIva": 21
+    },
+    {
+     "codigo": "CA-ENE",
+     "descripcion": "Bebida energizante 473 ml x 24 (lote 497)",
+     "cantidad": 18,
+     "precioUnitario": 52800,
+     "bonificacionPct": 0,
+     "importe": 950400,
+     "alicuotaIva": 27
+    }
+   ],
+   "netoGravado": 4617200.68,
+   "iva": [
+    {
+     "alicuota": 21,
+     "importe": 519084.53
+    },
+    {
+     "alicuota": 27,
+     "importe": 579249.79
+    }
+   ],
+   "percepciones": [
+    {
+     "concepto": "Percepción IIBB Río Negro",
+     "importe": 92344.01
+    },
+    {
+     "concepto": "Impuestos internos",
+     "importe": 184688.03
+    }
+   ],
+   "total": 5992567.04
+  },
+  "uso": {
+   "entrada": 1427,
+   "salida": 1316
+  },
+  "ms": 4885
+ },
+ "e1ca72066d5525cb6049d10578dc4ed3": {
+  "json": {
+   "tipo": "B",
+   "proveedor": {
+    "razonSocial": "FRIGORÍFICO MESETA BLANCA S.A.",
+    "cuit": "30-71988472-1"
+   },
+   "puntoVenta": 4,
+   "numero": 2994,
+   "fecha": "2026-10-22",
+   "items": [
+    {
+     "codigo": "000420",
+     "descripcion": "CARNE PICADA ESPECIAL (KG)",
+     "cantidad": 51.9,
+     "precioUnitario": 7046.83,
+     "bonificacionPct": 0,
+     "importe": 365730.48,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000412",
+     "descripcion": "MEDIA RES NOVILLO (KG)",
+     "cantidad": 90.9,
+     "precioUnitario": 6067.51,
+     "bonificacionPct": 0,
+     "importe": 551536.66,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000451",
+     "descripcion": "HAMBURGUESAS 80 G X 36",
+     "cantidad": 25,
+     "precioUnitario": 22511.81,
+     "bonificacionPct": 0,
+     "importe": 562795.25,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000447",
+     "descripcion": "CHORIZO PARRILLERO (KG)",
+     "cantidad": 452.1,
+     "precioUnitario": 8387.51,
+     "bonificacionPct": 0,
+     "importe": 3791993.27,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000433",
+     "descripcion": "POLLO ENTERO CONGELADO (KG)",
+     "cantidad": 90,
+     "precioUnitario": 3411.14,
+     "bonificacionPct": 0,
+     "importe": 307002.6,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000415",
+     "descripcion": "BOLA DE LOMO (KG)",
+     "cantidad": 326.7,
+     "precioUnitario": 10138.07,
+     "bonificacionPct": 0,
+     "importe": 3312107.47,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000420",
+     "descripcion": "CARNE PICADA ESPECIAL (KG) (LOTE 353)",
+     "cantidad": 380.9,
+     "precioUnitario": 7223.35,
+     "bonificacionPct": 0,
+     "importe": 2751374.02,
+     "alicuotaIva": null
+    },
+    {
+     "codigo": "000412",
+     "descripcion": "MEDIA RES NOVILLO (KG) (LOTE 443)",
+     "cantidad": 250.6,
+     "precioUnitario": 6231.01,
+     "bonificacionPct": 0,
+     "importe": 1561491.11,
+     "alicuotaIva": null
+    }
+   ],
+   "netoGravado": null,
+   "iva": [],
+   "percepciones": [],
+   "total": 13204030.86
+  },
+  "uso": {
+   "entrada": 1399,
+   "salida": 957
+  },
+  "ms": 4012
+ }
+}
