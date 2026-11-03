@@ -33,8 +33,8 @@ condensada, fondo gris frío sin crema y acento lima. Contraste AA a medir en P4
 
 | Proyecto | Display | Hue (≥ 30°) | Layout | Movimiento | Forma | Difiere en |
 |---|---|---|---|---|---|---|
-| PROPUESTA RED INMOBILIARIA | ✓ Montserrat vs Barlow Condensed | ✓ 25° vs 112° | ✓ | ✓ | ✓ | 5/5 |
-| PROPUESTA REY AUTOMOTOR | ✓ | ✓ 275° vs 112° | ✓ | ✓ | ✓ | 5/5 |
+| Propuesta inmobiliaria (no contratada) | ✓ Montserrat vs Barlow Condensed | ✓ 25° vs 112° | ✓ | ✓ | ✓ | 5/5 |
+| Propuesta concesionaria (no contratada) | ✓ | ✓ 275° vs 112° | ✓ | ✓ | ✓ | 5/5 |
 | turnolisto | ✓ Lexend vs Barlow Condensed | ✓ 188° vs 112° | ✓ | ✓ | ✓ fondo crema vs gris frío | 5/5 |
 | embudo | ✓ Space Grotesk vs Barlow Condensed | ✓ 150° vs 112° (38°) | ✓ grilla 8/4 vs bandeja + revisión a dos columnas | ✓ barras vs sello | ✓ | 5/5 |
 | fojas | ✓ Newsreader vs Barlow Condensed | ✓ 235° vs 112° | ✗ comparte "documento con algo al costado" (Fojas: margen de citas; Remito: documento al lado de campos editables) | ✓ | ✓ papel crema y sin radios vs gris frío y bordes de 2 px | 4/5 |
